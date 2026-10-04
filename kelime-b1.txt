@@ -1,150 +1,3263 @@
-achieve [eçiıv] : başarmak
-benefit [benefit] : fayda
-challenge [çalınc] : meydan okuma
-discover [diskavır] : keşfetmek
-efficient [efişınt] : verimli
-opportunity [opırtuuniti] : fırsat
-environment [envayrınmınt] : çevre
-frequently [friıkvıntli] : sıklıkla
-predict [pridikt] : tahmin etmek
-require [rikvayır] : gerektirmek
-accept [ıksept] : kabul etmek
-admit [ıdmit] : itiraf etmek
-afford [ıford] : (parası) yetmek
-apply [ıplay] : başvurmak
-argue [argyuu] : tartışmak
-arrange [ıreync] : ayarlamak, düzenlemek
-avoid [ıvoyd] : kaçınmak
-complain [kımpleyn] : şikayet etmek
-confirm [kınförm] : onaylamak
-consider [kınsidır] : göz önünde bulundurmak
-convince [kınvins] : ikna etmek
-deal with [diıl vid] : ilgilenmek, başa çıkmak
-deliver [dilivır] : teslim etmek
-depend [dipend] : bağlı olmak
-describe [diskrayb] : tarif etmek
-deserve [dizörv] : hak etmek
-develop [divelıp] : geliştirmek
-encourage [inköric] : cesaretlendirmek
-expect [ikspekt] : beklemek, ummak
-experience [ikspiıriıns] : deneyim
-fail [feyl] : başarısız olmak
-handle [hendıl] : halletmek
-include [inkluud] : içermek
-increase [inkriıs] : artırmak
-reduce [ridyuus] : azaltmak
-influence [influıns] : etkilemek, etki
-involve [involv] : kapsamak, dahil etmek
-manage [menic] : yönetmek, becermek
-mention [menşın] : bahsetmek
-notice [notis] : fark etmek
-offer [ofır] : teklif etmek
-organize [orgınayz] : düzenlemek, organize etmek
-prepare [priper] : hazırlamak
-pretend [pritend] : -mış gibi yapmak
-prevent [privent] : önlemek
-promise [promis] : söz vermek
-provide [prıvayd] : sağlamak
-realize [riılayz] : farkına varmak
-recommend [rekımend] : tavsiye etmek
-refuse [rifyuuz] : reddetmek
-regret [rigret] : pişman olmak
-replace [ripleys] : yerine koymak
-respect [rispekt] : saygı duymak
-share [şer] : paylaşmak
-solve [solv] : çözmek
-succeed [sıksiıd] : başarılı olmak
-suggest [sıcest] : önermek
-support [sıport] : desteklemek
-suppose [sıpoz] : sanmak, varsaymak
-trust [trast] : güvenmek
-ability [ıbiliti] : yetenek
-advantage [ıdventic] : avantaj
-disadvantage [disıdventic] : dezavantaj
-attitude [etituud] : tutum
-behaviour [biheyvyır] : davranış
-career [kıriır] : kariyer
-confidence [konfidıns] : özgüven
-decision [disijın] : karar
-effort [efırt] : çaba
-goal [gol] : hedef
-habit [hebit] : alışkanlık
-knowledge [nolic] : bilgi
-skill [skil] : beceri
-success [sıkses] : başarı
-mistake [misteyk] : hata
-reason [riızın] : sebep
-result [rizalt] : sonuç
-situation [siçueyşın] : durum
-solution [sıluuşın] : çözüm
-condition [kındişın] : koşul
-relationship [rileyşınşip] : ilişki
-responsibility [risponsıbiliti] : sorumluluk
-society [sısayıti] : toplum
-culture [kalçır] : kültür
-education [ecukeyşın] : eğitim
-health [helth] : sağlık
-pollution [pıluuşın] : kirlilik
-government [gavırnmınt] : hükümet
-public [pablik] : halk, kamu
-private [prayvıt] : özel
-average [evıric] : ortalama
-amount [ımawnt] : miktar
-quality [kvolıti] : kalite
-distance [distıns] : mesafe
-advertisement [edvırtayzmınt] : reklam
-equipment [ikvipmınt] : ekipman
-instructions [instrakşınz] : talimatlar
-purpose [pörpıs] : amaç
-emergency [imörcınsi] : acil durum
-opinion [ıpinyın] : görüş
-available [ıveylıbıl] : mevcut, müsait
-obvious [obviıs] : açık, belli
-necessary [nesıseri] : gerekli
-suitable [suutıbıl] : uygun
-familiar [fımilyır] : tanıdık
-serious [siıriıs] : ciddi
-strange [streync] : garip
-typical [tipikıl] : tipik
-recent [riısınt] : yakın zamanda olan
-confident [konfidınt] : kendinden emin
-curious [kyuriıs] : meraklı
-generous [cenırıs] : cömert
-honest [onist] : dürüst
-patient [peyşınt] : sabırlı
-reliable [rilayıbıl] : güvenilir
-responsible [risponsıbıl] : sorumlu
-embarrassed [imberıst] : utanmış
-disappointed [disıpoyntid] : hayal kırıklığına uğramış
-annoyed [ınoyd] : sinirlenmiş
-relaxed [rilekst] : rahatlamış
-grateful [greytfıl] : minnettar
-anxious [enkşıs] : kaygılı
-completely [kımpliıtli] : tamamen
-especially [ispeşıli] : özellikle
-probably [probıbli] : muhtemelen
-actually [ekçuıli] : aslında
-eventually [iventçuıli] : sonunda
-immediately [imiıdiıtli] : hemen
-recently [riısıntli] : son zamanlarda
-rarely [rerli] : nadiren
-although [oldo] : -e rağmen
-however [hawevır] : ancak
-instead [insted] : yerine
-unless [ınles] : -medikçe
-whether [vedır] : -ip -mediği
-apartment [ıpartmınt] : daire
-furniture [förniçır] : mobilya
-neighbourhood [neybırhud] : mahalle
-schedule [skecuul] : program, takvim
-deadline [dedlayn] : son teslim tarihi
-interview [intırvyuu] : mülakat
-promotion [prımoşın] : terfi
-receipt [risiıt] : fiş, makbuz
-refund [riıfand] : para iadesi
-discount [diskawnt] : indirim
-delay [diley] : gecikme
-destination [destineyşın] : varış noktası
-abroad [ıbrod] : yurt dışı
-symptom [simptım] : belirti
-prescription [priskripşın] : reçete
+abandon \[əbəndın\] : terk etmek
+ability \[ebiliti\] : yetenek, beceri
+able \[eybıl\] : yapabilen, muktedir
+aboard \[əbord\] : gemide, uçakta
+abolish \[əboliş\] : yürürlükten kaldırmak
+abroad \[əbrod\] : yurt dışında
+absence \[ebsıns\] : yokluk, bulunmama
+absolute \[ebsoluut\] : kesin, mutlak
+absolutely \[ebsolutli\] : kesinlikle, tamamen
+absorb \[əbzorby\] : emmek, içine çekmek
+abstract \[ebstrakt\] : soyut
+academic \[ekedemik\] : akademik
+accent \[eksent\] : aksan, şive
+accept \[əksept\] : kabul etmek
+acceptable \[əkseptıbıl\] : kabul edilebilir
+access \[ekses\] : erişim, ulaşmak
+accident \[eksidınt\] : kaza
+accidental \[eksidentıl\] : kazara olan
+accommodate \[əkomodeyt\] : konaklatmak, ağırlamak
+accommodation \[əkomudeyşın\] : konaklama
+accompany \[əkampani\] : eşlik etmek
+accomplish \[əkompliş\] : başarmak, tamamlamak
+according to \[əkording tu\] : -e göre
+account \[əkaunt\] : hesap, açıklama
+accountant \[əkauntınt\] : muhasebeci
+accurate \[ekyurıt\] : doğru, kesin
+accurately \[ekyurıtli\] : tam olarak, doğru bir şekilde
+accuse \[əkyuuz\] : suçlamak
+achieve \[əçiiv\] : başarmak, elde etmek
+achievement \[əçiivmınt\] : başarı
+acknowledge \[əknolic\] : kabul etmek, onaylamak
+acquire \[əkvayır\] : edinmek, kazanmak
+across \[əkros\] : karşıdan karşıya, genelinde
+act \[ekt\] : davranmak, eylem, rol yapmak
+action \[ekşın\] : eylem, hareket
+active \[ektiv\] : aktif, canlı
+actively \[ektivli\] : aktif bir şekilde
+activity \[ektiviti\] : etkinlik, faaliyet
+actor \[ektır\] : erkek oyuncu
+actress \[ektrıs\] : kadın oyuncu
+actual \[ekçuıl\] : gerçek, asıl
+actually \[ekçuıli\] : aslında, gerçekte
+adapt \[ədapt\] : uyum sağlamak, adapte olmak
+add \[ed\] : eklemek, katmak
+addition \[edişın\] : ek, ilave
+additional \[edişınıl\] : ek olarak, ilave
+address \[ədres\] : adres, hitap etmek
+adequate \[edikvıt\] : yeterli, uygun
+adjust \[əcast\] : ayarlamak, düzeltmek
+admiration \[edmireyşın\] : hayranlık
+admire \[ədmayır\] : hayran olmak
+admit \[ədmit\] : itiraf etmek, kabul etmek
+adopt \[ədopt\] : evlat edinmek, benimsemek
+adult \[edalt\] : yetişkin
+advance \[edvens\] : ilerlemek, gelişmek
+advanced \[edvenst\] : gelişmiş, ileri düzey
+advantage \[edventıc\] : avantaj, üstünlük
+adventure \[edvençır\] : macera
+advertise \[edvırtayz\] : reklam yapmak
+advertisement \[edvırtızmınt\] : reklam, ilan
+advice \[edvays\] : tavsiye, öğüt
+advise \[ədvayz\] : tavsiye vermek
+affair \[əfeyr\] : mesele, iş
+affect \[əfekt\] : etkilemek
+affection \[əfekşın\] : sevgi, şefkat
+afford \[əford\] : maddi gücü yetmek
+afraid \[əfreyd\] : korkmuş, endişeli
+afterward \[aftırvırd\] : sonradan, daha sonra
+against \[əgeynst\] : -e karşı
+aged \[eycid\] : yaşdaş, yaşında
+agency \[eycinsi\] : ajans, acente
+agenda \[əcendə\] : gündem
+agent \[eycınt\] : temsilci, ajan
+aggressive \[əgresiv\] : saldırgan, agresif
+ago \[əgou\] : önce
+agree \[əgrii\] : anlaşmak, aynı fikirde olmak
+agreement \[egriimınt\] : anlaşma, sözleşme
+ahead \[ahed\] : önde, ileride
+aid \[eyd\] : yardım, yardım etmek
+aim \[eym\] : amaç, hedeflemek
+aircraft \[eyrkraft\] : uçak, hava aracı
+airline \[eyrlayn\] : havayolu şirketi
+alarm \[alarm\] : alarm, panik
+album \[albım\] : albüm
+alcohol \[alkohol\] : alkol
+alien \[eyliyın\] : uzaylı, yabancı
+alike \[əlayk\] : benzer, aynı şekilde
+alive \[əlayv\] : canlı, hayatta
+allow \[əlau\] : izin vermek
+ally \[elay\] : müttefik
+almost \[olmost\] : neredeyse, hemen hemen
+alone \[əloun\] : yalnız, tek başına
+along \[elong\] : boyunca, yanında
+alphabet \[alfabet\] : alfabe
+already \[olredi\] : zaten, çoktan
+also \[olsou\] : ayrıca, de/da
+alter \[oltır\] : değiştirmek
+alternative \[oltırnativ\] : alternatif, seçenek
+alternatively \[oltırnativli\] : alternatif olarak
+although \[olthou\] : -e rağmen, karşın
+altogether \[oltugedır\] : hep birlikte, tamamen
+always \[olveys\] : her zaman, daima
+amaze \[əmeyz\] : şaşırtmak, hayrete düşürmek
+amazed \[əmeyzd\] : şaşırmış
+amazing \[əmeyzing\] : şaşırtıcı, harika
+ambition \[embişın\] : hırs, hedef
+ambitious \[embişıs\] : hırslı, azimli
+among \[emang\] : arasında (ikiden fazla)
+amount \[emaunt\] : miktar, tutar
+analyse \[enelayz\] : analiz etmek
+analysis \[enelisis\] : analiz, inceleme
+ancient \[eynşınt\] : antik, çok eski
+ancillary \[ansilıri\] : yardımcı, ek
+angle \[engıl\] : açı, bakış açısı
+angry \[engri\] : kızgın, öfkeli
+animal \[enımıl\] : hayvan
+anniversary \[eniversıri\] : yıl dönümü
+announce \[ənauns\] : duyurmak, ilan etmek
+announcement \[ənaunsmınt\] : duyuru, ilan
+annoy \[ənoy\] : rahatsız etmek, kızdırmak
+annoyed \[ənoyd\] : rahatsız olmuş, kızgın
+annoying \[ənoying\] : sinir bozucu
+annual \[enyuıl\] : yıllık
+annually \[enyuıli\] : yıllık olarak
+another \[enadır\] : başka, diğer bir
+answer \[ensır\] : cevap, yanıt vermek
+anxious \[enkşıs\] : endişeli, kaygılı
+anxiously \[enkşısli\] : endişeyle
+anybody \[enibodi\] : hiç kimse, herhangi biri
+anymore \[enimor\] : artık, bundan sonra
+anyone \[enivan\] : herhangi biri
+anything \[enithing\] : herhangi bir şey
+anyway \[enivey\] : her neyse, yine de
+anywhere \[eniveyr\] : herhangi bir yer
+apart \[epart\] : ayrı, ayrı olarak
+apartment \[epartmınt\] : daire, apartman
+apologize \[əpolocayz\] : özür dilemek
+apology \[əpoloci\] : özür
+apparent \[eperınt\] : bariz, aşikar
+apparently \[eperıntli\] : görünüşe göre
+appeal \[epiil\] : başvurmak, cezbetmek
+appear \[əpiyır\] : görünmek, belirmek
+appearance \[əpiyırıns\] : görünüş, dış görünüş
+application \[eplikeyşın\] : başvuru, uygulama
+apply \[əplay\] : başvurmak, uygulamak
+appoint \[əpoynt\] : atamak, tayin etmek
+appointment \[əpoyntmınt\] : randevu, atama
+appreciate \[əprişiyeyt\] : takdir etmek
+approach \[eprouç\] : yaklaşmak, yaklaşım
+appropriate \[epropriyet\] : uygun, yerinde
+approval \[epruuvıl\] : onay, kabul
+approve \[əpruuv\] : onaylamak
+approximate \[eproksimıt\] : yaklaşık, tahmini
+approximately \[eproksimıtli\] : yaklaşık olarak
+architect \[arkitekt\] : mimar
+architecture \[arkitekçır\] : mimari
+area \[eriya\] : alan, bölge
+argue \[argyuu\] : tartışmak, savunmak
+argument \[argyumınt\] : tartışma, iddia
+arise \[erayz\] : ortaya çıkmak, doğmak
+arm \[arm\] : kol, silahlandırmak
+army \[armi\] : ordu
+around \[eraund\] : etrafında, yaklaşık
+arrange \[əreync\] : düzenlemek, ayarlamak
+arrangement \[ereyncmınt\] : düzenleme, plan
+arrest \[ərest\] : tutuklamak
+arrival \[erayvıl\] : varış, geliş
+arrive \[erayv\] : varmak, ulaşmak
+arrow \[erou\] : ok, işaret oku
+art \[art\] : sanat
+article \[artıkıl\] : makale, madde, eşya
+artist \[artist\] : sanatçı
+artistic \[artistik\] : sanatsal
+as \[ez\] : olarak, gibi, çünkü
+ashamed \[eşeymd\] : utanmış, mahcup
+aside \[esayd\] : bir kenara, kenarda
+ask \[esk\] : sormak, istemek
+asleep \[esliip\] : uykuda, uyumuş
+aspect \[espekt\] : yön, bakış açısı
+assist \[esist\] : yardım etmek, desteklemek
+assistance \[esistıns\] : yardım, destek
+assistant \[esistınt\] : yardımcı, asistan
+associate \[esoşiyeyt\] : ilişkilendirmek, ortak
+association \[esoşiyeyşın\] : dernek, birlik
+assume \[esyum\] : varsaymak, üstlenmek
+assure \[eşuur\] : güvence vermek, temin etmek
+at \[et\] : -de/-da
+atmosphere \[etmosfiyır\] : atmosfer, hava
+attach \[etaç\] : eklemek, bağlamak
+attached \[etaçt\] : bağlı, ekli
+attack \[etak\] : saldırmak, saldırı
+attempt \[atempt\] : girişimde bulunmak, denemek
+attend \[atend\] : katılmak, devam etmek
+attention \[etenşın\] : dikkat, ilgi
+attitude \[etityuud\] : tutum, tavır
+attract \[atrakt\] : çekmek, cezbetmek
+attraction \[atrakşın\] : cazibe, turistik yer
+attractive \[atraktiv\] : çekici, cazip
+audience \[odiyıns\] : seyirci, dinleyici kitle
+author \[othır\] : yazar
+authority \[othoriti\] : otorite, yetki
+automatic \[otomatik\] : otomatik
+automatically \[otomatikli\] : otomatik olarak
+available \[eveylıbıl\] : mevcut, elverişli
+average \[evrıç\] : ortalama
+avoid \[əvoyd\] : kaçınmak, uzak durmak
+awake \[əveyk\] : uyanık
+award \[əvord\] : ödül, ödüllendirmek
+aware \[eveyr\] : farkında, bilinçli
+away \[əvey\] : uzakta, uzak
+awful \[oful\] : berbat, çok kötü
+awkward \[okvırd\] : beceriksiz, utanç verici
+baby \[beybi\] : bebek
+back \[bek\] : arka, sırt, geri
+background \[bekgraund\] : geçmiş, arka plan
+backward \[bekvırd\] : geriye doğru
+bacteria \[bakteriya\] : bakteri
+bad \[bed\] : kötü
+badly \[bedli\] : kötü bir şekilde, çok fazla
+bag \[beg\] : çanta
+baggage \[begıc\] : bagaj, valiz
+bake \[beyk\] : fırında pişirmek
+balance \[belıns\] : denge, bakiye
+ball \[bol\] : top, balo
+ban \[ben\] : yasaklamak, yasak
+band \[bend\] : müzik grubu, bant
+bank \[benk\] : banka, nehir kenarı
+bar \[bar\] : bar, engel, çubuk
+barely \[beyrli\] : neredeyse hiç, zorla
+bargain \[bargın\] : pazarlık, kelepir eşya
+barrier \[beriyır\] : engel, bariyer
+base \[beys\] : taban, üssü kurmak
+basic \[beysik\] : temel, basit
+basically \[beysikli\] : temelde, esasen
+basis \[beysis\] : temel, esas
+bath \[bath\] : banyo
+bathroom \[bathruum\] : banyo, tuvalet
+battery \[betıri\] : pil, batarya
+battle \[betıl\] : savaş, muharebe
+bay \[bey\] : koy, körfez
+be \[bii\] : olmak
+beach \[biiç\] : plaj, kumsal
+beak \[biik\] : gaga
+bear \[beyr\] : ayı, katlanmak, taşımak
+beard \[biyırd\] : sakal
+beat \[biit\] : vurmak, yenmek, ritim
+beautiful \[byutiful\] : güzel
+beauty \[byuti\] : güzellik
+because \[bikoz\] : çünkü, -den dolayı
+become \[bikam\] : olmak, haline gelmek
+bed \[bed\] : yatak
+bedroom \[bedruum\] : yatak odası
+beef \[biif\] : sığır eti
+beer \[biyır\] : bira
+before \[bifor\] : önce, önünde
+begin \[bigin\] : başlamak
+beginning \[bigining\] : başlangıç
+behalf \[bihaaf\] : adına, namına
+behave \[biheyv\] : davranmak
+behavior \[biheyvyır\] : davranış
+behind \[bihaynd\] : arkasında, gerisinde
+belief \[biliif\] : inanç, güven
+believe \[biliiv\] : inanmak
+bell \[bel\] : zil, çan
+belong \[bilong\] : ait olmak
+below \[bilou\] : altında, aşağıda
+belt \[belt\] : kemer, kayış
+bend \[bend\] : bükmek, eğilmek
+beneath \[biniith\] : altında, alt kısımda
+benefit \[benefit\] : fayda, yarar
+beside \[bisayd\] : yanında, bitişiğinde
+besides \[bisaydz\] : ayrıca, bundan başka
+best \[best\] : en iyi
+bet \[bet\] : bahis oynamak, iddiaya girmek
+better \[betır\] : daha iyi
+between \[bitviin\] : arasında (iki şeyin)
+beyond \[biyond\] : ötesinde
+bicycle \[baysıkıl\] : bisiklet
+bid \[bid\] : teklif vermek
+big \[big\] : büyük
+bike \[bayk\] : bisiklet, motosiklet
+bill \[bil\] : fatura, hesap, gaga
+billion \[bilyın\] : milyar
+bin \[bin\] : çöp kutusu
+biology \[bayoloci\] : biyoloji
+bird \[börd\] : kuş
+birth \[börth\] : doğum
+birthday \[börthdey\] : doğum günü
+biscuit \[biskit\] : bisküvi
+bit \[bit\] : biraz, küçük parça
+bite \[bayt\] : ısırmak, lokma
+bitter \[bitır\] : acı, keskin
+black \[blek\] : siyah
+blade \[bleyd\] : bıçak ağzı, bıçak
+blame \[bleym\] : suçlamak, ayıplamak
+blank \[blenk\] : boş, boşluk
+blanket \[blenkıt\] : battaniye
+bleed \[bliid\] : kanamak
+blind \[blaynd\] : kör, ama
+block \[blok\] : engellemek, blok
+blond \[blond\] : sarışın
+blood \[blad\] : kan
+blow \[blou\] : üflemek, darbe
+blue \[bluu\] : mavi
+board \[bord\] : tahta, binmek (uçağa/gemiye)
+boast \[boust\] : övünmek
+boat \[bout\] : tekne, bot
+body \[bodi\] : vücut, beden
+boil \[boyl\] : kaynamak, haşlamak
+bold \[bold\] : cesur, kalın yazılmış
+bomb \[bom\] : bomba, bombalamak
+bond \[bond\] : bağ, ilişki
+bone \[boun\] : kemik
+book \[buuk\] : kitap, rezerve etmek
+booking \[buuking\] : rezervasyon
+boot \[buut\] : bot, çizme, bagaj
+border \[bordır\] : sınır, hudut
+bored \[bord\] : sıkılmış
+boring \[boring\] : sıkıcı
+born \[born\] : doğmuş, doğmak
+borrow \[borou\] : ödünç almak
+boss \[bos\] : patron
+both \[both\] : her ikisi de
+bother \[bodır\] : rahatsız etmek, zahmet etmek
+bottle \[botıl\] : şişe
+bottom \[botım\] : alt, dip
+bound \[baund\] : bağlı, sınırlandırılmış
+bowl \[boul\] : kase, çanak
+box \[boks\] : kutu, boks yapmak
+boy \[boy\] : erkek çocuk
+boyfriend \[boyfrend\] : erkek arkadaş
+brain \[breyn\] : beyin
+branch \[brenç\] : dal, şube
+brand \[brend\] : marka
+brave \[breyv\] : cesur
+bread \[bred\] : ekmek
+break \[breyk\] : kırmak, mola vermek
+breakfast \[brekfıst\] : kahvaltı
+breast \[brest\] : göğüs
+breath \[breth\] : nefes, soluk
+breathe \[briidh\] : nefes almak
+breezy \[briizi\] : rüzgarlı, ferah
+brick \[brik\] : tuğla
+bridge \[bric\] : köprü
+brief \[briif\] : kısa, öz
+briefly \[briifli\] : kısaca
+bright \[brayt\] : parlak, zeki
+brilliant \[brilyınt\] : harika, çok zeki
+bring \[bring\] : getirmek
+broad \[brod\] : geniş, yaygın
+broadcast \[brodkast\] : yayınlamak, yayın
+broken \[broukın\] : kırık, bozuk
+brother \[bradır\] : erkek kardeş
+brown \[braun\] : kahverengi
+brush \[braş\] : fırçalamak, fırça
+bubble \[babıl\] : baloncuk
+budget \[bacıt\] : bütçe
+build \[bild\] : inşa etmek
+building \[bilding\] : bina, yapı
+bullet \[bulıt\] : mermi, kurşun
+bunch \[banç\] : demet, grup
+burn \[börn\] : yakmak, yanmak
+burst \[börst\] : patlamak
+bury \[beri\] : gömmek
+bus \[bas\] : otobüs
+bush \[buş\] : çalı
+business \[biznıs\] : iş, ticaret
+businessman \[biznısmen\] : iş adamı
+busy \[bizi\] : meşgul, yoğun
+but \[bat\] : fakat, ama
+butter \[batır\] : tereyağı
+button \[batın\] : düğme, buton
+buy \[bay\] : satın almak
+buyer \[bayır\] : alıcı, müşteri
+by \[bay\] : yanında, tarafından, ile
+bye \[bay\] : hoşça kal
+cabin \[kebin\] : kabin, kulübe
+cabinet \[kebinit\] : dolap, kabine
+cable \[keybıl\] : kablo
+cake \[keyk\] : pasta, kek
+calculate \[kalkyuleyt\] : hesaplamak
+call \[kol\] : aramak, çağırmak, isim vermek
+calm \[kaam\] : sakin, sakinleştirmek
+camera \[kemıra\] : kamera, fotoğraf makinesi
+camp \[kemp\] : kamp yapmak, kamp
+campaign \[kempeyn\] : kampanya
+camping \[kemping\] : kamp yapma
+can \[ken\] : -ebilmek, konserve kutusu
+cancel \[kensıl\] : iptal etmek
+cancer \[kensır\] : kanser
+candidate \[kendideyt\] : aday
+candle \[kendıl\] : mum
+candy \[kendi\] : şeker, tatlı
+cap \[kep\] : şapka, kapağı kapatmak
+capable \[keypıbıl\] : yetenekli, kapasiteli
+capacity \[kapasiti\] : kapasite, hacim
+capital \[kepıtıl\] : başkent, sermaye, büyük harf
+captain \[keptın\] : kaptan
+capture \[kepçır\] : yakalamak, ele geçirmek
+car \[kar\] : araba
+card \[kard\] : kart
+care \[keyr\] : önemsemek, bakım, özen
+career \[keriyır\] : kariyer, meslek
+careful \[keyrful\] : dikkatli, özenli
+carefully \[keyrfuli\] : dikkatlice
+careless \[keyrlıs\] : dikkatsiz, özensiz
+carpet \[harpıt\] : halı
+carrot \[kerıt\] : havuç
+carry \[keri\] : taşımak
+cartoon \[kartuun\] : çizgi film, karikatür
+case \[keys\] : durum, dava, kılıf
+cash \[keş\] : nakit para
+cast \[kast\] : oyuncu kadrosu, fırlatmak
+castle \[kasıl\] : kale, şato
+cat \[ket\] : kedi
+catch \[keç\] : yakalamak, tutmak
+category \[ketegori\] : kategori, sınıf
+cause \[koz\] : sebep olmak, neden olmak
+cd \[siidii\] : kompakt disk
+cease \[siis\] : durdurmak, sona ermek
+ceiling \[siiling\] : tavan
+celebrate \[selibreyt\] : kutlamak
+celebration \[selibreyşın\] : kutlama
+celebrity \[selebriti\] : ünlü kişi
+cell \[sel\] : hücre, hapis odası
+cell phone \[sel foun\] : cep telefonu
+cent \[sent\] : sent (para birimi)
+center \[sentır\] : merkez
+central \[sentrıl\] : merkezi
+centre \[sentır\] : merkez
+century \[sençuri\] : yüzyıl, asır
+ceremony \[serimoni\] : tören
+certain \[sörtın\] : belli, kesin
+certainly \[sörtınli\] : kesinlikle, şüphesiz
+chain \[çeyn\] : zincir
+chair \[çeyr\] : sandalye, başkanlık etmek
+chairman \[çeyrmın\] : başkan
+challenge \[çelınc\] : meydan okumak, zorluk
+chamber \[çeymbır\] : oda, bölme
+champion \[çempiyın\] : şampiyon
+championship \[çempiyınşip\] : şampiyona
+chance \[çens\] : şans, fırsat
+change \[çeync\] : değiştirmek, değişim, bozuk para
+channel \[çenıl\] : kanal
+chapter \[çeptır\] : bölüm, kısım
+character \[karaktır\] : karakter, kişilik
+characteristic \[karaktiristik\] : özellik, karakteristik
+charge \[çarc\] : şarj etmek, ücret talep etmek
+charity \[çeriti\] : hayır kurumu, bağış
+chart \[çart\] : grafik, çizelge
+chase \[çeys\] : kovalamak, peşinden koşmak
+chat \[çet\] : sohbet etmek, muhabbet
+cheap \[çiip\] : ucuz
+cheaply \[çiipli\] : ucuza, ucuza kaçarak
+cheat \[çiit\] : hile yapmak, aldatmak
+check \[çek\] : kontrol etmek, çek
+cheek \[çiik\] : yanak
+cheerful \[çiyrful\] : neşeli, şen
+cheese \[çiiz\] : peynir
+chef \[şef\] : aşçıbaşı, şef
+chemical \[kemikıl\] : kimyasal
+chemistry \[kemistri\] : kimya
+cheque \[çek\] : banka çeki
+chest \[çest\] : göğüs, sandık
+chicken \[çikın\] : tavuk
+chief \[çiif\] : şef, lider, ana
+child \[çayld\] : çocuk
+childhood \[çayldhuud\] : çocukluk
+chin \[çin\] : çene
+chip \[çip\] : cips, patates, yonga
+chocolate \[çoklıt\] : çikolata
+choice \[çoys\] : seçenek, seçim
+choose \[çuuz\] : seçmek
+chop \[çop\] : doğramak, kesmek
+church \[çörç\] : kilise
+cigarette \[sigaret\] : sigara
+cinema \[sinema\] : sinema
+circle \[sörkıl\] : daire, çember
+circumstance \[sörkomstens\] : durum, koşul
+citizen \[sitizın\] : vatandaş
+city \[siti\] : şehir, kent
+civil \[sivil\] : sivil, medeni
+claim \[kleym\] : iddia etmek, talep etmek
+clap \[klep\] : alkışlamak
+class \[klas\] : sınıf, ders
+classic \[klasik\] : klasik
+classical \[klasikıl\] : klasik (müzik/sanat)
+classroom \[klasruum\] : derslik, sınıf
+clean \[kliin\] : temiz, temizlemek
+clear \[kliyır\] : açık, net, temizlemek
+clearly \[kliyırli\] : açıkça, net bir şekilde
+clerk \[klərk\] : memur, tezgahtar
+clever \[klevır\] : zeki, akıllı
+click \[klik\] : tıklamak, tık sesi
+client \[klayınt\] : müşteri, müvekkil
+climate \[klaymıt\] : iklim
+climb \[klaym\] : tırmanmak
+clock \[klok\] : saat (duvar/masa)
+close \[klouz\] : kapatmak, yakın
+closed \[klouzd\] : kapalı
+closely \[klousli\] : yakından, dikkatle
+closet \[klozıt\] : dolab, gardırop
+cloth \[kloth\] : kumaş, bez
+clothes \[kloudhz\] : kıyafetler, giysiler
+clothing \[kloudhing\] : giyim, giysi
+cloud \[klaud\] : bulut
+club \[klab\] : kulüp, sopa
+coach \[kouç\] : antrenör, otobüs
+coal \[koul\] : kömür
+coast \[koust\] : sahil, kıyı
+coat \[kout\] : mont, kaban
+code \[koud\] : kod, şifre
+coffee \[kofi\] : kahve
+coin \[koyn\] : bozuk para
+cold \[kould\] : soğuk, soğuk algınlığı
+coldly \[kouldli\] : soğuk bir şekilde
+collapse \[koleps\] : çökmek, yıkılmak
+colleague \[koliig\] : meslektaş
+collect \[kolekt\] : toplamak, biriktirmek
+collection \[kolekşın\] : koleksiyon, toplama
+college \[kolic\] : kolej, üniversite
+color \[kalır\] : renk, renklendirmek
+column \[kolım\] : sütun, kolon
+combination \[kombineyşın\] : kombinasyon, birleşim
+combine \[kombayn\] : birleştirmek
+come \[kam\] : gelmek
+comedy \[komedi\] : komedi
+comfort \[kamfırt\] : rahatlık, konfor
+comfortable \[kamfırtıbıl\] : rahat, konforlu
+command \[komand\] : komut vermek, emir
+comment \[koment\] : yorum yapmak, yorum
+commercial \[komırşıl\] : ticari, reklam
+commission \[komişın\] : komisyon, görev
+commit \[komit\] : suç işlemek, taahhüt etmek
+commitment \[komitmınt\] : bağlılık, taahhüt
+committee \[komiti\] : komite, kurul
+common \[komın\] : yaygın, ortak
+commonly \[komınli\] : çoğunlukla, yaygın olarak
+communicate \[komyunikeyt\] : iletişim kurmak
+communication \[komyunikeyşın\] : iletişim
+community \[komyunitilik\] : topluluk
+company \[kampani\] : şirket, arkadaşlık
+compare \[komper\] : karşılaştırmak
+comparison \[komperısın\] : karşılaştırma
+compete \[kompiit\] : yarışmak, rekabet etmek
+competition \[kompetişın\] : yarışma, rekabet
+competitive \[kompetitiv\] : rekabetçi
+complain \[kompleyn\] : şikayet etmek
+complaint \[kompleynt\] : şikayet
+complete \[kompliit\] : tam, eksiksiz, tamamlamak
+completely \[kompliitli\] : tamamen, bütünüyle
+complex \[kompleks\] : karmaşık
+complicate \[komplikeyt\] : karmaşıklaştırmak
+complicated \[komplikeytid\] : karmaşık, zor
+component \[komponınt\] : bileşen, parça
+computer \[kompyutır\] : bilgisayar
+concentrate \[konsentreyt\] : odaklanmak
+concentration \[konsentreyşın\] : odaklanma, konsantrasyon
+concept \[konsept\] : kavram, fikir
+concern \[konsörn\] : endişe, ilgilendirmek
+concerned \[konsörnd\] : endişeli, ilgili
+concerning \[konsörning\] : -e ilişkin, konusunda
+concert \[konsırt\] : konser
+conclude \[konkluud\] : sonuçlandırmak
+conclusion \[konkluşın\] : sonuç, kanaat
+concrete \[konkriit\] : somut, beton
+condition \[kondişın\] : durum, şart
+conduct \[kondakt\] : yürütmek, iletmek
+conference \[konfırıns\] : konferans
+confidence \[konfidıns\] : güven, özgüven
+confident \[konfidınt\] : kendinden emin
+confine \[konfayn\] : sınırlandırmak
+confirm \[konfırm\] : onaylamak, doğrulamak
+conflict \[konflikt\] : çatışma, anlaşmazlık
+confuse \[konfyuuz\] : kafasını karıştırmak
+confused \[konfyuuzd\] : kafası karışmış
+confusing \[konfyuuzing\] : kafa karıştırıcı
+confusion \[konfyuujın\] : kafa karışıklığı
+congratulate \[kengreçuleyt\] : tebrik etmek
+congress \[kongres\] : kongre
+connect \[konekt\] : bağlanmak, birleştirmek
+connection \[konekşın\] : bağlantı, ilişki
+conscious \[konşıs\] : bilinçli, farkında
+consequence \[konsikvıns\] : sonuç, netice
+conservative \[konsırvativ\] : muhafazakar
+consider \[konsıdır\] : düşünmek, göz önünde bulundurmak
+considerable \[konsıdırobıl\] : önemli derecede, kayda değer
+considerably \[konsıdırobli\] : epey, oldukça
+consideration \[konsıdıreyşın\] : değerlendirme, düşünce
+consist \[konsist\] : -den oluşmak
+consistent \[konsistınt\] : tutarlı, istikrarlı
+constant \[konstınt\] : sabit, sürekli
+constantly \[konstıntli\] : sürekli olarak
+construct \[konstrakt\] : inşa etmek, yapmak
+construction \[konstrakşın\] : inşaat, yapım
+consult \[konsalt\] : danışmak
+consumer \[konsyumır\] : tüketici
+contact \[kontakt\] : temas, iletişim kurmak
+contain \[konteyn\] : içermek, kapsamak
+container \[konteynır\] : kap, konteyner
+contemporary \[kontemporeri\] : çağdaş, modern
+content \[kontent\] : içerik, memnun
+contest \[kontest\] : yarışma
+context \[kontekst\] : bağlam, ortam
+continent \[kontinınt\] : kıta
+continue \[kontinyu\] : devam etmek
+continuous \[kontinyuıs\] : sürekli, kesintisiz
+contract \[kontrakt\] : sözleşme, kontrat
+contrast \[kontrast\] : karşılaştırmak, zıtlık
+contribute \[kontribyuut\] : katkıda bulunmak
+contribution \[kontribyuuşın\] : katkı
+control \[kontrol\] : kontrol etmek, denetim
+convenient \[konviiniyınt\] : uygun, elverişli
+convention \[konvenşın\] : gelenek, kongre
+conventional \[konvenşınıl\] : geleneksel
+conversation \[konvırseyşın\] : sohbet, konuşma
+convert \[konvört\] : dönüştürmek
+convinse \[konvins\] : ikna etmek
+cook \[kuuk\] : yemek pişirmek, aşçı
+cooker \[kuukır\] : ocak, yemek pişirme aleti
+cookie \[kuuki\] : kurabiye
+cooking \[kuuking\] : yemek pişirme
+cool \[kuul\] : serin, havalı
+cope \[koup\] : başa çıkmak, üstesinden gelmek
+copy \[kopi\] : kopyalamak, kopya
+core \[kor\] : çekirdek, öz
+corner \[kornır\] : köşe
+correct \[korekt\] : doğru, düzeltmek
+correctly \[korektli\] : doğru bir şekilde
+cost \[kost\] : mal olmak, maliyet
+cottage \[kotıc\] : kulübe, kır evi
+cotton \[kotın\] : pamuk
+cough \[kof\] : öksürmek, öksürük
+could \[kuud\] : -ebildi, -ebilirdi
+council \[kaunsıl\] : konsey, meclis
+count \[kaunt\] : saymak, hesaba katmak
+counter \[kauntır\] : tezgah, karşı taraf
+country \[kantri\] : ülke, kır tarafı
+countryside \[kantrisayd\] : kırsal bölge
+county \[kaunti\] : ilçe, eyalet bölgesi
+couple \[kapıl\] : çift, birkaç
+courage \[karıc\] : cesaret
+course \[kors\] : kurs, rota, yemek sırası
+court \[kort\] : mahkeme, kort
+cousin \[kazın\] : kuzen
+cover \[kavır\] : örtmek, kaplamak, kapak
+covered \[kavırd\] : kaplı, örtülü
+cow \[kau\] : inek
+crack \[krek\] : çatlamak, yarık
+crafted \[kraftid\] : işlenmiş, el yapımı
+crash \[kreş\] : çarpmak, kaza yapmak
+crazy \[kreyzi\] : çılgın, deli
+cream \[kriim\] : krema, krem
+create \[kriyeyt\] : yaratmak, oluşturmak
+creation \[kriyeyşın\] : yaratılış, eser
+creative \[kriyeytiv\] : yaratıcı
+creature \[kriiçır\] : yaratık, canlı
+credit \[kredit\] : kredi, itibar
+crime \[kraym\] : suç
+criminal \[kriminıl\] : suçlu
+crisis \[kraysis\] : kriz
+crisp \[krisp\] : cips, çıtır
+criterion \[kraytiriyın\] : kriter, ölçüt
+critic \[kritik\] : eleştirmen
+critical \[kritikıl\] : eleştirel, kritik, hayati
+criticism \[kritisizm\] : eleştiri
+criticize \[kritisayz\] : eleştirmek
+crop \[krop\] : ekin, ürün
+cross \[kros\] : geçmek, çapraz, kızgın
+crowd \[kraud\] : kalabalık
+crowded \[kraudid\] : kalabalık
+crucial \[kruuşıl\] : çok önemli, kritik
+cruel \[kruul\] : zalim, acımasız
+cry \[kray\] : ağlamak, bağırmak
+cultural \[kalçırıl\] : kültürel
+culture \[kalçır\] : kültür
+cup \[kap\] : fincan, kupa
+cupboard \[kabırd\] : dolap
+cure \[kyuur\] : iyileştirmek, çare
+curious \[kyuriyıs\] : meraklı
+curl \[körl\] : kıvrılmak, bukle
+curly \[körli\] : kıvırcık
+current \[karınt\] : akım, mevcut, güncel
+currently \[karıntli\] : şu anda, halen
+curtain \[körtın\] : perde
+curve \[körv\] : eğri, bükülmek
+custom \[kastım\] : gelenek, görenek
+customer \[kastımır\] : müşteri
+customs \[kastımz\] : gümrük
+cut \[kat\] : kesmek, kesik
+cute \[kyuut\] : sevimli, şirin
+cycle \[saykıl\] : bisiklete binmek, döngü
+daily \[deyli\] : günlük
+damage \[demıc\] : zarar vermek, hasar
+damp \[demp\] : nemli, rutubetli
+dance \[dans\] : dans etmek, dans
+dancer \[dansır\] : dansçı
+danger \[deyncır\] : tehlike
+dangerous \[deyncırıs\] : tehlikeli
+dare \[deyr\] : cesaret etmek
+dark \[dark\] : karanlık, koyu
+darkness \[darknıs\] : karanlık
+data \[deyta\] : veri, bilgi
+database \[deytabeys\] : veri tabanı
+date \[deyt\] : tarih, randevu, hurma
+daughter \[dotır\] : kız evlat
+day \[dey\] : gün
+dead \[ded\] : ölü
+deaf \[def\] : sağır
+deal \[diil\] : ele almak, anlaşma
+dealer \[diilır\] : satıcı, bayi
+dear \[diyır\] : sevgili, değerli
+death \[deth\] : ölüm
+debate \[dibeyt\] : tartışmak, münazara
+debt \[det\] : borç
+decade \[dekeyd\] : on yıl
+decay \[dikey\] : çürümek, bozulmak
+decent \[diisınt\] : düzgün, terbiyeli
+decide \[disayd\] : karar vermek
+decision \[disicın\] : karar
+declare \[dikleyr\] : ilan etmek, beyan etmek
+decline \[diklayn\] : reddetmek, düşüş
+decorate \[dekoreyt\] : dekore etmek, süslemek
+decoration \[dekoreyşın\] : dekorasyon, süs
+decrease \[dikriis\] : azalmak, azaltmak
+deep \[diip\] : derin
+deeply \[diipli\] : derinden, son derece
+defeat \[difiit\] : yenmek, mağlubiyet
+defend \[difend\] : savunmak
+defense \[difens\] : savunma
+defendable \[difendıbıl\] : savunulabilir
+define \[difayn\] : tanımlamak
+definite \[definit\] : kesin, belirli
+definitely \[definitli\] : kesinlikle
+definition \[definişın\] : tanım
+degree \[digrii\] : derece, diploma
+delay \[diley\] : geciktirmek, ertelemek
+deliberately \[dilibırıtli\] : kasten, bilerek
+delicate \[delikıt\] : narin, hassas
+delight \[dilayt\] : zevk, neşe
+delighted \[dilaytid\] : çok memnun, sevinçli
+deliver \[dilivır\] : teslim etmek
+delivery \[dilivıri\] : teslimat
+demand \[dimand\] : talep etmek, talep
+demonstrate \[demonstreyt\] : göstermek, kanıtlamak
+dentist \[dentist\] : diş hekimi
+deny \[dinay\] : inkar etmek, reddetmek
+department \[dipartmınt\] : departman, bölüm
+departure \[dipartçır\] : kalkış, ayrılış
+depend \[dipend\] : bağlı olmak, güvenmek
+deposit \[dipozit\] : mevduat, depozito
+depressed \[diprest\] : bunalımlı, depresif
+depressing \[dipresing\] : kasvetli, üzücü
+depth \[depth\] : derinlik
+derive \[dirayv\] : türetmek, -den kaynaklanmak
+describe \[diskrayb\] : tanımlamak, betimlemek
+description \[diskripşın\] : tanım, betimleme
+desert \[dezırt\] : çöl
+deserve \[dizörv\] : hak etmek
+design \[dizayn\] : tasarlamak, tasarım
+designer \[dizaynır\] : tasarımcı
+desire \[dizayır\] : arzulamak, istek
+desk \[desk\] : çalışma masası
+desperate \[despırıt\] : umutsuz, çaresiz
+despite \[dispayt\] : -e rağmen
+destroy \[distroy\] : yok etmek, tahrip etmek
+destruction \[distrakşın\] : yıkım, tahribat
+detail \[diiteyl\] : detay, ayrıntı
+detailed \[diiteyld\] : detaylı, ayrıntılı
+determination \[ditırmineyşın\] : kararlılık, azim
+determine \[ditırmin\] : belirlemek, karar vermek
+determined \[ditırmind\] : kararlı, azimli
+develop \[divelop\] : geliştirmek, gelişmek
+development \[divelopmınt\] : gelişim, ilerleme
+device \[divays\] : cihaz, alet
+devote \[divout\] : adamak
+diagram \[dayagram\] : şema, diyagram
+dialogue \[dayalog\] : diyalog
+diamond \[daymınd\] : elmas
+diary \[dayıri\] : günlük, ajanda
+dictionary \[dikşınri\] : sözlük
+die \[day\] : ölmek
+diet \[dayıt\] : diyet, beslenme
+difference \[difrıns\] : fark
+different \[difrınt\] : farklı
+differently \[difrıntli\] : farklı bir şekilde
+difficult \[difikalt\] : zor, güç
+difficulty \[difikalti\] : zorluk, güçlük
+dig \[dig\] : kazmak
+digital \[dicitıl\] : dijital
+dinner \[dinır\] : akşam yemeği
+direct \[direkt\] : doğrudan, yönlendirmek
+direction \[direkşın\] : yön, talimat
+directly \[direktli\] : doğrudan
+director \[direktır\] : yönetmen, müdür
+dirt \[dört\] : kir, pislik
+dirty \[dirti\] : kirli
+disability \[disabiliti\] : engel, sakatlık
+disabled \[diseybıld\] : engelli, sakat
+disadvantage \[disedventıc\] : dezavantaj
+disagree \[disəgrii\] : aynı fikirde olmamak
+disagreeable \[disəgriıbıl\] : hoşa gitmeyen
+disappear \[disəpiyır\] : gözden kaybolmak
+disappoint \[disapoynt\] : hayal kırıklığına uğratmak
+disappointed \[disapoyntid\] : hayal kırıklığına uğramış
+disappointing \[disapoynting\] : hayal kırıklığı yaratan
+disappointment \[disapoyntmınt\] : hayal kırıklığı
+disaster \[dizastır\] : felaket, afet
+disc \[disk\] : disk, plak
+discipline \[disiplin\] : disiplin
+discount \[diskaunt\] : indirim
+discover \[diskavır\] : keşfetmek
+discovery \[diskavıri\] : keşif
+discuss \[diskas\] : tartışmak, konuşmak
+discussion \[diskaşın\] : tartışma, görüşme
+disease \[diziiz\] : hastalık
+disgust \[disgast\] : tiksinti, iğrençlik
+dish \[diş\] : tabak, yemek
+dishonest \[disonist\] : dürüst olmayan
+disk \[disk\] : disk
+dislike \[dislayk\] : hoşlanmamak
+dismiss \[dismis\] : kovmak, reddetmek
+display \[displey\] : sergilemek, ekran
+distance \[distıns\] : mesafe, uzaklık
+distant \[distınt\] : uzak, mesafeli
+distribute \[distribyuut\] : dağıtmak
+distribution \[distribyuuşın\] : dağıtım
+district \[distrikt\] : bölge, semt
+disturb \[distörb\] : rahatsız etmek
+disturbing \[distörbing\] : rahatsız edici
+divide \[divayd\] : bölmek, ayırmak
+division \[divijın\] : bölüm, bölünme
+divorce \[divors\] : boşanmak, boşanma
+divorced \[divorst\] : boşanmış
+do \[du\] : yapmak
+doctor \[doktır\] : doktor
+document \[dokyumınt\] : belge, doküman
+dog \[dog\] : köpek
+dollar \[dolır\] : dolar
+domestic \[domestik\] : evcil, iç (ülke içi)
+dominate \[domineyt\] : hükmetmek, domine etmek
+door \[dor\] : kapı
+dot \[dot\] : nokta
+double \[dabıl\] : çift, iki katı
+doubt \[daut\] : şüphe, şüphelenmek
+down \[daun\] : aşağı, aşağıya
+download \[daunloud\] : indirmek (internet)
+downstairs \[daunsteyrz\] : alt kat, aşağısı
+downturn \[dauntörn\] : düşüş, gerileme
+dramatic \[dramatik\] : dramatik, çarpıcı
+dramatically \[dramatikli\] : önemli ölçüde
+draw \[dro\] : çizmek, çekmek
+drawer \[dror\] : çekmece
+drawing \[droing\] : çizim, resim
+dream \[driim\] : rüya görmek, hayal etmek
+dress \[dres\] : elbise, giyinmek
+dressed \[drest\] : giyinmiş
+drink \[drink\] : içmek, içecek
+drive \[drayv\] : sürmek, araba kullanmak
+driver \[drayvır\] : sürücü, şoför
+drop \[drop\] : düşürmek, damla
+drug \[drag\] : ilaç, uyuşturucu
+drugstore \[dragstor\] : eczane
+drum \[dram\] : davul
+drunk \[drank\] : sarhoş
+dry \[dray\] : kuru, kurutmak
+due \[dyuu\] : vadesi gelmiş, beklenen
+due to \[dyuu tu\] : -den dolayı
+dull \[dal\] : sıkıcı, mat
+dump \[damp\] : dökmek, çöplük
+during \[dyuring\] : sırasında, boyunca
+dust \[dast\] : toz, tozunu almak
+duty \[dyuti\] : görev, sorumluluk
+dvd \[dividii\] : dvd
+e-mail \[iimeyl\] : e-posta
+each \[iiç\] : her biri
+eager \[iigır\] : istekli, hevesli
+ear \[iyır\] : kulak
+early \[örli\] : erken
+earn \[örn\] : para kazanmak, hak etmek
+earth \[örth\] : dünya, toprak
+ease \[iiz\] : kolaylaştırmak, rahatlık
+easily \[iizili\] : kolayca
+east \[iist\] : doğu
+eastern \[iistırn\] : doğudaki
+easy \[iizi\] : kolay
+eat \[iit\] : yemek yemek
+economic \[ekonomik\] : ekonomik
+economics \[ekonomiks\] : ekonomi bilimi
+economy \[ekonomi\] : ekonomi
+edge \[ec\] : kenar, köşe
+edition \[edişın\] : basım, yayın
+editor \[editır\] : editör
+educate \[ecukeyt\] : eğitmek
+educated \[ecukeytid\] : eğitimli
+education \[ecukeyşın\] : eğitim
+educational \[ecukeyşınıl\] : eğitici, eğitimsel
+effect \[ifekt\] : etki
+effective \[efektiv\] : etkili
+effectively \[efektivli\] : etkili bir şekilde
+efficient \[efişınt\] : verimli, etkin
+effort \[efort\] : çaba, gayret
+egg \[eg\] : yumurta
+eight \[eyt\] : sekiz
+eighteen \[eytiin\] : on sekiz
+eighty \[eyti\] : seksen
+either \[iydır\] : ya ... ya da, her iki
+elderly \[eldırli\] : yaşlı
+elect \[ilekt\] : seçmek (oyla)
+election \[ilekşın\] : seçim
+electric \[elektrik\] : elektrikli
+electrical \[elektrikıl\] : elektriksel
+electricity \[elektrisiti\] : elektrik
+electronic \[elektronik\] : elektronik
+element \[elimınt\] : element, unsur
+elementary \[elimentıri\] : temel, başlangıç seviyesi
+elephant \[elifınt\] : fil
+elevator \[eliveytır\] : asansör
+eleven \[ilevın\] : on bir
+else \[els\] : başka
+elsewhere \[elsveyr\] : başka bir yerde
+embarrass \[imberıs\] : utandırmak
+embarrassed \[imberıst\] : utanmış, mahcup
+embarrassing \[imberısing\] : utanç verici
+embarrassment \[imberısmınt\] : utanç
+emerge \[imörc\] : ortaya çıkmak
+emergency \[imörcinsi\] : acil durum
+emotion \[imoşın\] : duygu, his
+emotional \[imoşınıl\] : duygusal
+emphasis \[emfasis\] : vurgu
+emphasize \[emfasayz\] : vurgulamak
+empire \[empayır\] : imparatorluk
+employ \[ımploy\] : işe almak, çalıştırmak
+employee \[ımployii\] : çalışan, işçi
+employer \[ımployır\] : işveren
+employment \[ımploymınt\] : istihdam, iş
+empty \[empti\] : boş, boşaltmak
+enable \[ıneybıl\] : olanak tanımak, imkan vermek
+encounter \[enkauntır\] : karşılaşmak
+encourage \[enkırıc\] : teşvik etmek
+encouragement \[enkırıcmınt\] : teşvik
+end \[end\] : son, bitirmek
+ending \[ending\] : son, bitiş
+enemy \[enimi\] : düşman
+energy \[enerci\] : enerji
+engage \[engeyc\] : meşgul olmak, nişanlanmak
+engaged \[engeycd\] : nişanlı, meşgul
+engine \[encin\] : motor
+engineer \[enciniyır\] : mühendis
+engineering \[enciniyring\] : mühendislik
+enjoy \[encoy\] : keyif almak, tadını çıkarmak
+enjoyable \[encoyəbıl\] : eğlenceli, keyifli
+enormous \[enormıs\] : devasa, çok büyük
+enough \[ınaf\] : yeterli, yeterince
+enquiry \[ınkvayıri\] : sorgu, danışma
+ensure \[ınşuur\] : garantiye almak, sağlamak
+enter \[entır\] : girmek
+entertain \[entırteyn\] : eğlendirmek
+entertaining \[entırteyning\] : eğlenceli
+entertainment \[entırteynmınt\] : eğlence
+enthusiasm \[enthuziyazm\] : coşku, heves
+enthusiastic \[enthuziyastik\] : hevesli, coşkulu
+entire \[entayır\] : tüm, bütün
+entirely \[entayırli\] : tamamen
+entrance \[entrıns\] : giriş
+entry \[entri\] : giriş, kayıt
+envelope \[envelop\] : zarf
+environment \[envayronmınt\] : çevre, ortam
+environmental \[envayronmentıl\] : çevresel
+equal \[iikvıl\] : eşit
+equally \[iikvıli\] : eşit olarak
+equipment \[ıkvipmınt\] : ekipman, teçhizat
+equivalent \[ıkvivılınt\] : eşdeğer, denk
+error \[erır\] : hata, yanlış
+escape \[iskeyp\] : kaçmak, kurtulmak
+especially \[espeşıli\] : özellikle
+essay \[esey\] : deneme, makale
+essential \[esenşıl\] : temel, gerekli, hayati
+essentially \[esenşıli\] : esasen, özünde
+establish \[establiş\] : kurmak, tesis etmek
+estate \[esteyt\] : mülk, emlak
+estimate \[estimeyt\] : tahmin etmek, değerlendirmek
+evaluate \[evalyueyt\] : değerlendirmek
+even \[iivın\] : bile, hatta, çift sayı
+evening \[iivning\] : akşam
+event \[ivent\] : etkinlik, olay
+eventually \[ivençuıli\] : sonunda, nihayetinde
+ever \[evır\] : hiç, herhangi bir zamanda
+every \[evri\] : her
+everybody \[evribodi\] : herkes
+everyone \[evrivan\] : herkes
+everything \[evrithing\] : her şey
+everywhere \[evriveyr\] : her yer
+evidence \[evidıns\] : kanıt, delil
+evil \[iivıl\] : kötü, fena
+exact \[igzekt\] : tam, kesin
+exactly \[igzektli\] : tam olarak
+exaggerate \[igzacıreyt\] : abartmak
+exam \[igzem\] : sınav
+examination \[igzemineyşın\] : inceleme, sınav
+examine \[igzemin\] : incelemek, muayene etmek
+example \[igzampıl\] : örnek
+excellent \[eksılınt\] : mükemmel
+except \[iksept\] : hariç, dışında
+exception \[iksepşın\] : istisna
+exchange \[iksçeync\] : takas etmek, döviz
+excite \[iksayt\] : heyecanlandırmak
+excited \[iksaytid\] : heyecanlı
+excitement \[iksaytmınt\] : heyecan
+exciting \[iksayting\] : heyecan verici
+exclude \[ikskluud\] : hariç tutmak
+excuse \[ikskyuus\] : mazeret, affetmek
+executive \[igzekyutiv\] : yönetici
+exercise \[eksırsayz\] : egzersiz yapmak, alıştırma
+exhibit \[igzibit\] : sergilemek, sergi
+exhibition \[eksibişın\] : sergi
+exist \[igzist\] : var olmak
+existence \[igzistıns\] : varoluş, varlık
+exit \[egzit\] : çıkış
+expand \[ikspend\] : genişlemek, büyümek
+expect \[ikspekt\] : ummak, beklemek
+expectation \[ikspekteyşın\] : beklenti
+expected \[ikspektid\] : beklenen
+expense \[ikspens\] : masraf, gider
+expensive \[ikspensiv\] : pahalı
+experience \[ikspiryıns\] : deneyim, tecrübe
+experienced \[ikspiryınst\] : deneyimli
+experiment \[iksperimınt\] : deney
+expert \[ekspert\] : uzman
+explain \[ikspleyn\] : açıklamak
+explanation \[eksplaneyşın\] : açıklama
+explode \[iksploud\] : patlamak
+exploration \[eksploreyşın\] : keşif, araştırma
+explore \[iksplor\] : keşfetmek, araştırmak
+explosion \[iksplojın\] : patlama
+export \[eksport\] : ihraç etmek, ihracat
+expose \[ikspouz\] : maruz bırakmak, açığa çıkarmak
+express \[ikspres\] : ifade etmek, hızlı
+expression \[ikspreşın\] : ifade, tabir
+extend \[ikstend\] : uzatmak, genişletmek
+extension \[ikstenşın\] : uzatma, dahili hat
+extensive \[ikstensiv\] : kapsamlı, yaygın
+extent \[ikstent\] : boyut, derece
+external \[ikstırnıl\] : harici, dış
+extra \[ekstra\] : ekstra, ilave
+extraordinary \[ekstraordinıri\] : olağanüstü
+extreme \[ikstriim\] : aşırı, uç
+extremely \[ikstriimli\] : aşırı derecede
+eye \[ay\] : göz
+face \[feys\] : yüz, yüzleşmek
+facility \[fasiliti\] : tesis, imkan
+fact \[fekt\] : gerçek, olgu
+factor \[faktör\] : faktör, etken
+factory \[fektıri\] : fabrika
+fail \[feyl\] : başarısız olmak
+failure \[feylyır\] : başarısızlık
+faint \[feynt\] : bayılmak, soluk
+fair \[feyr\] : adil, panayır
+fairly \[feyrli\] : oldukça, adilce
+faith \[feyth\] : inanç, güven
+faithful \[feythful\] : sadık, güvenilir
+fall \[fol\] : düşmek, sonbahar
+false \[fols\] : yanlış, sahte
+fame \[feym\] : ün, şöhret
+familiar \[familiyır\] : tanıdık, bildik
+family \[famili\] : aile
+famous \[feymıs\] : ünlü, tanınmış
+fan \[fen\] : hayran, yelpaze, fan
+fancy \[fensi\] : süslü, istemek
+far \[far\] : uzak
+farm \[farm\] : çiftlik
+farmer \[farmır\] : çiftçi
+farming \[farming\] : çiftçilik
+fascinating \[fesıneyting\] : büyüleyici
+fashion \[feşın\] : moda
+fashionable \[feşınıbıl\] : modaya uygun
+fast \[fast\] : hızlı, oruç tutmak
+fasten \[fasın\] : bağlamak, tutturmak
+fat \[fet\] : şişman, yağ
+father \[fadhır\] : baba
+faucet \[fosit\] : musluk
+fault \[folt\] : hata, kusur
+favor \[feyvır\] : İyilik, kayırmak
+favorable \[feyvırıbıl\] : elverişli, olumlu
+favorite \[feyvırıt\] : favori, en sevilen
+fear \[fiyır\] : korkmak, korku
+feather \[fedhır\] : tüy
+feature \[fiiçır\] : özellik
+federal \[fedırıl\] : federal
+fee \[fii\] : ücret, harç
+feed \[fiid\] : beslemek
+feel \[fiil\] : hissetmek
+feeling \[fiiling\] : duygu, his
+fellow \[felou\] : akran, adam
+female \[fimeyl\] : dişi, kadın
+fence \[fens\] : çit
+festival \[festival\] : festival
+fetch \[feç\] : gidip getirmek
+fever \[fiivır\] : ateş, humma
+few \[fyuu\] : az, birkaç
+fiction \[fikşın\] : kurgu, roman
+field \[fiild\] : alan, tarla
+fifteen \[fiftiin\] : on beş
+fifty \[fifty\] : elli
+fight \[fayt\] : dövüşmek, kavga
+fighting \[fayting\] : dövüş, çatışma
+figure \[figır\] : rakam, şekil, anlamak
+file \[fayl\] : dosya, dosyalamak
+fill \[fil\] : doldurmak
+film \[film\] : film, film çekmek
+final \[faynıl\] : son, final
+finally \[faynıli\] : sonunda, nihayet
+finance \[faynens\] : finans, finanse etmek
+financial \[faynenşıl\] : finansal, mali
+find \[faynd\] : bulmak
+finding \[faynding\] : bulgu, keşif
+fine \[fayn\] : iyi, ince, para cezası
+finger \[fingır\] : parmak
+finish \[finiş\] : bitirmek, bitiş
+fire \[fayır\] : ateş, kovmak
+firm \[fırm\] : firma, sıkı
+firmly \[fırmli\] : sıkıca, kararlılıkla
+first \[först\] : ilk, birinci
+firstly \[förstli\] : ilk olarak
+fish \[fiş\] : balık, balık tutmak
+fishing \[fişing\] : balık tutma
+fit \[fit\] : uymak, sığmak, sağlıklı
+fitness \[fitnıs\] : zindelik, formda olma
+five \[fayv\] : beş
+fix \[fiks\] : tamir etmek, sabitlemek
+fixed \[fikst\] : sabit, sabitlenmiş
+flag \[fleg\] : bayrak
+flame \[fleym\] : alev
+flash \[fleş\] : flaş, parlamak
+flat \[flet\] : düz, daire
+flavor \[fleyvır\] : tat, lezzet
+flesh \[fleş\] : et, ten
+flight \[flayt\] : uçuş
+float \[flout\] : yüzmek (suda/havada)
+flood \[flad\] : sel, su basmak
+floor \[flor\] : zemin, kat
+flour \[flauır\] : un
+flow \[flou\] : akmak, akış
+flower \[flauır\] : çiçek
+flu \[fluu\] : grip
+fly \[flay\] : uçmak, sinek
+flying \[flaying\] : uçuş, uçan
+focus \[fokıs\] : odaklanmak, odak
+fold \[fold\] : katlamak
+folding \[folding\] : katlanabilir
+folk \[folk\] : halk, insanlar
+follow \[folou\] : takip etmek, izlemek
+following \[folouing\] : takip eden, aşağıdakiler
+food \[fuud\] : yemek, gıda
+foot \[fuut\] : ayak
+football \[futbol\] : futbol
+for \[for\] : için, çünkü
+force \[fors\] : zorlamak, güç
+forecast \[forkast\] : tahmin, hava tahmini
+foreign \[forin\] : yabancı
+forest \[forist\] : orman
+forever \[forevır\] : sonsuza dek
+forget \[forget\] : unutmak
+forgive \[forgiv\] : affetmek
+fork \[fork\] : çatal
+form \[form\] : form, oluşturmak, biçim
+formal \[formıl\] : resmi
+formally \[formıli\] : resmî olarak
+former \[formır\] : önceki, eski
+formerly \[formırli\] : eskiden, önceden
+formula \[formyula\] : formül
+fortune \[forçun\] : şans, servet
+forward \[forvırd\] : ileriye doğru
+found \[faund\] : kurmak, bulmak (find'ın 2. hali)
+foundation \[faundeyşın\] : vakıf, temel
+frame \[freym\] : çerçeve
+framework \[freymvörk\] : çerçeve, yapı
+free \[frii\] : özgür, ücretsiz
+freedom \[friidom\] : özgürlük
+freely \[friili\] : serbestçe
+freeze \[friiz\] : donmak, dondurmak
+frequent \[friikvınt\] : sık, sıkça olan
+frequently \[friıkvıntli\] : sıklıkla
+fresh \[freş\] : taze
+freshly \[freşli\] : tazece
+fridge \[fric\] : buzdolabı
+friend \[frend\] : arkadaş
+friendly \[frendli\] : samimi, dostça
+friendship \[frendşip\] : arkadaşlık
+frighten \[fraytın\] : korkutmak
+frightened \[fraytınd\] : korkmuş
+frightening \[fraytning\] : korkutucu
+from \[from\] : -den/-dan
+front \[front\] : ön, cephe
+frozen \[frouzın\] : donmuş
+fruit \[fruut\] : meyve
+fry \[fray\] : kızartmak
+fuel \[fyuul\] : yakıt
+full \[ful\] : dolu, tam
+fully \[fuli\] : tamamen
+fun \[fan\] : eğlence
+function \[fankşın\] : işlev, fonksiyon
+fund \[fand\] : fon, kaynak
+fundamental \[fandamentıl\] : temel, esas
+funeral \[fyunırıl\] : cenaze
+funny \[fani\] : komik, tuhaf
+fur \[för\] : kürk
+furniture \[förniçır\] : mobilya
+further \[fördır\] : daha ileri, daha fazla
+future \[fyuuçır\] : gelecekte, gelecek
+gain \[geyn\] : kazanmak, elde etmek
+gallery \[galıri\] : galeri
+game \[geym\] : oyun
+gang \[geng\] : çete
+gap \[gep\] : boşluk, fark
+garage \[garaj\] : garaj
+garbage \[garbıc\] : çöp
+garden \[gardın\] : bahçe
+gas \[ges\] : gaz, benzin
+gate \[geyt\] : kapı, geçit
+gather \[gedhır\] : toplamak, bir araya gelmek
+gear \[giyır\] : vites, dişli, teçhizat
+general \[cenırıl\] : genel
+generally \[cenırılı\] : genellikle
+generate \[cenıreyt\] : üretmek, oluşturmak
+generation \[cenıreyşın\] : nesil, kuşak
+generous \[cenırıs\] : cömert
+gentle \[centıl\] : nazik, yumuşak
+gentleman \[centılmın\] : beyefendi
+gently \[centli\] : nazikçe
+genuine \[cenyuin\] : hakiki, gerçek
+get \[get\] : almak, edinmek, ulaşmak
+giant \[cayınt\] : dev, devasa
+gift \[gift\] : hediye, yetenek
+girl \[görl\] : kız çocuk
+girlfriend \[görlfrend\] : kız arkadaş
+give \[giv\] : vermek
+glad \[gled\] : memnun, sevinçli
+glass \[glas\] : bardak, cam
+global \[gloubıl\] : küresel, evrensel
+glove \[glav\] : eldiven
+glue \[gluu\] : tutkal, yapıştırmak
+go \[gou\] : gitmek
+goal \[goul\] : hedef, gol
+god \[god\] : tanrı
+gold \[gold\] : altın
+good \[guud\] : iyi
+goodbye \[guudbay\] : hoşça kal
+goods \[guudz\] : mallar, eşyalar
+govern \[gavırn\] : yönetmek
+government \[gavırnmınt\] : hükümet
+governor \[gavırnır\] : vali
+grab \[greb\] : kapmak, yakalamak
+grade \[greyd\] : derece, not
+gradual \[grecuıl\] : kademeli, yavaş yavaş
+gradually \[grecuıli\] : kademeli olarak
+graduate \[grecueyt\] : mezun olmak
+grain \[greyn\] : tahıl, tanecik
+gram \[grem\] : gram
+grammar \[gramır\] : dilbilgisi
+grand \[grend\] : görkemli, büyük
+grandchild \[grendçayld\] : torun
+grandfather \[grendfadhır\] : dede
+grandmother \[grendmadhır\] : büyükanne
+grandparent \[grendperınt\] : büyükanne/büyükbaba
+grant \[grant\] : bağışlamak, hibe
+grass \[gras\] : çim, çimen
+grateful \[greytful\] : minnettar
+grave \[greyv\] : mezar, ciddi
+gray \[grey\] : gri
+great \[greyt\] : harika, büyük
+green \[griin\] : yeşil
+greet \[griit\] : selamlamak
+grey \[grey\] : gri
+groceries \[grousıriz\] : bakkaliye, mutfak alışverişi
+grocery \[grousıri\] : bakkal, market
+ground \[graund\] : yer, zemin
+group \[gruup\] : grup
+grow \[grou\] : büyümek, yetişmek
+growth \[grouth\] : büyüme, gelişme
+guarantee \[garantii\] : garanti etmek, garanti
+guard \[gard\] : korumak, muhafız
+guess \[ges\] : tahmin etmek
+guest \[gest\] : konuk, misafir
+guide \[gayd\] : rehberlik etmek, rehber
+guidance \[gaydıns\] : rehberlik, yönlendirme
+guilty \[gilti\] : suçlu
+guitar \[gitar\] : gitar
+gun \[gan\] : silah
+guy \[gay\] : adam, tip
+habit \[habit\] : alışkanlık
+hair \[heyr\] : saç, kıl
+half \[haaf\] : yarım
+hall \[hol\] : salon, koridor
+hammer \[hemır\] : çekiç
+hand \[hend\] : el, uzatmak
+handle \[hendıl\] : ele almak, kulp
+hang \[heng\] : asmak
+happen \[hepın\] : olmak, meydana gelmek
+happiness \[hepinıs\] : mutluluk
+happy \[hepi\] : mutlu
+hard \[hard\] : zor, sert, sıkı
+hardly \[haardli\] : neredeyse hiç, zorla
+harm \[harm\] : zarar, zarar vermek
+harmful \[harmful\] : zararlı
+harmless \[harmlıs\] : zararsız
+hat \[het\] : şapka
+hate \[heyt\] : nefret etmek
+hatred \[heytrid\] : nefret, kin
+have \[hev\] : sahip olmak
+he \[hii\] : o (erkek)
+head \[hed\] : baş, kafa, yönetmek
+headache \[hedeyk\] : baş ağrısı
+headline \[hedlayn\] : başlık (haber)
+health \[helth\] : sağlık
+healthy \[helthi\] : sağlıklı
+hear \[hiyır\] : duymak
+hearing \[hiyring\] : işitme, duruşma
+heart \[hart\] : kalp
+heat \[hiit\] : ısıtmak, sıcaklık
+heating \[hiiting\] : ısıtma
+heaven \[hevın\] : cennet, gökyüzü
+heavily \[hevili\] : ağır bir şekilde
+heavy \[hevi\] : ağır, yoğun
+heel \[hiil\] : topuk
+height \[hayt\] : yükseklik, boy
+helicopter \[helikoptır\] : helikopter
+hell \[hel\] : cehennem
+hello \[helou\] : merhaba
+help \[help\] : yardım etmek, yardım
+helpful \[helpful\] : yardımsever, yararlı
+her \[hör\] : onun, ona (kadın)
+here \[hiyır\] : burada, buraya
+hero \[hirou\] : kahraman
+hers \[hörz\] : onunki (kadın)
+herself \[körself\] : kendisi (kadın)
+hesitate \[heziteyt\] : tereddüt etmek
+hi \[hay\] : selam
+hide \[hayd\] : saklamak, saklanmak
+high \[hay\] : yüksek
+highlight \[haylayt\] : vurgulamak
+highly \[hayli\] : oldukça, yüksek derecede
+highway \[hayvey\] : otoyol
+hill \[hil\] : tepe
+him \[him\] : onu, ona (erkek)
+himself \[himself\] : kendisi (erkek)
+hire \[hayır\] : kiralamak, işe almak
+his \[hiz\] : onun (erkek)
+historic \[historik\] : tarihi
+historical \[historikıl\] : tarihsel
+history \[histori\] : tarih
+hit \[hit\] : vurmak, isabet etmek
+hobby \[hobi\] : hobi
+hold \[hold\] : tutmak, gerçekleştirmek
+hole \[houl\] : delik, çukur
+holiday \[holidey\] : tatil
+hollow \[holou\] : oyuk, boş
+holy \[houli\] : kutsal
+home \[houm\] : ev
+homework \[houmvörk\] : ev ödevi
+honest \[onist\] : dürüst
+honesty \[onisti\] : dürüstlük
+honor \[onır\] : onur, gurur
+hook \[huuk\] : kanca, çengel
+hope \[houp\] : ummak, umut
+hopeful \[houpful\] : umutlu
+hopeless \[houplıs\] : umutsuz
+horrible \[horıbıl\] : korkunç, berbat
+horrified \[horifayd\] : dehşete düşmüş
+horror \[horır\] : korku, dehşet
+horse \[hors\] : at
+hospital \[hospital\] : hastane
+host \[houst\] : ev sahibi
+hot \[hot\] : sıcak
+hotel \[hotel\] : otel
+hour \[auır\] : saat (süre)
+house \[haus\] : ev
+household \[haushold\] : ev halkı
+housing \[hauzing\] : konut, barınma
+how \[hau\] : nasıl
+however \[hauevır\] : ancak, yine de
+huge \[hyuuç\] : kocaman, devasa
+human \[hyuumın\] : insan, insani
+humor \[hyuumır\] : mizah
+humorous \[hyuumırıs\] : komik, mizahi
+hungry \[hangri\] : aç, acıkmış
+hunt \[hant\] : avlanmak, av
+hunting \[hanting\] : avcılık
+hurry \[hari\] : acele etmek
+hurt \[hört\] : incitmek, yaralamak
+husband \[hazbınd\] : koca, eş
+ice \[ays\] : buz
+ice cream \[ays kriim\] : dondurma
+idea \[aydiya\] : fikir, düşünce
+ideal \[aydiıl\] : ideal, mükemmel
+identify \[aydentifay\] : tanımlamak, kimliğini belirlemek
+identity \[aydentiti\] : kimlik
+if \[if\] : eğer, -se/-sa
+ignore \[ignor\] : görmezden gelmek, ihmal etmek
+ill \[il\] : hasta
+illegal \[illiigıl\] : yasa dışı
+illness \[ilnıs\] : hastalık
+illustrate \[ilustreyt\] : resimlemek, açıklamak
+image \[imıc\] : görüntü, imaj
+imaginary \[imacinıri\] : hayali
+imagination \[imacineyşın\] : hayal gücü
+imagine \[imecin\] : hayal etmek
+immediate \[imiidiyet\] : acil, hemen olan
+immediately \[imiidiyetli\] : hemen, derhal
+immigrant \[imigrınt\] : göçmen
+impact \[impakt\] : etki, darbe
+impatient \[impeyşınt\] : sabırsız
+implicate \[implikeyt\] : ima etmek, bulaştırmak
+imply \[implay\] : ima etmek
+import \[import\] : ithal etmek, ithalat
+importance \[importıns\] : önem
+important \[importınt\] : önemli
+impose \[impouz\] : zorla kabul ettirmek, yüklemek
+impossible \[imposıbıl\] : imkansız
+impress \[impres\] : etkilemek
+impressed \[imprest\] : etkilenmiş
+impression \[impreşın\] : izlenim
+impressive \[impresiv\] : etkileyici
+improve \[impruuv\] : gelişmek, iyileştirmek
+improvement \[impruuvmınt\] : iyileşme, gelişme
+in \[in\] : içinde, içeri
+inability \[inabiliti\] : yetersizlik, becerisizlik
+incident \[insidınt\] : olay, hadise
+include \[inkluud\] : içermek, dahil etmek
+including \[inkluuding\] : dahil olmak üzere
+income \[inkam\] : gelir, kazanç
+increase \[inkriis\] : artmak, artırmak
+increasingly \[inkriisingli\] : giderek artan şekilde
+indeed \[indiid\] : gerçekten, hakikaten
+independence \[indipendıns\] : bağımsızlık
+independent \[indipendınt\] : bağımsız
+independently \[indipendıntli\] : bağımsız olarak
+index \[indeks\] : indeks, dizin
+indicate \[indikeyt\] : göstermek, işaret etmek
+indication \[indikeyşın\] : gösterge, belirti
+indirect \[indirekt\] : dolaylı
+individual \[ındividuıl\] : bireysel, kişisel
+indoor \[indor\] : kapalı mekan
+indoors \[indorz\] : içeriye, kapalı alanda
+industrial \[indastriyıl\] : endüstriyel, sanayi
+industry \[indastri\] : sanayi, endüstri
+inevitable \[inevitıbıl\] : kaçınılmaz
+inevitably \[inevitıbli\] : kaçınılmaz olarak
+infect \[infekt\] : enfekte etmek, bulaştırmak
+infection \[infekşın\] : enfeksiyon
+infectious \[infekşıs\] : bulaşıcı
+influence \[influıns\] : etkilemek, etki
+inform \[inform\] : bilgilendirmek
+informal \[informıl\] : resmi olmayan, samimi
+information \[informeyşın\] : bilgi
+ingredient \[ingriidiyınt\] : malzeme, içerik
+initial \[inişıl\] : ilk, başlangıç
+initially \[inişıli\] : başlangıçta
+initiative \[inişitiv\] : girişim, inisiyatif
+injure \[incır\] : yaralamak
+injured \[incırd\] : yaralı
+injury \[incuri\] : yaralanma, sakatlık
+ink \[ink\] : mürekkep
+inner \[inır\] : iç, içteki
+innocent \[inosınt\] : masum
+inquiry \[ınkvayıri\] : soruşturma, sorgu
+insect \[insekt\] : böcek
+insert \[insırt\] : sokmak, eklemek
+inside \[insayd\] : içinde, iç kısım
+insist \[insist\] : ısrar etmek
+inspect \[inspekt\] : denetlemek, incelemek
+inspection \[inspekşın\] : denetim, inceleme
+inspector \[inspektır\] : müfettiş, denetçi
+install \[instol\] : kurmak, monte etmek
+instance \[instıns\] : örnek, durum
+instant \[instınt\] : anlık, hemen olan
+instantly \[instıntli\] : anında, derhal
+instead \[insted\] : yerine
+institute \[enstituud\] : enstitü, kurum
+institution \[enstityuuşın\] : kurum, kuruluş
+instruction \[instrakşın\] : talimat, yönerge
+instrument \[instrumınt\] : enstrüman, alet
+insult \[insalt\] : hakaret etmek, hakaret
+insurance \[inşuurıns\] : sigorta
+intellectual \[intelekçuıl\] : entelektüel, zihinsel
+intelligence \[intelıcıns\] : zeka, istihbarat
+intelligent \[intelıcınt\] : zeki, akıllı
+intend \[intend\] : niyet etmek, amaçlamak
+intended \[intendid\] : hedeflenen, niyet edilen
+intent \[intent\] : niyet, kasıt
+intention \[intenşın\] : niyet, amaç
+interest \[intrest\] : ilgi, faiz
+interested \[intrestid\] : ilgili, meraklı
+interesting \[intresting\] : ilginç, ilgi çekici
+interior \[intiriyır\] : iç, iç mekan
+internal \[intırnıl\] : dahili, iç
+international \[intırneşınıl\] : uluslararası
+internet \[intırnet\] : internet
+interpret \[intırprit\] : yorumlamak, çevirmek
+interpretation \[intırpriteyşın\] : yorum, müteferrik
+interrupt \[intırapt\] : sözünü kesmek, kesintiye uğratmak
+interruption \[intırapşın\] : kesinti, müdahale
+interval \[intırvıl\] : ara, aralık
+interview \[intırvyuu\] : mülakat, röportaj
+into \[intu\] : içine, içeriye
+introduce \[introduus\] : tanıtmak, tanıştırmak
+introduction \[introdukşın\] : giriş, tanıtım
+invent \[invent\] : icat etmek
+invention \[invenşın\] : icat
+invest \[invest\] : yatırım yapmak
+investigate \[investigeyt\] : araştırmak, soruşturmak
+investigation \[investigeyşın\] : araştırma, soruşturma
+investment \[investmınt\] : yatırım
+investor \[investır\] : yatırımcı
+invitation \[inviteyşın\] : davet, davetiye
+invite \[invayt\] : davet etmek
+involve \[involv\] : içermek, kapsamak
+involved \[involvd\] : dahil olmuş, ilgili
+iron \[ayırn\] : demir, ütülemek
+island \[aylınd\] : ada
+issue \[işuu\] : konu, sorun, yayınlamak
+it \[it\] : o (cansız/hayvan)
+item \[aytım\] : madde, öge, eşya
+its \[its\] : onun (cansız)
+itself \[itself\] : kendisi (cansız)
+jacket \[cekıt\] : ceket
+jail \[ceyl\] : hapishane
+jam \[cem\] : reçel, sıkışıklık
+january \[cenyueri\] : ocak ayı
+jealous \[celıs\] : kıskanç
+jeans \[ciinz\] : kot pantolon
+jelly \[celi\] : jöle
+jewel \[cuul\] : mücevher
+jewelry \[cuulri\] : takı, mücevherat
+job \[cob\] : iş, meslek
+join \[coyn\] : katılmak
+joint \[coynt\] : eklem, ortaklaşa
+jointly \[coyntli\] : ortaklaşa
+joke \[jouk\] : şaka yapmak, şaka
+journalist \[cırnalist\] : gazeteci
+journey \[cörni\] : yolculuk
+joy \[coy\] : neşe, sevinç
+judge \[cac\] : yargılamak, hakim
+judgment \[cacmınt\] : yargı, karar
+juice \[cuus\] : meyve suyu
+july \[culay\] : temmuz ayı
+jump \[camp\] : zıplamak, atlamak
+june \[cuun\] : haziran ayı
+jungle \[cangıl\] : orman, balta girmemiş orman
+junior \[cuniyır\] : kıdemsiz, küçük
+just \[cast\] : sadece, henüz, adil
+justice \[castis\] : adalet
+justify \[castifay\] : haklı çıkarmak
+keen \[kiin\] : hevesli, keskin
+keep \[kiip\] : tutmak, korumak
+key \[kii\] : anahtar, kilit
+keyboard \[kiibord\] : klavye
+kick \[kik\] : tekmelemek, tekme
+kid \[kid\] : çocuk, dalga geçmek
+kill \[kil\] : öldürmek
+killing \[kiling\] : cinayet, öldürme
+kilogram \[kilogram\] : kilogram
+kilometer \[kilometır\] : kilometre
+kind \[kaynd\] : tür, kibar
+kindly \[kayndli\] : nazikçe
+kindness \[kayndnıs\] : nezaket, iyilik
+king \[king\] : kral
+kingdom \[kingdım\] : krallık
+kiss \[kis\] : öpmek, öpücük
+kitchen \[kiçın\] : mutfak
+knee \[nii\] : diz
+knife \[nayf\] : bıçak
+knit \[nit\] : örgü örmek
+knock \[nok\] : kapı çalmak, vurmak
+knot \[not\] : düğüm
+know \[nou\] : bilmek, tanımak
+knowledge \[nolic\] : bilgi, birikim
+lab \[leb\] : laboratuvar
+label \[leybıl\] : etiket, etiketlemek
+laboratory \[laboratori\] : laboratuvar
+labor \[leybır\] : iş gücü, emek
+lack \[lek\] : eksiklik, yoksun olmak
+lacking \[leking\] : eksik, yetersiz
+lady \[leydi\] : hanımefendi, bayan
+lake \[leyk\] : göl
+lamp \[lemp\] : lamba
+land \[lend\] : kara, karaya çıkmak
+landscape \[lendskeyp\] : manzara, peyzaj
+lane \[leyn\] : şerit, dar yol
+language \[lengviç\] : dil
+large \[larc\] : büyük, geniş
+largely \[larcli\] : büyük ölçüde
+last \[last\] : son, sürmek
+late \[leyt\] : geç, merhum
+later \[leytır\] : daha sonra
+latest \[leytist\] : en son, en yeni
+latter \[letır\] : ikincisi, sonuncusu
+laugh \[laf\] : gülmek
+launch \[lonç\] : başlatmak, fırlatmak
+laundry \[londri\] : çamaşır
+law \[lo\] : hukuk, yasa
+lawyer \[loyır\] : avukat
+lay \[ley\] : uzatmak, yumurtlamak
+layer \[leyır\] : katman, tabaka
+lazy \[leyzi\] : tembel
+lead \[liid\] : liderlik etmek, yol göstermek
+leader \[liidır\] : lider, önder
+leading \[liiding\] : önde gelen, ana
+leaf \[liif\] : yaprak
+league \[liig\] : lig, birlik
+lean \[liin\] : eğilmek, yaslanmak
+learn \[lörn\] : öğrenmek
+least \[liist\] : en az
+leather \[ledhır\] : deri
+leave \[liiv\] : ayrılmak, izin
+lecture \[lekçır\] : ders, konferans
+left \[left\] : sol, sol taraf
+leg \[leg\] : bacak
+legal \[liigıl\] : yasal, hukuki
+legally \[liigıli\] : yasal olarak
+legend \[lecınd\] : efsane
+lemon \[lemın\] : limon
+lend \[lend\] : ödünç vermek
+length \[length\] : uzunluk, mesafe
+less \[les\] : daha az
+lesson \[lesın\] : ders
+let \[let\] : izin vermek
+letter \[letır\] : mektup, harf
+level \[levıl\] : seviye, düzey
+library \[laybrıri\] : kütüphane
+license \[laysıns\] : lisans, ruhsat
+lid \[lid\] : kapak
+lie \[lay\] : yalan söylemek, uzanmak
+life \[layf\] : yaşam, hayat
+lift \[lift\] : kaldırtmak, asansör
+light \[layt\] : ışık, hafif, yakmak
+lightly \[laytli\] : hafifçe
+like \[layk\] : sevmek, gibi
+likely \[laykli\] : muhtemel, olası
+limit \[limit\] : sınırlamak, limit
+limited \[limitid\] : sınırlı, kısıtlı
+line \[layn\] : çizgi, hat, sıra
+link \[link\] : bağlantı, bağlamak
+lip \[lip\] : dudak
+liquid \[likvid\] : sıvı
+list \[list\] : liste, listelemek
+listen \[lisın\] : dinlemek
+literature \[litrıçır\] : edebiyat
+literary \[litırıri\] : edebi
+litre \[liitır\] : litre
+little \[litıl\] : küçük, az
+live \[liv\] : yaşamak, canlı
+lively \[layvli\] : canlı, neşeli
+living \[living\] : yaşayan, geçim
+load \[loud\] : yüklemek, yük
+loan \[loun\] : kredi, borç
+local \[loukıl\] : yerel, lokal
+locally \[loukıli\] : yerel olarak
+locate \[loukeyt\] : yerini belirlemek
+location \[loukeyşın\] : konum, yer
+lock \[lok\] : kilitlemek, kilit
+logic \[locik\] : mantık
+logical \[locikıl\] : mantıklı
+lonely \[lounli\] : yalnız, ıssız
+long \[long\] : uzun
+look \[luuk\] : bakmak, görünmek
+loose \[luus\] : gevşek, bol
+loosely \[luusli\] : gevşekçe
+lord \[lord\] : lord, efendi
+lorry \[lori\] : kamyon
+lose \[luuz\] : kaybetmek
+loss \[los\] : kayıp, zarar
+lost \[lost\] : kayıp, kaybolmuş
+lot \[lot\] : çok, arsa
+loud \[laud\] : yüksek sesli
+loudly \[laudli\] : yüksek sesle
+love \[lav\] : sevmek, aşk
+lovely \[lavli\] : sevimli, güzel
+lover \[lavır\] : sevgili, aşık
+low \[lou\] : düşük, alçak
+lower \[louır\] : indirmek, daha düşük
+loyal \[loyil\] : sadık
+luck \[lak\] : şans, talih
+lucky \[laki\] : şanslı
+luggage \[lagıc\] : bagaj
+lump \[lamp\] : topak, yumru
+lunch \[lanç\] : öğle yemeği
+lung \[lang\] : akciğer
+machine \[maşiin\] : makine
+machinery \[maşiinıri\] : makine aksamı
+mad \[med\] : çıldırmış, kızgın
+magazine \[magaziin\] : dergi
+magic \[mecik\] : sihir, büyü
+mail \[meyl\] : posta, postalamak
+main \[meyn\] : ana, temel
+mainly \[meynli\] : başlıca, çoğunlukla
+maintain \[meynteyn\] : sürdürmek, bakım yapmak
+major \[meycır\] : büyük, önemli
+majority \[mecoriti\] : çoğunluk
+make \[meyk\] : yapmak, etmek
+make-up \[meykap\] : makyaj
+male \[meyl\] : erkek
+mall \[mol\] : alışveriş merkezi
+man \[men\] : adam, erkek
+manage \[menıc\] : yönetmek, başarmak
+management \[menıcmınt\] : yönetim
+manager \[menıcır\] : müdür, yönetici
+manner \[menır\] : tarz, tutum, görgü
+manufacture \[menyufakçır\] : üretmek, imal etmek
+manufacturer \[menyufakçırır\] : üretici
+manufacturing \[menyufakçıring\] : imalat
+many \[meni\] : çok, birçok
+map \[mep\] : harita
+march \[març\] : mart ayı, yürüyüş yapmak
+mark \[mark\] : işaretlemek, not
+market \[markıt\] : pazar, market
+marketing \[markıting\] : pazarlama
+marriage \[meric\] : evlilik
+married \[merid\] : evli
+marry \[meri\] : evlenmek
+marvelous \[marvılıs\] : harika, fevkalade
+mass \[mes\] : kitle, küme
+massive \[mesiv\] : devasa, somut
+master \[mastır\] : usta, hakim olmak
+match \[meç\] : eşleşmek, maç, kibrit
+matching \[meçing\] : uyumlu, eşleşen
+mate \[meyt\] : arkadaş, eş
+material \[matiriyıl\] : malzeme, materyal
+mathematics \[matematiks\] : matematik
+maths \[maths\] : matematik
+matter \[metır\] : madde, konu, önemi olmak
+maximum \[maksimum\] : maksimum, en fazla
+may \[mey\] : -ebilmek (ihtimal/izin)
+maybe \[meybi\] : belki
+mayor \[meyır\] : belediye başkanı
+me \[mii\] : beni, bana
+meal \[miil\] : öğün, yemek
+mean \[miin\] : kastetmek, anlamına gelmek
+meaning \[miining\] : anlam
+means \[miinz\] : araç, yöntem
+meanwhile \[miinvayl\] : bu sırada, aynı anda
+measure \[mejır\] : ölçmek, önlem
+measurement \[mejırmınt\] : ölçüm
+meat \[miit\] : et
+mechanism \[mekanizm\] : mekanizma
+media \[miidiya\] : medya
+medical \[medikıl\] : tıbbi, medikal
+medicine \[medisin\] : ilaç, tıp
+medium \[miidiyım\] : orta, araç
+meet \[miit\] : buluşmak, tanışmak
+meeting \[miiting\] : toplantı
+melt \[melt\] : erimek
+member \[membır\] : üye
+membership \[membırşip\] : üyelik
+memory \[memori\] : hafıza, anı
+mental \[mentıl\] : zihinsel
+mentally \[mentıli\] : zihinsel olarak
+mention \[menşın\] : bahsetmek
+menu \[menyu\] : menü
+mere \[miyır\] : sadece, sırf
+merely \[miyırli\] : yalnızca, sadece
+mess \[mes\] : dağınıklık, pislik
+message \[mesıc\] : mesaj
+metal \[metıl\] : metal
+method \[method\] : yöntem, metot
+metre \[miitır\] : metre
+middle \[midıl\] : orta
+midnight \[midnayt\] : gece yarısı
+might \[mayt\] : -ebilmek (düşük ihtimal)
+mild \[mayld\] : ılıman, hafif
+mile \[mayl\] : mil (uzunluk ölçüsü)
+military \[militıri\] : askeri
+milk \[milk\] : süt
+millimeter \[milimitır\] : milimetre
+mind \[maynd\] : akıl, zihin, önemsemek
+mine \[mayn\] : benimki, maden
+mineral \[minırıl\] : mineral
+minimum \[minimum\] : minimum, en az
+minister \[ministır\] : bakan, papaz
+ministry \[ministri\] : bakanlık
+minor \[maynır\] : önemsiz, küçük
+minority \[maynoriti\] : azınlık
+minute \[minit\] : dakika
+mirror \[mirır\] : ayna
+miserable \[mizırıbıl\] : sefil, perişan
+miss \[mis\] : özlemek, kaçırmak
+missing \[mising\] : kayıp, eksik
+mission \[mişın\] : görev, misyon
+mistake \[misteyk\] : hata
+mistaken \[misteykın\] : yanılmış, hatalı
+mix \[miks\] : karıştırmak, karışım
+mixed \[mikst\] : karışık
+mixture \[miksçır\] : karışım
+mobile \[mobayl\] : mobil, hareketli
+mobile phone \[mobayl foun\] : cep telefonu
+mode \[moud\] : mod, biçim
+model \[modıl\] : model, manken
+modern \[modırn\] : modern, çağdaş
+mom \[mam\] : anne
+moment \[momınt\] : an, anlık
+monday \[mandey\] : pazartesi
+money \[mani\] : para
+monitor \[monitır\] : izlemek, ekran
+month \[manth\] : ay (zaman)
+mood \[muud\] : ruh hali
+moon \[muun\] : ay (gökyüzü)
+moral \[morıl\] : ahlaki
+more \[mor\] : daha fazla
+moreover \[morouvır\] : dahası, ayrıca
+morning \[morning\] : sabah
+most \[most\] : en çok, çoğu
+mostly \[mostli\] : çoğunlukla
+mother \[madhır\] : anne
+motion \[moşın\] : hareket, önerge
+motor \[motır\] : motor
+motorbike \[motırbayk\] : motosiklet
+motorcycle \[motırsaykıl\] : motosiklet
+mount \[maunt\] : tırmanmak, binek
+mountain \[mauntın\] : dağ
+mouse \[maus\] : fare
+mouth \[mauth\] : ağız
+move \[muuv\] : hareket etmek, taşınmak
+movement \[muuvmınt\] : hareket, eylem
+movie \[muuvi\] : film
+movie theater \[muuvi thiatır\] : sinema salonu
+moving \[muuving\] : duygulandırıcı, hareketli
+much \[maç\] : çok, fazla
+mud \[mad\] : çamur
+multiply \[maltıplay\] : çarpmak (matematik), çoğalmak
+mum \[mam\] : anne
+murder \[mördır\] : cinayet, öldürmek
+muscle \[masıl\] : kas
+museum \[myuziyım\] : müze
+music \[myuzik\] : müzik
+musical \[myuzikıl\] : müzikal
+musician \[myuzişın\] : müzisyen
+must \[mast\] : -meli/-malı (zorunluluk)
+my \[may\] : benim
+myself \[mayself\] : kendim
+mysterious \[mistiriyıs\] : gizemli
+mystery \[mistıri\] : gizem, sır
+nail \[neyl\] : tırnak, çivi
+naked \[neykid\] : çıplak
+name \[neym\] : isim, adlandırmak
+narrow \[nerou\] : dar, daraltmak
+nation \[neyşın\] : ulus, millet
+national \[neşınıl\] : ulusal, milli
+native \[neytiv\] : yerli, anadili olan
+natural \[neçırıl\] : doğal
+naturally \[neçırılı\] : doğal olarak
+nature \[neyçır\] : doğa
+navy \[neyvi\] : deniz kuvvetleri, lacivert
+near \[niır\] : yakın, yakınında
+nearby \[niırbay\] : yakındaki, yakınlarda
+nearly \[niırli\] : neredeyse, hemen hemen
+neat \[niit\] : düzenli, titiz
+necessarily \[nesesırili\] : şart olarak, illa ki
+necessary \[neseseri\] : gerekli, zorunlu
+neck \[nek\] : boyun
+need \[niid\] : ihtiyaç duymak, gereksinim
+needle \[niidıl\] : iğne
+negative \[negativ\] : olumsuz, negatif
+neighbor \[neybır\] : komşu
+neighborhood \[neybırhuud\] : mahalle, çevre
+neither \[niydır\] : ne ... ne de, hiçbiri
+nephew \[nefyuu\] : erkek yeğen
+nerve \[nörv\] : sinir, cesaret
+nervous \[nörvıs\] : gergin, heyecanlı
+nest \[nest\] : yuva
+net \[net\] : ağ, net
+network \[netvörk\] : ağ, şebeke
+never \[nevır\] : asla, hiçbir zaman
+nevertheless \[nevırdıles\] : yine de, buna rağmen
+new \[nyuu\] : yeni
+newly \[nyuuli\] : yeni, son zamanlarda
+news \[nyuuz\] : haberler
+newspaper \[nyuuzpeypır\] : gazete
+next \[nekst\] : sonraki, yanındaki
+nice \[nays\] : hoş, güzel
+nicely \[naysli\] : güzelce, hoşça
+niece \[niis\] : kız yeğen
+night \[nayt\] : gece
+nightmare \[naytmeyr\] : kabus
+nine \[nayn\] : dokuz
+nineteen \[nayntiin\] : on dokuz
+ninety \[naynti\] : doksan
+no \[nou\] : hayır, hiç
+nobody \[noubodi\] : hiç kimse
+noise \[noyz\] : gürültü, ses
+noisy \[noyzi\] : gürültülü
+none \[nan\] : hiçbiri
+nonsense \[nonsens\] : saçmalık
+nonstop \[nonstop\] : durmaksızın
+nor \[nor\] : ne de
+normal \[normıl\] : normal, olağan
+normally \[normıli\] : normalde
+north \[north\] : kuzey
+northern \[northırn\] : kuzeydeki
+nose \[nouz\] : burun
+not \[not\] : değil
+note \[nout\] : not almak, not, banknot
+nothing \[nathıng\] : hiçbir şey
+notice \[noutis\] : fark etmek, duyuru
+noticeable \[noutisıbıl\] : fark edilebilir
+novel \[novıl\] : roman
+november \[novembır\] : kasım ayı
+now \[nau\] : şimdi
+nowhere \[nouveyr\] : hiçbir yer
+nuclear \[nukliyır\] : nükleer
+number \[nambır\] : sayı, numara
+nurse \[nörs\] : hemşire
+nut \[nat\] : fındık, somun
+obey \[obey\] : itaat etmek
+object \[obcik\] : nesne, itiraz etmek
+objective \[obcektiv\] : hedef, tarafsız
+observation \[obzırveyşın\] : gözlem
+observe \[obzörv\] : gözlemlemek
+obtain \[obteyn\] : elde etmek, edinmek
+obvious \[obviyıs\] : aşikar, bariz
+obviously \[obviyısli\] : açıkça, bariz şekilde
+occasion \[okeyjın\] : fırsat, durum, vesile
+occasional \[okeyjınıl\] : ara sıra olan
+occasionally \[okeyjınıli\] : ara sıra, bazen
+occupation \[okyupeyşın\] : meslek, işgal
+occupy \[okyupay\] : meşgul etmek, işgal etmek
+occur \[okör\] : meydana gelmek
+ocean \[oşın\] : okyanus
+o'clock \[oklok\] : saat (tam saatler)
+october \[oktoubır\] : ekim ayı
+odd \[od\] : tuhaf, tek sayı
+oddly \[odli\] : tuhaf bir şekilde
+of \[ov\] : -in/-ın
+off \[of\] : kapalı, uzak
+offence \[ofens\] : suç, ihlal
+offend \[ofend\] : gücendirmek, suç işlemek
+offensive \[ofensiv\] : saldırgan, kırıcı
+offer \[ofır\] : teklif etmek, sunmak
+office \[ofis\] : ofis, büro
+officer \[ofısır\] : memur, subay
+official \[ofişıl\] : resmi
+officially \[ofişıli\] : resmen
+often \[ofın\] : sık sık
+oil \[oyl\] : yağ, petrol
+ok \[oukey\] : tamam
+old \[ould\] : eski, yaşlı
+old-fashioned \[ould feşınd\] : eski moda
+on \[on\] : üzerinde, açık
+once \[vans\] : bir kez, eskiden
+one \[van\] : bir, biri
+one-way \[van vey\] : tek yönlü
+onion \[anıyn\] : soğan
+online \[onlayn\] : çevrim içi
+only \[onli\] : sadece, tek
+onto \[ontu\] : üzerine
+open \[oupın\] : açık, açmak
+opening \[oupning\] : açılış, delik
+openly \[oupınli\] : açıkça
+operate \[opıreyt\] : işletmek, ameliyat etmek
+operation \[opıreyşın\] : operasyon, ameliyat
+opinion \[opinyın\] : fikir, görüş
+opponent \[oponınt\] : rakip
+opportunity \[oportuniti\] : fırsat
+oppose \[opouz\] : karşı çıkmak
+opposed \[opouzd\] : karşıt, muhalif
+opposite \[opozit\] : karşıdaki, zıt
+opposition \[opozişın\] : muhalefet, karşıtlık
+option \[opşın\] : seçenek, opsiyon
+or \[or\] : veya, yoksa
+orange \[orınc\] : turuncu, portakal
+order \[ordır\] : sipariş vermek, emretmek, düzen
+ordinary \[ordineri\] : sıradan, olağan
+organ \[organ\] : organ
+organization \[organizasyın\] : organizasyon, kuruluş
+organize \[organizayz\] : düzenlemek, organize etmek
+organized \[organizayzd\] : düzenli, organize
+origin \[oricin\] : köken, başlangıç
+original \[oricinıl\] : orijinal, özgün
+originally \[oricinıli\] : aslen, başlangıçta
+other \[adır\] : diğer, başka
+otherwise \[adırvayz\] : aksi takdirde
+our \[auır\] : bizim
+ours \[auırz\] : bizimki
+ourselves \[auırselvz\] : kendimiz
+out \[aut\] : dışarıda, dışarı
+outdoor \[autdor\] : açık hava
+outdoors \[autdorz\] : dışarıda, açık havada
+outer \[autır\] : dış, dıştaki
+outline \[autlayn\] : taslak, özetlemek
+output \[autput\] : çıktı, ürün
+outside \[autsayd\] : dışarısı, dışarıda
+outstanding \[autstending\] : olağanüstü, seçkin
+oven \[avın\] : fırın
+over \[ouvır\] : üzerinde, bitti
+overall \[ouvırol\] : genel, toplam
+overcome \[ouvırkam\] : üstesinden gelmek
+overseas \[ouvırsiiz\] : yurtdışında
+owe \[ou\] : borçlu olmak
+own \[oun\] : kendi, sahip olmak
+owner \[ounır\] : sahip, malik
+ownership \[ounırşip\] : mülkiyet
+pack \[pek\] : paketlemek, paket
+package \[pekıc\] : paket, ambalaj
+packet \[pekıt\] : paket
+page \[peyc\] : sayfa
+pain \[peyn\] : ağrı, acı
+painful \[peynful\] : ağrılı, acı verici
+paint \[peynt\] : boyamak, boya
+painter \[peyntır\] : ressam, boyacı
+painting \[peynting\] : tablo, resim
+pair \[peyr\] : çift, ikili
+palace \[pelıs\] : saray
+pale \[peyl\] : soluk, solgun
+pan \[pen\] : tava
+panel \[panıl\] : panel, kurul
+pants \[pents\] : pantolon
+paper \[peypır\] : kağıt, gazete
+parallel \[paralel\] : paralel
+parent \[perınt\] : ebeveyn
+park \[park\] : park etmek, park
+parliament \[parlımınt\] : parlamento
+part \[part\] : parça, kısım
+particular \[partikyulır\] : özel, belirli
+particularly \[partikyulırli\] : özellikle
+partly \[partli\] : kısmen
+partner \[partnır\] : ortak, eş
+partnership \[partnırşip\] : ortaklık
+party \[parti\] : parti, grup
+pass \[pas\] : geçmek, pas vermek
+passage \[pasıc\] : pasaj, geçit
+passenger \[pesincır\] : yolcu
+passion \[peşın\] : tutku, hırs
+passionate \[peşınıt\] : tutkulu
+passive \[pesiv\] : pasif, edilgen
+passport \[pasport\] : pasaport
+past \[past\] : geçmiş, geçen
+path \[path\] : yol, patika
+patience \[peyşıns\] : sabır
+patient \[peyşınt\] : sabırlı, hasta
+pattern \[petırn\] : desen, model
+pause \[poz\] : duraklatmak, mola
+pay \[pey\] : ödemek, maaş
+payment \[peymınt\] : ödeme
+peace \[piis\] : barış, huzur
+peaceful \[piisful\] : huzurlu, sakin
+peak \[piik\] : zirve, tepe
+pen \[pen\] : tükenmez kalem
+pencil \[pensıl\] : kurşun kalem
+penny \[peni\] : kuruş
+pension \[penşın\] : emekli maaşı
+people \[piipıl\] : insanlar, halk
+pepper \[pepır\] : biber
+per \[pör\] : başına, her biri
+percent \[pırsent\] : yüzde
+percentage \[pırsentıc\] : yüzde oranı
+perfect \[pörfekt\] : mükemmel
+perfectly \[pörfektli\] : mükemmelen, tamamen
+perform \[perform\] : sergilemek, uygulamak
+performance \[performıns\] : performans, gösteri
+performer \[performır\] : gösterici, sanatçı
+perhaps \[pırheps\] : belki
+period \[piriyıd\] : dönem, nokta
+permanent \[pırmınınt\] : kalıcı, sürekli
+permanently \[pırmınıntli\] : kalıcı olarak
+permission \[permişın\] : izin
+permit \[pırmit\] : izin vermek, ruhsat
+person \[pırsın\] : kişi, şahıs
+personal \[pırsınıl\] : kişisel, özel
+personality \[personaliti\] : kişilik, karakter
+personally \[pırsınıli\] : şahsen, bana göre
+personnel \[pırsınel\] : personel, çalışanlar
+perspective \[pırspektiv\] : bakış açısı
+persuade \[pırsveyd\] : ikna etmek
+pet \[pet\] : evcil hayvan
+petrol \[petrol\] : benzin
+pharmacy \[farmasi\] : eczane
+phase \[feyz\] : evre, aşama
+phone \[foun\] : telefon
+photo \[fotou\] : fotoğraf
+photograph \[fotograf\] : fotoğraf
+photographer \[fotografır\] : fotoğrafçı
+photography \[fotografi\] : fotoğrafçılık
+phrase \[freyz\] : ifade, terim
+physical \[fizikıl\] : fiziksel
+physically \[fizikıli\] : fiziksel olarak
+physics \[fiziks\] : fizik
+piano \[piyanou\] : piyano
+pick \[pik\] : seçmek, toplamak
+picture \[pikçır\] : resim, fotoğraf
+piece \[piis\] : parça, tane
+pig \[pig\] : domuz
+pile \[payl\] : yığın, üst üste koymak
+pill \[pil\] : hap
+pilot \[paylıt\] : pilot
+pin \[pin\] : iğnelemek, toplu iğne
+pink \[pink\] : pembe
+pipe \[payp\] : boru, pipo
+pitch \[piç\] : saha, zift
+pity \[piti\] : acıma, yazık
+place \[pleys\] : yer, yerleştirmek
+plain \[pleyn\] : düz, sade, ova
+plan \[plen\] : planlamak, plan
+plane \[pleyn\] : uçak
+planet \[planıt\] : gezegen
+planning \[plening\] : planlama
+plant \[plant\] : bitki, fabrika, dikmek
+plastic \[plastik\] : plastik
+plate \[pleyt\] : tabak, plaka
+platform \[platform\] : platform, peron
+play \[pley\] : oynamak, oyun (tiyatro)
+player \[pleyır\] : oyuncu
+pleasant \[plezınt\] : hoş, sevimli
+pleasantly \[plezıntli\] : hoş bir şekilde
+please \[pliiz\] : lütfen, memnun etmek
+pleased \[pliizd\] : memnun
+pleasure \[plejır\] : zevk, memnuniyet
+plenty \[plenti\] : bol, çok
+plot \[plot\] : olay örgüsü, arsa
+plug \[plag\] : fiş, takmak
+plus \[plas\] : artı, artı değer
+pocket \[pokıt\] : cep
+poem \[pouım\] : şiir
+poetry \[pouıtri\] : şiir sanatı
+point \[poynt\] : nokta, işaret etmek
+pointed \[poyntid\] : sivri, noktalanmış
+poison \[poyzın\] : zehir, zehirlemek
+poisonous \[poyzınıs\] : zehirli
+pole \[poul\] : kutup, direk
+police \[polis\] : polis
+policy \[polisi\] : politika, poliçe
+polish \[poliş\] : parlatmak, cilalamak
+polite \[polayt\] : kibar, nazik
+politely \[polaytli\] : kibarca
+political \[politikıl\] : siyasi, politik
+politician \[politişın\] : siyasetçi
+politics \[politiks\] : siyaset
+pollution \[poluşın\] : kirlilik
+pool \[puul\] : havuz
+poor \[puur\] : fakir, zayıf
+pop \[pop\] : pop müziği, patlamak
+popular \[popyulır\] : popüler, sevilen
+population \[popyuleyşın\] : nüfus
+port \[port\] : liman
+pose \[pouz\] : poz vermek, oluşturmak
+position \[pozışın\] : konum, pozisyon
+positive \[pozitiv\] : olumlu, pozitif
+possess \[pozes\] : sahip olmak
+possession \[pozeşın\] : mülk, sahiplik
+possibility \[posibiliti\] : olasılık, ihtimal
+possible \[posıbıl\] : mümkün
+possibly \[posıbli\] : muhtemelen, belki
+post \[poust\] : postalamak, direk, görev
+post office \[poust ofis\] : postane
+pot \[pot\] : tencere, saksı
+potato \[poteytou\] : patates
+potential \[potenşıl\] : potansiyel
+potentially \[potenşıli\] : potansiyel olarak
+pound \[paund\] : sterlin, pound (ağırlık)
+pour \[por\] : dökmek, akıtmak
+poverty \[povırti\] : yoksulluk
+powder \[paudır\] : toz, pudra
+power \[pauır\] : güç, enerji
+powerful \[pauırful\] : güçlü, etkili
+practical \[praktikıl\] : pratik, kullanışlı
+practically \[praktikıli\] : neredeyse, pratikte
+practice \[praktis\] : pratik yapmak, uygulama
+practise \[praktis\] : alıştırma yapmak
+praise \[preyz\] : övmek, övgü
+pray \[prey\] : dua etmek
+prayer \[preyır\] : dua
+precise \[prisays\] : kesin, tam
+precisely \[prisaysli\] : tam olarak
+predict \[pridikt\] : tahmin etmek
+predictable \[pridiktıbıl\] : tahmin edilebilir
+prediction \[pridikşın\] : tahmin
+prefer \[priför\] : tercih etmek
+preference \[prefırıns\] : tercih
+pregnant \[pregnınt\] : hamile
+premises \[premısız\] : mülk, tesis
+preparation \[prepıreyşın\] : hazırlık
+prepare \[priper\] : hazırlamak
+prepared \[priperd\] : hazır, hazırlanmış
+presence \[prezıns\] : varlık, hazır bulunma
+present \[prezınt\] : sunmak, hediye, mevcut
+presentation \[prezenteyşın\] : sunum
+preserve \[prizörv\] : korumak, muhafaza etmek
+president \[prezidınt\] : başkan, cumhurbaşkanı
+press \[pres\] : basmak, basın
+pressure \[preşır\] : basınç, baskı
+presumably \[prizyumıbli\] : muhtemelen
+pretend \[pritend\] : -miş gibi yapmak
+pretty \[priti\] : sevimli, oldukça
+prevent \[privent\] : önlemek, engel olmak
+previous \[priiviyıs\] : önceki, geçmiş
+previously \[priiviyısli\] : önceden, daha önce
+price \[prays\] : fiyat
+pride \[prayd\] : gurur, onur
+priest \[priist\] : rahip, din adamı
+primary \[praymıri\] : birincil, temel
+primarily \[praymırili\] : öncelikle, başlıca
+prime \[praym\] : birincil, asıl
+prince \[prins\] : prens
+princess \[prinses\] : prenses
+principal \[prinsıpıl\] : okul müdürü, asıl
+principle \[prinsıpıl\] : ilke, prensip
+print \[print\] : basmak, matbaa
+printer \[printır\] : yazıcı
+prior \[prayır\] : önceki, öncelikli
+priority \[prayoriti\] : öncelik
+prison \[prizın\] : hapishane
+prisoner \[prizınır\] : mahkum, tutsak
+privacy \[prayvısi\] : gizlilik, özel hayat
+private \[prayvıt\] : özel, kişisel
+privately \[prayvıtli\] : özel olarak
+prize \[prayz\] : ödül
+probable \[probabıl\] : muhtemel
+probably \[probabli\] : muhtemelen
+problem \[problem\] : problem, sorun
+procedure \[prosiicır\] : prosedür, yöntem
+proceed \[prosiid\] : ilerlemek, devam etmek
+process \[proses\] : süreç, işlem
+produce \[produus\] : üretmek
+producer \[produusır\] : üretici, yapımcı
+product \[prodakt\] : ürün
+production \[prodakşın\] : üretim
+profession \[profeşın\] : meslek
+professional \[profeşınıl\] : profesyonel, mesleki
+professor \[profesır\] : profesör
+profile \[profayl\] : profil
+profit \[profit\] : kar, kazanç
+progress \[progres\] : ilerleme, gelişme
+project \[procek\] : proje
+promise \[promis\] : söz vermek
+promote \[promout\] : terfi ettirmek, reklamını yapmak
+promotion \[promoşın\] : terfi, promosyon
+prompt \[prompt\] : çabuk, istemek
+promptly \[promptli\] : derhal, hemen
+proof \[pruuf\] : kanıt, delil
+proper \[propır\] : uygun, düzgün
+properly \[propırli\] : düzgünce, uygun şekilde
+property \[propırti\] : mülk, eşya
+proportion \[proporşın\] : oran, orantı
+proposal \[propouzıl\] : teklif, öneri
+propose \[propouz\] : öneride bulunmak, evlenme teklif etmek
+prospect \[prospekt\] : olasılık, beklenti
+protect \[protekt\] : korumak
+protection \[protekşın\] : koruma
+protest \[protest\] : protesto etmek
+proud \[praud\] : gururlu
+proudly \[praudli\] : gururla
+prove \[pruuv\] : kanıtlamak
+provide \[provayd\] : sağlamak, temin etmek
+provided \[provaydid\] : şartıyla
+provider \[provaydır\] : sağlayıcı
+province \[provins\] : vilayet, il
+pub \[pab\] : bar, birahane
+public \[pablik\] : kamusal, halka açık
+publication \[pablikeyşın\] : yayın, basım
+publicity \[pablisiti\] : tanıtım, reklam
+publicly \[pablikli\] : alenen, herkesin içinde
+publish \[pabliş\] : yayınlamak
+publisher \[pablişır\] : yayıncı
+pull \[pul\] : çekmek
+punish \[paniş\] : cezalandırmak
+punishment \[panişmınt\] : ceza
+pupil \[pyupıl\] : öğrenci, göz bebeği
+purchase \[pırçıs\] : satın almak, alım
+pure \[pyuur\] : saf, katıksız
+purely \[pyuurli\] : tamamen, sadece
+purple \[pörpıl\] : mor
+purpose \[pörpıs\] : amaç, gaye
+pursue \[pırsuu\] : takip etmek, sürdürmek
+push \[puş\] : itmek
+put \[put\] : koymak
+qualification \[kvolifikeyşın\] : nitelik, vasıf
+qualified \[kvolifayd\] : nitelikli, kalifiye
+qualify \[kvolifay\] : nitelik kazanmak
+quality \[kvoliti\] : kalite, nitelik
+quantity \[kvoliti\] : miktar
+quarter \[kvortır\] : çeyrek, mahalle
+queen \[kviin\] : kraliçe
+question \[kvesçın\] : soru, sorgulamak
+quick \[kvik\] : hızlı, çabuk
+quickly \[kvikli\] : hızlıca
+quiet \[kvayıt\] : sessiz, sakin
+quietly \[kvayıtli\] : sessizce
+quit \[kvit\] : bırakmak, istifa etmek
+quite \[kvayt\] : oldukça, epey
+quote \[kvout\] : alıntı yapmak
+race \[reys\] : ırk, yarış
+racing \[reysing\] : yarışçılık
+radical \[radikıl\] : radikal, köklü
+radio \[reydiyo\] : radyo
+rail \[reyl\] : ray, demiryolu
+railroad \[reylroud\] : demiryolu
+railway \[reylvey\] : demiryolu
+rain \[reyn\] : yağmur, yağmak
+raise \[reyz\] : kaldırmak, artırmak, büyütmek
+range \[reync\] : menzil, çeşitlilik
+rank \[renk\] : rütbe, sıra
+rapid \[rapid\] : hızlı, çabuk
+rapidly \[rapidli\] : hızla
+rare \[rer\] : nadir, ender
+rarely \[rerli\] : nadiren
+rate \[reyt\] : oran, oranlamak
+rather \[radır\] : oldukça, tercihen
+raw \[ro\] : ham, çiğ
+reach \[riiç\] : ulaşmak, erişmek
+react \[riyakt\] : tepki göstermek
+reaction \[riyakşın\] : tepki, reaksiyon
+read \[riid\] : okumak
+reader \[riidır\] : okuyucu
+reading \[riiding\] : okuma
+ready \[redi\] : hazır
+real \[riıl\] : gerçek
+realistic \[riyalistik\] : gerçekçi
+reality \[riyaliti\] : gerçeklik
+realize \[riyalayz\] : farkına varmak, gerçekleştirmek
+really \[riyali\] : gerçekten
+rear \[riyır\] : arka, büyütmek
+reason \[riizın\] : sebep, neden
+reasonable \[riizınıbıl\] : makul, mantıklı
+reasonably \[riizınıbli\] : makul derecede
+recall \[rikol\] : hatırlamak, geri çağırmak
+receipt \[risiit\] : fiş, makbuz
+receive \[risiiv\] : teslim almak, almak
+recent \[riisınt\] : son, yakın zamandaki
+recently \[riisıntli\] : son zamanlarda
+reception \[risepşın\] : resepsiyon, karşılama
+reckon \[rekın\] : tahmin etmek, hesaplamak
+recognition \[rekıgnişın\] : tanıma, takdir
+recognize \[rekıgnayz\] : tanımak, fark etmek
+recommend \[rekomend\] : tavsiye etmek
+recommendation \[rekomendeyşın\] : tavsiye, öneri
+record \[rekord\] : kaydetmek, rekor, kayıt
+recording \[rikording\] : kayıt
+recover \[rikavır\] : iyileşmek, geri kazanmak
+recovery \[rikavıri\] : iyileşme, kurtarma
+red \[red\] : kırmızı
+reduce \[ridyuus\] : azaltmak
+reduction \[ridakşın\] : indirim, azalma
+refer \[riför\] : bahsetmek, sevk etmek
+reference \[refırıns\] : referans, kaynak
+reflect \[riflekt\] : yansıtmak, düşünmek
+reflection \[riflekşın\] : yansıma, düşünce
+reform \[riform\] : reform yapmak, yenilik
+refrigerator \[rifricıreytır\] : buzdolabı
+refusal \[rifyuuzıl\] : ret, kabul etmeme
+refuse \[rifyuuz\] : reddetmek
+regard \[rigard\] : hesaba katmak, saygı
+regarding \[rigarding\] : -e ilişkin, konusunda
+region \[ricın\] : bölge, alan
+regional \[ricınıl\] : bölgesel
+register \[recistır\] : kaydolmak, sicil
+regret \[rigret\] : pişman olmak, üzüntü
+regular \[regyulır\] : düzenli, sıradan
+regularly \[regyulırli\] : düzenli olarak
+regulation \[regyuleyşın\] : düzenleme, yönetmelik
+reject \[ricekt\] : reddetmek
+relate \[rileyt\] : ilişkilendirmek, aktarmak
+related \[rileytid\] : ilişkili, akraba
+relation \[rileyşın\] : ilişki, bağ
+relationship \[rileyşınşip\] : ilişki
+relative \[relativ\] : akraba, göreceli
+relatively \[relativli\] : nispeten, oranla
+relax \[rilaks\] : rahatlamak, dinlenmek
+relaxed \[rilakst\] : rahatlamış, sakin
+relaxing \[rilaksing\] : rahatlatıcı
+release \[riliis\] : serbest bırakmak, yayınlamak
+relevant \[relıvınt\] : ilgili, alakalı
+relief \[reliif\] : rahatlama, yardım
+religion \[rilicın\] : din
+religious \[rilicıs\] : dini, dindar
+rely \[rilay\] : güvenmek, dayanmak
+remain \[rimeyn\] : kalmak, sürdürmek
+remaining \[rimeyning\] : kalan, geriye kalan
+remains \[rimeynz\] : kalıntılar
+remark \[rimark\] : belirtmek, yorum
+remarkable \[rimarkıbıl\] : dikkate değer, olağanüstü
+remember \[rimembır\] : hatırlamak
+remind \[rimaynd\] : hatırlatmak
+remote \[rimout\] : uzak, tenha
+removal \[rimuuvıl\] : kaldırma, taşıma
+remove \[rimuuv\] : kaldırmak, sökmek
+rent \[rent\] : kiralamak, kira
+repair \[ripeyr\] : tamir etmek
+repeat \[ripiit\] : tekrarlamak
+repeated \[ripiitid\] : tekrarlanan
+replace \[ripleys\] : yerine geçmek, değiştirmek
+reply \[riplay\] : yanıtlamak, cevap
+report \[riport\] : rapor etmek, bildirmek
+reporter \[riportır\] : muhabir, gazete yazarı
+represent \[reprizent\] : temsil etmek
+representation \[reprizenteyşın\] : temsil
+representative \[reprizentativ\] : temsilci
+reputation \[repyuteyşın\] : itibar, ün
+request \[rikvest\] : istek, rica
+require \[rikvayır\] : gerektirmek
+requirement \[rikvayırmınt\] : gereksinim, şart
+rescue \[reskyuu\] : kurtarmak
+research \[risörç\] : araştırma, inceleme
+reservation \[rezırveyşın\] : rezervasyon
+reserve \[rizörv\] : rezerve etmek, yedek
+resident \[rezidınt\] : sakin, oturan kişi
+resist \[rezist\] : direnç göstermek, direnmek
+resistance \[rezistıns\] : direnç, karşı koyma
+resolve \[rizolv\] : çözmek, karar vermek
+resort \[rizort\] : tatil köyü, başvurmak
+resource \[risors\] : kaynak
+respect \[rispekt\] : saygı göstermek, saygı
+respond \[rispond\] : cevap vermek, tepki vermek
+response \[rispons\] : cevap, yanıt
+responsibility \[risponsibiliti\] : sorumluluk
+responsible \[risponsıbıl\] : sorumlu
+rest \[rest\] : dinlenmek, geri kalan
+restaurant \[restorant\] : restoran
+result \[rizalt\] : sonuç
+retain \[riteyn\] : korumak, tutmak
+retire \[ritayır\] : emekli olmak
+retired \[ritayırd\] : emekli
+retirement \[ritayırmınt\] : emeklilik
+return \[ritörn\] : geri dönmek, iade etmek
+reveal \[riviil\] : açığa çıkarmak, ifşa etmek
+reverse \[rivörs\] : tersine çevirmek, zıt
+review \[rivyuu\] : gözden geçirmek, inceleme
+revolution \[revoluşın\] : devrim
+reward \[rivord\] : ödül, ödüllendirmek
+rhythm \[rithım\] : ritim
+rice \[rays\] : pirinç, pilav
+rich \[riç\] : zengin
+rid \[rid\] : kurtarmak, başından atmak
+ride \[rayd\] : binmek (at/bisiklet)
+rider \[raydır\] : sürücü, binen kişi
+ridiculous \[ridikyulıs\] : komik, saçma
+right \[rayt\] : doğru, sağ, hak
+rightly \[raytli\] : haklı olarak
+ring \[ring\] : çalmak (zil), yüzük
+rise \[rayz\] : yükselmek, doğmak
+risk \[risk\] : risk, tehlike
+rival \[rayvıl\] : rakip
+river \[rivır\] : nehir, ırmak
+road \[roud\] : yol, cadde
+rob \[rob\] : soymak (banka/kişi)
+rock \[rok\] : kaya, sallanmak
+role \[rol\] : rol, görev
+roll \[rol\] : yuvarlanmak, rulo
+romantic \[romantik\] : romantik
+roof \[ruuf\] : çatı
+room \[ruum\] : oda, alan
+root \[ruut\] : kök
+rope \[roup\] : ip, halat
+rough \[raf\] : pürüzlü, kaba
+roughly \[rafli\] : yaklaşık olarak, kabaca
+round \[raund\] : yuvarlak, tur
+route \[ruut\] : rota, güzergah
+routine \[ruutiin\] : rutin, alışkanlık
+row \[rou\] : sıra, kürek çekmek
+royal \[royıl\] : kraliyet
+rub \[rab\] : ovmak, sürtmek
+rubber \[rabır\] : kauçuk, silgi
+rude \[ruud\] : kaba, nezaketsiz
+rudely \[ruudli\] : kabaca
+ruin \[ruin\] : mahvetmek, harabe
+rule \[ruul\] : kural, yönetmek
+ruler \[ruulır\] : cetvel, hükümdar
+rumor \[ruumır\] : söylenti, dedikodu
+run \[ran\] : koşmak, yönetmek
+runner \[ranır\] : koşucu
+running \[raning\] : koşu, çalışma
+rush \[raş\] : acele etmek, koşturmak
+sack \[sek\] : çuval, kovmak
+sad \[sed\] : üzgün
+sadly \[sedli\] : üzüntüyle
+sadness \[sednıs\] : üzüntü
+safe \[seyf\] : güvenli, kasa
+safely \[seyfli\] : güvenle
+safety \[seyfti\] : güvenlik
+sail \[seyl\] : yelken açmak
+sailing \[seyling\] : yelkenli sporu
+sailor \[seylır\] : denizci
+salad \[salad\] : salata
+salary \[salıri\] : maaş
+sale \[seyl\] : satış, indirim
+salt \[solt\] : tuz
+same \[seym\] : aynı
+sample \[sampıl\] : örnek, numune
+sand \[send\] : kum
+satisfaction \[satisfakşın\] : memnuniyet
+satisfied \[satisfayd\] : memnun
+satisfy \[satisfay\] : memnun etmek
+sauce \[sos\] : sos
+save \[seyv\] : kaydetmek, kurtarmak, biriktirmek
+saving \[seyving\] : tasarruf, birikim
+say \[sey\] : söylemek
+scale \[skeyl\] : ölçek, tartı
+scare \[skeyr\] : korkutmak
+scared \[skeyrd\] : korkmuş
+scene \[siin\] : sahne, olay yeri
+schedule \[skecul\] : program, takvim
+scheme \[skiim\] : plan, tasarı
+school \[skuul\] : okul
+science \[sayıns\] : bilim
+scientific \[sayıntıfik\] : bilimsel
+scientist \[sayıntist\] : bilim insanı
+scissors \[sizırz\] : makas
+score \[skor\] : skor, puan almak
+scratch \[skreç\] : kazımak, tırmalamak
+scream \[skriim\] : çığlık atmak
+screen \[skriin\] : ekran, siper
+screw \[skruu\] : vida, vidalamak
+sea \[sii\] : deniz
+seal \[siil\] : mühürlemek, fok balığı
+search \[sörç\] : araştırmak, arama
+season \[siizın\] : mevsim, sezon
+seat \[siit\] : koltuk, oturtmak
+second \[sekınd\] : ikinci, saniye
+secondary \[sekındıri\] : ikincil, ortaöğretim
+secret \[siikrıt\] : gizli, sır
+secretary \[sekritıri\] : sekreter
+secretly \[siikrıtli\] : gizlice
+section \[sekşın\] : bölüm, kısım
+sector \[sektır\] : sektör
+secure \[sikyuur\] : güvenli, güvenceye almak
+security \[sikyuuriti\] : güvenlik
+see \[sii\] : görmek, anlamak
+seed \[siid\] : tohum
+seek \[siik\] : aramak, çabalamak
+seem \[siim\] : görünmek
+select \[selekt\] : seçmek
+selection \[selekşın\] : seçim, ayıklama
+self \[self\] : kendi, öz
+sell \[sel\] : satmak
+send \[send\] : göndermek
+senior \[siiniyır\] : kıdemli, üst
+sense \[sens\] : duyu, his, mantık
+sensible \[sensıbıl\] : mantıklı, akla yatkın
+sensitive \[sensitiv\] : hassas, duyarlı
+sentence \[sentıns\] : cümle, mahkum etmek
+separate \[sepıreyt\] : ayırmak, ayrı
+separately \[sepıreytli\] : ayrı olarak
+separation \[sepıreyşın\] : ayrılık
+september \[septembır\] : eylül ayı
+series \[siriyiz\] : dizi, seri
+serious \[siriyıs\] : ciddi, ağır
+seriously \[siriyısli\] : ciddi şekilde
+servant \[sörvınt\] : hizmetçi
+serve \[sörv\] : hizmet etmek, servis yapmak
+service \[sörvis\] : hizmet, servis
+session \[seşın\] : oturum, seans
+set \[set\] : ayarlamak, küme
+settle \[setıl\] : yerleşmek, çözmek
+settlement \[setılmınt\] : yerleşim, anlaşma
+several \[sevırıl\] : birkaç
+severe \[siviyır\] : şiddetli, ağır
+severely \[siviyırli\] : ciddi şekilde
+sew \[sou\] : dikiş dikmek
+sex \[seks\] : cinsiyet
+sexual \[sekşuıl\] : cinsel
+shade \[şeyd\] : gölge, ton
+shadow \[şedou\] : gölge
+shake \[şeyk\] : sallamak, titremek
+shall \[şel\] : -ecek/-acak (öneri)
+shallow \[şelou\] : sığ
+shame \[şeym\] : utanç, yazık
+shape \[şeyp\] : şekil, şekillendirmek
+shaped \[şeypt\] : şekilli
+share \[şer\] : paylaşmak, hisse
+sharp \[şarp\] : keskin, aniden
+sharply \[şarpli\] : keskin bir şekilde
+shave \[şeyv\] : tıraş olmak
+she \[şii\] : o (kadın)
+sheep \[şiip\] : koyun
+sheet \[şiit\] : çarşaf, levha, kağıt
+shelf \[şelf\] : raf
+shell \[şel\] : kabuk
+shelter \[şeltır\] : barınak, sığınmak
+shift \[şift\] : vardiya, değiştirmek
+shine \[şayn\] : parlamak
+shiny \[şayni\] : parlak
+ship \[şip\] : gemi, sevk etmek
+shirt \[şört\] : gömlek
+shock \[şok\] : şok, sarsmak
+shocked \[şokt\] : şoke olmuş
+shocking \[şoking\] : şok edici
+shoe \[şuu\] : ayakkabı
+shoot \[şuut\] : ateş etmek, çekim yapmak
+shooting \[şuuting\] : ateş etme, çekim
+shop \[şop\] : dükkan, alışveriş yapmak
+shopping \[şoping\] : alışveriş
+short \[şort\] : kısa
+shortly \[şortli\] : kısa süre içinde
+shot \[şot\] : atış, vuruş, kare
+should \[şud\] : -meli/-malı (tavsiye)
+shoulder \[şouldır\] : omuz
+shout \[şaut\] : bağırmak
+show \[şou\] : göstermek, şov
+shower \[şauır\] : duş, sağanak
+shut \[şat\] : kapatmak
+shy \[şay\] : utangaç
+sick \[sik\] : hasta, mide bulandırıcı
+side \[sayd\] : taraf, yan
+sidewalk \[saydvolk\] : kaldırım
+sight \[sayt\] : görme, manzara
+sign \[sayn\] : imzalamak, tabela, işaret
+signal \[signıl\] : sinyal, işaret
+signature \[signıçır\] : imza
+significance \[signifikıns\] : önem, anlam
+significant \[signifikınt\] : önemli, anlamlı
+significantly \[signifikıntli\] : önemli ölçüde
+silence \[saylıns\] : sessizlik
+silent \[saylınt\] : sessiz
+silk \[silk\] : ipek
+silly \[sili\] : aptalca, saçma
+silver \[silvır\] : gümüş
+similar \[similır\] : benzer
+similarly \[similırli\] : benzer şekilde
+simple \[simpıl\] : basit, sade
+simply \[simpli\] : basitçe, sadece
+since \[sins\] : -den beri, çünkü
+sincere \[sinsiyır\] : samimi, içten
+sincerely \[sinsiyırli\] : içtenlikle
+sing \[sing\] : şarkı söylemek
+singer \[singır\] : şarkıcı
+singing \[singing\] : şarkı söyleme
+single \[singıl\] : tek, bekar
+sink \[sink\] : batmak, lavabo
+sir \[sör\] : efendim, bayım
+sister \[sistır\] : kız kardeş
+sit \[sit\] : oturmak
+site \[sayt\] : site, mekan
+situation \[situeyşın\] : durum, vaziyet
+size \[sayz\] : boyut, beden
+skill \[skil\] : beceri, yetenek
+skilled \[skild\] : vasıflı, becerikli
+skin \[skin\] : cilt, deri
+skirt \[skört\] : etek
+sky \[skay\] : gökyüzü
+sleep \[sliip\] : uyumak, uyku
+sleeve \[sliiv\] : elbise kolu
+slice \[slays\] : dilim, dilimlemek
+slide \[slayd\] : kaymak, slayt
+slight \[slayt\] : hafif, küçük
+slightly \[slaytli\] : hafifçe, birazcık
+slip \[slip\] : kaymak, kayıp düşmek
+slope \[sloup\] : eğim, yamaç
+slow \[slou\] : yavaş
+slowly \[slouli\] : yavaşça
+small \[smol\] : küçük
+smart \[smart\] : akıllı, şık
+smell \[smel\] : koklamak, koku
+smile \[smayl\] : gülümsemek, gülüş
+smoke \[smouk\] : tütmek, sigara içmek, duman
+smoking \[smouking\] : sigara içme
+smooth \[smuudh\] : pürüzsüz, düzgün
+smoothly \[smuudhli\] : sorunsuz bir şekilde
+snake \[sneyk\] : yılan
+snow \[snou\] : kar, yağmak
+so \[sou\] : bu yüzden, çok
+soap \[soup\] : sabun
+social \[soşıl\] : sosyal, toplumsal
+socially \[soşılı\] : sosyal olarak
+society \[sosayeti\] : toplum
+sock \[sok\] : çorap
+soft \[soft\] : yumuşak
+softly \[softli\] : yumuşakça
+software \[softveyr\] : yazılım
+soil \[soyl\] : toprak
+soldier \[solcır\] : asker
+solid \[solid\] : katı, sağlam
+solution \[soluşın\] : çözüm
+solve \[solv\] : çözmek
+some \[sam\] : bazı, biraz
+somebody \[sambodi\] : birisi
+somehow \[samhau\] : bir şekilde
+someone \[samvan\] : birisi
+something \[samthing\] : bir şey
+sometime \[samtaym\] : bir ara, bazen
+sometimes \[samtaymz\] : bazen
+somewhere \[samveyr\] : bir yer
+son \[san\] : erkek evlat
+song \[song\] : şarkı
+soon \[suun\] : yakında, birazdan
+sore \[sor\] : ağrılı, yara
+sorry \[sori\] : üzgün, özür dilerim
+sort \[sort\] : tür, ayıklamak
+soul \[soul\] : ruh, can
+sound \[saund\] : ses, gibi gelmek
+soup \[suup\] : çorba
+source \[sors\] : kaynak, köken
+south \[sauth\] : güney
+southern \[sadhırn\] : güneydeki
+space \[speys\] : uzay, alan
+spare \[speyr\] : yedek, ayırmak
+spark \[spark\] : kıvılcım
+speak \[spiik\] : konuşmak
+speaker \[spiikır\] : konuşmacı, hoparlör
+special \[speşıl\] : özel
+specialist \[speşolist\] : uzman
+specially \[speşılı\] : özellikle
+specific \[spesifik\] : belirli, özel
+specifically \[spesifikli\] : özellikle
+speech \[spiiç\] : konuşma, nutuk
+speed \[spiid\] : hız
+spell \[spel\] : hecelemek, büyü
+spelling \[speling\] : imla, heceleme
+spend \[spend\] : harcamak, vakit geçirmek
+spice \[spays\] : baharat
+spicy \[spaysi\] : baharatlı, acı
+spider \[spaydır\] : örümcek
+spill \[spil\] : dökmek, dökülmek
+spin \[spin\] : dönmek, döndürmek
+spirit \[spirit\] : ruh, moral
+spiritual \[spirıçual\] : ruhani, manevi
+spite \[spayt\] : nispet, kin
+split \[split\] : bölmek, ayrılmak
+spoil \[spoyl\] : bozmak, şımartmak
+spoken \[spoukın\] : konuşulan
+spoon \[spuun\] : kaşık
+sport \[sport\] : spor
+spot \[spot\] : leke, nokta, fark etmek
+spray \[sprey\] : püskürtmek, sprey
+spread \[spred\] : yaymak, yayılmak
+spring \[spring\] : ilkbahar, yay, pınar
+square \[skveyr\] : kare, meydan
+squeeze \[skviiz\] : sıkmak, ezmek
+stable \[steybıl\] : kararlı, ahır
+staff \[staf\] : personel, kadro
+stage \[steyc\] : sahne, aşama
+stair \[steyr\] : merdiven basamağı
+stamp \[stemp\] : pul, damga
+stand \[stend\] : ayakta durmak, katlanmak
+standard \[standart\] : standart
+star \[star\] : yıldız
+stare \[steyr\] : dik dik bakmak
+start \[start\] : başlamak, başlangıç
+state \[steyt\] : devlet, durum, ifade etmek
+statement \[steytmınt\] : ifade, beyan
+station \[steyşın\] : istasyon, gar
+statue \[stetyuu\] : heykel
+status \[steytıs\] : statü, durum
+stay \[stey\] : kalmak
+steady \[stedi\] : sabit, istikrarlı
+steak \[steyk\] : biftek
+steal \[stiil\] : çalmak (hırsızlık)
+steam \[stiim\] : buhar
+steel \[stiil\] : çelik
+steep \[stiip\] : dik, sarp
+step \[step\] : adım, adım atmak
+stick \[stik\] : sopayla vurmak, yapıştırmak, sopa
+sticky \[stiki\] : yapışkan
+stiff \[stif\] : sert, katı
+still \[stil\] : hala, durgun
+sting \[sting\] : sokmak (arı vs)
+stir \[stır\] : karıştırmak
+stock \[stok\] : stok, hisse senedi
+stomach \[stamak\] : mide, karın
+stone \[stoun\] : taş
+stop \[stop\] : durmak, durdurmak
+store \[stor\] : mağaza, depolamak
+storm \[storm\] : fırtına
+story \[stori\] : hikaye
+stove \[stouv\] : soba, ocak
+straight \[streyt\] : düz, doğrudan
+strain \[streyn\] : zorlanmak, gerilim
+strange \[streync\] : garip, yabancı
+strangely \[streyncli\] : garip bir şekilde
+stranger \[streyncır\] : yabancı
+strategy \[strateci\] : strateji
+stream \[striim\] : dere, akıntı
+street \[striit\] : sokak, cadde
+strength \[strength\] : güç, kuvvet
+stress \[stres\] : stres, vurgulamak
+stressed \[strest\] : stresli
+stretch \[streç\] : esnetmek, uzanmak
+strict \[strikt\] : katı, disiplinli
+strictly \[striktli\] : kesinlikle, sıkıca
+strike \[strayk\] : grev, vurmak
+striking \[strayking\] : çarpıcı, dikkat çeken
+string \[string\] : ip, tel
+strip \[strip\] : soymak, şerit
+stripe \[strayp\] : çizgi, şerit
+strive \[strayv\] : çabalamak
+stroke \[strouk\] : felç, okşamak
+strong \[strong\] : güçlü
+strongly \[strongli\] : güçlü bir şekilde
+structure \[strakçır\] : yapı, bina
+struggle \[stragıl\] : mücadele etmek
+student \[styudınt\] : öğrenci
+studio \[studyo\] : stüdyo
+study \[stadi\] : ders çalışmak, incelemek
+stuff \[staf\] : şey, eşya
+stupid \[styuupid\] : aptal, saçma
+style \[stayl\] : tarz, stil
+subject \[sabcek\] : konu, ders
+submit \[sabmit\] : sunmak, teslim etmek
+substance \[sabstıns\] : madde, cisim
+substantial \[sabstenşıl\] : önemli, büyük
+succeed \[saksiid\] : başarmak
+success \[sakses\] : başarı
+successful \[saksesful\] : başarılı
+such \[saç\] : böyle, bu gibi
+suck \[sak\] : emmek
+sudden \[sadın\] : ani
+suddenly \[sadınli\] : aniden, birdenbire
+suffer \[safır\] : acı çekmek, muzdarip olmak
+suffering \[safıring\] : acı, keder
+sufficient \[safişınt\] : yeterli
+sugar \[şugır\] : şeker
+suggest \[sacesd\] : öneride bulunmak
+suggestion \[sacesçın\] : öneri, tavsiye
+suit \[suut\] : takım elbise, uymak
+suitable \[suutıbıl\] : uygun, elverişli
+sum \[sam\] : toplam, meblağ
+summary \[samıri\] : özet
+summer \[samır\] : yaz mevsimi
+sun \[san\] : güneş
+sunday \[sandey\] : pazar günü
+superior \[supiriyır\] : üstün, amir
+supermarket \[supırmarkıt\] : süpermarket
+supply \[saplay\] : sağlamak, tedarik
+support \[saport\] : desteklemek, destek
+supporter \[saportır\] : destekçi, taraftar
+suppose \[sapouz\] : varsaymak, zannetmek
+sure \[şuur\] : emin, kesin
+surely \[şuurli\] : kesinlikle
+surface \[sörfis\] : yüzey
+surgery \[sörcıri\] : ameliyat, cerrahi
+surprise \[sırprayz\] : şaşırtmak, sürpriz
+surprised \[sırprayzd\] : şaşırmış
+surprising \[sırprayzing\] : şaşırtıcı
+surround \[saraund\] : çevrelemek
+surrounding \[saraunding\] : çevreleyen
+survey \[sörvey\] : anket, inceleme
+survival \[sırvayvıl\] : hayatta kalma
+survive \[sırvayv\] : hayatta kalmak
+suspect \[saspekt\] : şüphelenmek, şüpheli
+suspicion \[saspişın\] : şüphe
+suspicious \[saspişıs\] : şüpheci, şüpheli
+swallow \[svalou\] : yutmak, kırlangıç
+swear \[sveyr\] : yemin etmek, küfretmek
+sweat \[svet\] : terlemek, ter
+sweater \[svtır\] : kazak
+sweep \[sviip\] : süpürmek
+sweet \[sviit\] : tatlı
+swim \[svim\] : yüzmek
+swimming \[sviming\] : yüzme
+swimming pool \[sviming puul\] : yüzme havuzu
+swing \[sving\] : sallanmak, salıncak
+switch \[sviç\] : düğme, değiştirmek
+symbol \[sımbıl\] : sembol, simge
+sympathy \[sımpathi\] : sempatiklik, acıma
+system \[sistım\] : sistem
+table \[teybıl\] : masa, tablo
+tablet \[tablet\] : tablet, hap
+tackle \[takıl\] : ele almak, müdahale etmek
+tail \[teyl\] : kuyruk
+take \[teyk\] : almak, götürmek
+tale \[teyl\] : masal, hikaye
+talent \[telınt\] : yetenek
+talented \[telıntid\] : yetenekli
+talk \[tok\] : konuşmak, sohbet
+tall \[tol\] : uzun boylu
+tank \[tenk\] : tank, depo
+tap \[tep\] : musluk, hafifçe vurmak
+tape \[teyp\] : bant, kaset
+target \[target\] : hedef
+task \[task\] : görev, iş
+taste \[teyst\] : tatmak, tat
+tax \[teks\] : vergi
+taxi \[teksi\] : taksi
+tea \[tii\] : çay
+teach \[tiiç\] : öğretmek
+teacher \[tiiçır\] : öğretmen
+teaching \[tiiçing\] : öğretmenlik, öğretim
+team \[tiim\] : takım, ekip
+tear \[tiır\] : gözyaşı, yırtmak
+technical \[teknikıl\] : teknik
+technique \[teknik\] : teknik, yöntem
+technology \[teknoloci\] : teknoloji
+teenager \[tiineycır\] : genç, ergen
+telephone \[telefoun\] : telefon
+television \[televijın\] : televizyon
+tell \[tel\] : anlatmak, söylemek
+temperature \[temprıçır\] : sıcaklık
+temporary \[tempırıri\] : geçici
+tend \[tend\] : eğiliminde olmak
+tendency \[tendinsi\] : eğilim
+tennis \[tenis\] : tenis
+tension \[tenşın\] : gerilim, tansiyon
+tent \[tent\] : çadır
+term \[törm\] : terim, dönem
+terrible \[terıbıl\] : berbat, korkunç
+terribly \[terıbli\] : oldukça, berbat bir şekilde
+test \[test\] : test etmek, sınav
+text \[tekst\] : metin, mesaj atmak
+than \[den\] : -den/-dan (karşılaştırma)
+thank \[thenk\] : teşekkür etmek
+thanks \[thenks\] : teşekkürler
+that \[det\] : o, ki
+the \[dı\] : (belirli tanımlık)
+theater \[thiatır\] : tiyatro
+their \[deyr\] : onların
+theirs \[deyrz\] : onlarınki
+them \[dem\] : onları, onlara
+theme \[thiim\] : tema, konu
+themselves \[demselvz\] : kendileri
+then \[den\] : sonra, o zaman
+theory \[thiyıri\] : teori, kuram
+there \[deyr\] : orada, oraya
+therefore \[dierfor\] : bu yüzden, bu nedenle
+they \[dey\] : onlar
+thick \[thik\] : kalın, yoğun
+thickly \[thikli\] : kalınca
+thief \[thiif\] : hırsız
+thin \[thin\] : ince, zayıf
+thing \[thing\] : şey, nesne
+think \[think\] : düşünmek
+thinking \[thinking\] : düşünce
+third \[thörd\] : üçüncü
+thirsty \[thörsti\] : susamış
+thirteen \[thırtiin\] : on üç
+thirty \[thırti\] : otuz
+this \[dis\] : bu
+thorough \[thıro\] : kapsamlı, titiz
+thoroughly \[thıroli\] : tamamen, iyice
+though \[thou\] : -e rağmen, yine de
+thought \[thot\] : düşünce
+thousand \[thauzınd\] : bin
+threat \[thret\] : tehdit
+threaten \[thretın\] : tehdit etmek
+three \[thrii\] : üç
+throat \[throut\] : boğaz
+through \[thruu\] : içinden, vasıtasıyla
+throughout \[thruuaut\] : boyunca, genelinde
+throw \[throu\] : fırlatmak, atmak
+thumb \[tham\] : başparmak
+thursday \[thörzdey\] : perşembe günü
+thus \[das\] : böylece, bu nedenle
+ticket \[tikıt\] : bilet
+tidy \[taydi\] : düzenli, toplamak
+tie \[tay\] : bağlamak, kravat, berabere kalmak
+tight \[tayt\] : sıkı, dar
+tightly \[taytli\] : sıkıca
+till \[til\] : -e kadar
+time \[taym\] : zaman, kez
+timetable \[taymteybıl\] : zaman çizelgesi
+tin \[tin\] : teneke, konserve
+tiny \[tayni\] : küçücük, minik
+tip \[tip\] : ipucu, bahşiş, uç
+tire \[tayır\] : yormak, lastik
+tired \[tayırd\] : yorgun
+tiring \[tayiring\] : yorucu
+tissue \[tişuu\] : doku, peçete
+title \[taytıl\] : başlık, unvan
+to \[tu\] : -e/-a, amacıyla
+toast \[toust\] : tost, kadeh kaldırmak
+today \[tudey\] : bugün
+toe \[tou\] : ayak parmağı
+together \[tugedır\] : birlikte
+toilet \[toylıt\] : tuvalet
+tomato \[tomaytou\] : domates
+tomorrow \[tomorou\] : yarın
+ton \[tan\] : ton (ağırlık)
+tone \[toun\] : ton, ses tonu
+tongue \[tang\] : dil
+tonight \[tunayt\] : bu gece
+too \[tuu\] : aşırı, de/da
+tool \[tuul\] : alet, araç
+tooth \[tuuth\] : diş
+top \[top\] : üst, zirve
+topic \[topik\] : konu, başlık
+total \[toutıl\] : toplam
+totally \[toutıli\] : tamamen
+touch \[taç\] : dokunmak, temas
+tough \[taf\] : zorlu, sert
+tour \[tuur\] : tur, gezmek
+tourist \[tuurist\] : turist
+toward \[tuvord\] : -e doğru
+towards \[tuvordz\] : -e doğru
+towel \[tauıl\] : havlu
+tower \[tauır\] : kule
+town \[taun\] : kasaba, şehir
+toy \[toy\] : oyuncak
+trace \[treys\] : izini sürmek, iz
+track \[trek\] : takip etmek, pist, hat
+trade \[treyd\] : ticaret yapmak, ticaret
+tradition \[tredişın\] : gelenek
+traditional \[tredişınıl\] : geleneksel
+traffic \[trafik\] : trafik
+train \[treyn\] : tren, eğitmek
+trainer \[treynır\] : antrenör, eğitmen
+training \[treyning\] : eğitim, antrenman
+transfer \[transfer\] : transfer etmek, aktarmak
+transform \[transform\] : dönüştürmek
+transition \[tranzışın\] : geçiş
+translate \[trensleyt\] : çevirmek (dil)
+translation \[trensleyşın\] : çeviri
+transparent \[trensparent\] : şeffaf, saydam
+transport \[transport\] : taşımak, ulaşım
+transportation \[transporteyşın\] : taşıma, ulaşım
+trap \[trep\] : tuzak, tuzak kurmak
+travel \[travıl\] : seyahat etmek
+traveler \[travılır\] : gezgin, yolcu
+treat \[triit\] : tedavi etmek, davranmak, ikram
+treatment \[triitmınt\] : tedavi, davranış
+tree \[trii\] : ağaç
+trend \[trend\] : eğilim, trend
+trial \[trayıl\] : duruşma, deneme
+triangle \[trayengıl\] : üçgen
+trick \[trik\] : hile, kandırmak
+trip \[trip\] : gezi, yolculuk
+tropical \[tropikıl\] : tropikal
+trouble \[trabıl\] : sorun, dert
+trousers \[trauzırz\] : pantolon
+truck \[trak\] : kamyon
+truly \[truuli\] : gerçekten, içtenlikle
+trust \[trast\] : güvenmek, güven
+truth \[truuth\] : gerçek, hakikat
+try \[tray\] : denemek, çabalamak
+tube \[tyuub\] : tüp, boru
+tuesday \[tyuzdey\] : salı günü
+tune \[tyuun\] : akort etmek, melodi
+tunnel \[tanıl\] : tünel
+turn \[törn\] : dönmek, sıra
+tv \[tiivii\] : televizyon
+twelve \[tvelv\] : on iki
+twenty \[tventi\] : yirmi
+twice \[tvays\] : iki kez
+twin \[tvin\] : ikiz
+twist \[tvist\] : bükmek, burkmak
+two \[tuu\] : iki
+type \[tayp\] : tür, yazmak (klavye)
+typical \[tipikıl\] : tipik, özgü
+typically \[tipikıli\] : tipik olarak
+ugly \[agli\] : çirkin
+ultimate \[ultimıt\] : nihai, son
+ultimately \[ultimıtli\] : nihayetinde, eninde sonunda
+umbrella \[ambrela\] : şemsiye
+unable \[uneybıl\] : yapamayan, aciz
+unacceptable \[unəkseptıbıl\] : kabul edilemez
+uncertain \[unsörtın\] : belirsiz, şüpheli
+uncle \[ankıl\] : amca, dayı
+uncomfortable \[unkamfırtıbıl\] : rahatsız, konforsuz
+unconscious \[unkonşıs\] : bilinçsiz, baygın
+uncontrolled \[unkontrolst\] : kontrolsüz
+under \[andır\] : altında
+underneath \[andırniith\] : altında, alt kısımda
+understand \[andırstend\] : anlamak
+understanding \[andırstending\] : anlayış
+underwater \[andırvotır\] : su altı
+underwear \[andırveyr\] : iç çamaşırı
+undo \[anduu\] : geri almak, çözmek
+unemployed \[animployd\] : işsiz
+unemployment \[animploymınt\] : işsizlik
+unexpected \[anikspektid\] : beklenmedik
+unfair \[unfeyr\] : adil olmayan
+unfortunate \[unforçunıt\] : talihsiz
+unfortunately \[anforçunıtli\] : maalesef, ne yazık ki
+unfriendly \[unfrendli\] : soğuk, dostça olmayan
+unhappy \[unhepi\] : mutsuz
+uniform \[yuniform\] : üniforma
+union \[yunyın\] : sendika, birlik
+unique \[yuniik\] : eşsiz, benzersiz
+unit \[yunit\] : birim, ünite
+unite \[yunayt\] : birleşmek, birleştirmek
+united \[yunaytid\] : birleşmiş
+universal \[yunivırsıl\] : evrensel
+universe \[yunivırs\] : evren
+university \[yunivırsiti\] : üniversite
+unkind \[unkaynd\] : kaba, merhametsiz
+unknown \[unnoun\] : bilinmeyen
+unless \[anles\] : -medikçe, -madıkça
+unlike \[anlayk\] : -in aksine
+unlikely \[anlaykli\] : muhtemel olmayan
+unload \[anloud\] : boşaltmak (yük)
+unpleasant \[unplezınt\] : hoşa gitmeyen
+unreasonable \[unriizınıbıl\] : mantıksız
+unsteady \[uns tedi\] : kararsız, dengesiz
+unsuccessful \[unsaksesful\] : başarısız
+until \[antil\] : -e kadar
+unusual \[unyuujuıl\] : olağan dışı, alışılmadık
+unusually \[unyuujuıli\] : alışılmadık şekilde
+unwilling \[unviling\] : isteksiz
+up \[ap\] : yukarı, yukarıya
+upon \[apon\] : üzerinde, üzerine
+upper \[apır\] : üst, üstteki
+upset \[apset\] : üzgün, keyfini kaçırmak
+upside down \[apsayd daun\] : baş aşağı, ters
+upstairs \[apsteyrz\] : üst kat
+upward \[apvırd\] : yukarıya doğru
+urban \[urbın\] : kentsel, şehirle ilgili
+urge \[urc\] : dürtü, ısrar etmek
+urgent \[urcınt\] : acil, ivedi
+us \[as\] : bizi, bize
+use \[yuuz\] : kullanmak, kullanım
+used \[yuuzd\] : kullanılmış, alışkın
+used to \[yuust tu\] : eskiden yapardı
+useful \[yuusful\] : faydalı, kullanışlı
+useless \[yuuslıs\] : yararsız, faydasız
+user \[yuuzır\] : kullanıcı
+usual \[yuujuıl\] : olağan, her zamanki
+usually \[yuujuıli\] : genellikle
+vacation \[vakeyşın\] : tatil
+valid \[valid\] : geçerli, mantıklı
+valuable \[valyubıl\] : değerli, kıymetli
+value \[valyu\] : değer
+van \[ven\] : minibüs, kamyonet
+variation \[veriyeyşın\] : varyasyon, değişim
+varied \[verid\] : çeşitli, muhtelif
+variety \[varayeti\] : çeşitlilik
+various \[veriyıs\] : çeşitli, muhtelif
+vary \[veri\] : çeşitlilik göstermek
+vast \[vast\] : muazzam, geniş
+vegetable \[vecıtıbıl\] : sebze
+vehicle \[viikıl\] : araç, taşıt
+version \[vırjın\] : versiyon, sürüm
+very \[veri\] : çok, tam olarak
+via \[viya\] : vasıtasıyla, üzerinden
+victim \[viktim\] : kurban, mağdur
+victory \[viktori\] : zafer, galibiyet
+video \[vidyou\] : video
+view \[vyuu\] : görüş, manzara
+village \[vilıc\] : köy
+violence \[vayılıns\] : şiddet
+violent \[vayılınt\] : şiddetli, zorlu
+virtually \[vırçuıli\] : neredeyse, sanal olarak
+virus \[vayrıs\] : virüs
+visible \[vizıbıl\] : görünür, açık
+vision \[vijın\] : vizyon, görme yetisi
+visit \[vizit\] : ziyaret etmek
+visitor \[vizitır\] : ziyaretçi
+vital \[vaytıl\] : hayati, çok önemli
+vocabulary \[vokabyulıri\] : kelime bilgisi
+voice \[voys\] : ses (insan sesi)
+volume \[volyum\] : hacim, ses seviyesi
+vote \[vout\] : oy kullanmak, oy
+wage \[veyc\] : haftalık maaş, ücret
+waist \[veyst\] : bel
+wait \[veyt\] : beklemek
+waiter \[veytır\] : garson (erkek)
+wake \[veyk\] : uyanmak
+walk \[volk\] : yürümek, yürüyüş
+walking \[volking\] : yürüyüş yapma
+wall \[vol\] : duvar
+wallet \[volıt\] : cüzdan
+wander \[vandır\] : dolaşmak, gezinmek
+want \[vont\] : istemek
+war \[vor\] : savaş
+warm \[vorm\] : ılık, ısıtmak
+warmth \[vormth\] : sıcaklık, samimiyet
+warn \[vorn\] : uyarmak
+warning \[vorning\] : uyarı, ikaz
+wash \[voş\] : yıkamak
+waste \[veyst\] : atık, israf
+watch \[voç\] : izlemek, kol saati
+water \[votır\] : su, sulamak
+wave \[veyv\] : dalga, el sallamak
+way \[vey\] : yol, yöntem
+we \[vii\] : biz
+weak \[viik\] : zayıf, güçsüz
+weakness \[viiknıs\] : zayıflık
+wealth \[velth\] : servet, zenginlik
+weapon \[vepın\] : silah
+wear \[veyr\] : giymek, takmak
+weather \[vedhır\] : hava durumu
+web \[veb\] : ağ, internet
+website \[vebsayt\] : web sitesi
+wedding \[veding\] : düğün
+wednesday \[venzdey\] : çarşamba günü
+week \[viik\] : hafta
+weekend \[viikend\] : hafta sonu
+weekly \[viikli\] : haftalık
+weigh \[vey\] : tartmak, ağırlığında olmak
+weight \[veyt\] : ağırlık
+welcome \[velkam\] : hoş geldin, karşılamak
+well \[vel\] : iyi, kuyu
+well-known \[vel noun\] : tanınmış, ünlü
+west \[vest\] : batı
+western \[vestırn\] : batıdaki
+wet \[vet\] : ıslak, nemli
+what \[vot\] : ne
+whatever \[votivır\] : her ne ise
+wheel \[viil\] : tekerlek, direksiyon
+when \[ven\] : ne zaman, -diğinde
+whenever \[venevır\] : her ne zaman
+where \[veyr\] : nerede, nereye
+whereas \[veyrez\] : oysa, iken
+wherever \[veyrevır\] : her neresi
+whether \[vedhır\] : olup olmadığını
+which \[viç\] : hangi, hangisi
+while \[vayl\] : -iken, süre
+whisper \[vispır\] : fısıldamak, fısıltı
+whistle \[visıl\] : ıslık çalmak, düdük
+white \[vayt\] : beyaz
+who \[huu\] : kim
+whoever \[huuevır\] : her kim
+whole \[houl\] : bütün, tüm
+whom \[huum\] : kime, kimi
+whose \[huuz\] : kimin
+why \[vay\] : neden, niçin
+wide \[vayd\] : geniş
+widely \[vaydli\] : yaygın olarak
+width \[width\] : genişlik, en
+wife \[vayf\] : eş (kadın)
+wild \[vayld\] : vahşi, çılgın
+will \[vil\] : -ecek/-acak, irade
+willing \[viling\] : istekli, gönüllü
+win \[vin\] : kazanmak
+wind \[vind\] : rüzgar
+window \[vindou\] : pencere
+windy \[vindi\] : rüzgarlı
+wine \[vayn\] : şarap
+wing \[ving\] : kanat
+winner \[vinır\] : kazanan
+winning \[vining\] : kazanan, galibiyet
+winter \[vintır\] : kış mevsimi
+wire \[vayır\] : tel, kablo
+wise \[vayz\] : bilge, akıllı
+wish \[viş\] : dilemek, istek
+with \[vith\] : ile, birlikte
+withdraw \[vithdro\] : geri çekilmek, para çekmek
+within \[vithin\] : içinde, dahilinde
+without \[vithaut\] : -sız/-siz, olmaksızın
+witness \[vitnis\] : tanık olmak, şahit
+woman \[vumın\] : kadın
+wonder \[vandır\] : merak etmek, mucize
+wonderful \[vandırful\] : harika, mükemmel
+wood \[vuud\] : odun, ahşap, orman
+wooden \[vuudn\] : ahşap, tahta
+wool \[vuul\] : yün
+word \[vörd\] : kelime, söz
+work \[vörk\] : çalışmak, iş
+worker \[vörkır\] : işçi, çalışan
+working \[vörking\] : çalışma, işleyen
+workshop \[vörkşop\] : atölye, çalışma grubu
+world \[vorld\] : dünya
+worry \[vari\] : endişelenmek, kaygı
+worse \[vors\] : daha kötü
+worship \[vorşip\] : ibadet etmek
+worst \[vorst\] : en kötü
+worth \[vorth\] : değerinde, değmek
+would \[vuud\] : -erdi/-ardı (istemek/geçmiş)
+wound \[vuund\] : yaralamak, yara
+wrap \[rep\] : paketlemek, sarmak
+wrist \[rist\] : el bileği
+write \[rayt\] : yazmak
+writer \[raytır\] : yazar
+writing \[rayting\] : yazı, yazma
+written \[ritn\] : yazılı
+wrong \[rong\] : yanlış, hatalı
+yard \[yard\] : avlu, bahçe
+yeah \[yea\] : evet
+year \[yiyır\] : yıl, sene
+yellow \[yelou\] : sarı
+yes \[yes\] : evet
+yesterday \[yestırdey\] : dün
+yet \[yet\] : henüz, yine de
+you \[yuu\] : sen, siz
+young \[yang\] : genç
+your \[your\] : senin, sizin
+yours \[yourz\] : seninki, sizinki
+yourself \[yourself\] : kendin, kendiniz
+youth \[yuuth\] : gençlik
+zone \[zoun\] : bölge, alan

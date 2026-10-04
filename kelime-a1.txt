@@ -1,150 +1,700 @@
-apple [epıl] : elma
-book [buk] : kitap
-cat [ket] : kedi
-dog [dog] : köpek
-house [haws] : ev
-water [votır] : su
-friend [frend] : arkadaş
-family [femıli] : aile
-school [skul] : okul
-time [taym] : zaman
-hello [helo] : merhaba
-yes [yes] : evet
-no [no] : hayır
-please [pliız] : lütfen
+I [ay] : ben
+you [yu] : sen / siz
+he [hii] : o (erkek)
+she [şii] : o (kadın)
+it [it] : o (cansız/hayvan)
+we [vii] : biz
+they [dey] : onlar
+me [mii] : beni / bana
+him [him] : onu / ona (erkek)
+her [hör] : onu / ona (kadın)
+us [as] : bizi / bize
+them [dem] : onları / onlara
+my [may] : benim
+your [yor] : senin / sizin
+his [hiz] : ünün (erkek)
+its [its] : onun (cansız/hayvan)
+our [awır] : bizim
+their [deır] : onların
+this [dis] : bu
+that [det] : şu / o
+these [diiz] : bunlar
+those [douz] : şunlar / onlar
+a [e] : bir
+an [en] : bir (sesli harften önce)
+the [dı] : belirli nesne takısı
+some [sam] : biraz / bazı
+any [eni] : hiç / herhangi bir
+many [meni] : çok / birçok
+much [maç] : çok (sayılamayan)
+every [evri] : her
+all [ool] : hepsi / bütün
+both [bouth] : her ikisi
+each [iiç] : her biri
+other [adır] : diğer
+another [anadır] : başka bir
+what [vot] : ne
+where [veır] : nerede / nereye
+when [ven] : ne zaman
+why [vay] : neden / niçin
+who [huu] : kim
+whose [huuz] : kimin
+which [viç] : hangi
+how [haw] : nasıl
+how much [haw maç] : ne kadar
+how many [haw meni] : kaç tane
+hello [helow] : merhaba
+hi [hay] : selam
+goodbye [gudbay] : hoşça kal
+bye [bay] : güle güle
+please [pliiz] : lütfen
+thanks [thenks] : teşekkürler
 thank you [thenk yu] : teşekkür ederim
-sorry [sori] : özür dilerim
-man [men] : adam
-woman [vumın] : kadın
-child [çayld] : çocuk
-mother [madır] : anne
-father [fadır] : baba
-brother [bradır] : erkek kardeş
-sister [sistır] : kız kardeş
-baby [beybi] : bebek
-name [neym] : isim
-day [dey] : gün
-night [nayt] : gece
-morning [morning] : sabah
-evening [iıvning] : akşam
-today [tudey] : bugün
-tomorrow [tumoro] : yarın
-yesterday [yestırdey] : dün
-week [viık] : hafta
-month [manth] : ay
-year [yiır] : yıl
-hour [awır] : saat
-minute [minit] : dakika
-food [fuud] : yiyecek
-bread [bred] : ekmek
-milk [milk] : süt
-tea [tii] : çay
-coffee [kofi] : kahve
-egg [eg] : yumurta
-cheese [çiız] : peynir
-meat [miıt] : et
-fish [fiş] : balık
-chicken [çikın] : tavuk
-rice [rays] : pirinç
-fruit [fruut] : meyve
-orange [orınc] : portakal
-sugar [şugır] : şeker
-salt [solt] : tuz
-breakfast [brekfıst] : kahvaltı
-lunch [lanç] : öğle yemeği
-dinner [dinır] : akşam yemeği
-car [kar] : araba
-bus [bas] : otobüs
-train [treyn] : tren
-street [striıt] : sokak
-city [siti] : şehir
-shop [şop] : dükkan
-money [mani] : para
-phone [fon] : telefon
-door [dor] : kapı
-window [vindo] : pencere
-room [ruum] : oda
-bed [bed] : yatak
-table [teybıl] : masa
-chair [çer] : sandalye
-kitchen [kiçın] : mutfak
-bathroom [bethruum] : banyo
-key [kii] : anahtar
-bag [beg] : çanta
-clothes [klodz] : kıyafetler
-shoe [şuu] : ayakkabı
-head [hed] : baş
-hand [hend] : el
-eye [ay] : göz
-face [feys] : yüz
-hair [her] : saç
-big [big] : büyük
-small [smol] : küçük
-good [gud] : iyi
-bad [bed] : kötü
-hot [hot] : sıcak
-cold [kold] : soğuk
-new [nyuu] : yeni
-old [old] : eski, yaşlı
-happy [hepi] : mutlu
-sad [sed] : üzgün
-tired [tayırd] : yorgun
-hungry [hangri] : aç
-beautiful [byuutifıl] : güzel
-easy [iızi] : kolay
-fast [fest] : hızlı
-slow [slo] : yavaş
-red [red] : kırmızı
-blue [bluu] : mavi
-green [griın] : yeşil
-white [vayt] : beyaz
-black [blek] : siyah
+sorry [sori] : üzgünüm / özür dilerim
+welcome [velkam] : hoş geldiniz
+excuse me [ikskyuuz mii] : affedersiniz
+yes [yes] : evet
+no [now] : hayır
+ok [oukey] : tamam
+maybe [meybi] : belki
+sure [şuur] : elbette / emin
+zero [zirow] : sıfır
 one [van] : bir
 two [tuu] : iki
 three [thrii] : üç
 four [for] : dört
 five [fayv] : beş
+six [siks] : altı
+seven [sevn] : yedi
+eight [eyt] : sekiz
+nine [nayn] : dokuz
 ten [ten] : on
-hundred [handrıd] : yüz (sayı)
-go [go] : gitmek
-come [kam] : gelmek
-eat [iıt] : yemek
-drink [drink] : içmek
-sleep [sliıp] : uyumak
-see [sii] : görmek
-look [luk] : bakmak
-want [vont] : istemek
-like [layk] : hoşlanmak, sevmek
-love [lav] : sevmek
-know [no] : bilmek
-think [think] : düşünmek
-say [sey] : söylemek
-speak [spiık] : konuşmak
-read [riıd] : okumak
-write [rayt] : yazmak
-open [opın] : açmak
-close [kloz] : kapatmak
-buy [bay] : satın almak
-give [giv] : vermek
-take [teyk] : almak
-make [meyk] : yapmak
-work [vörk] : çalışmak
-play [pley] : oynamak
-help [help] : yardım etmek
-wait [veyt] : beklemek
-walk [vok] : yürümek
-run [ran] : koşmak
-sit [sit] : oturmak
-stand [stend] : ayakta durmak
-listen [lisın] : dinlemek
-here [hiır] : burada
-there [der] : orada
-now [naw] : şimdi
-always [olveyz] : her zaman
-never [nevır] : asla
-very [veri] : çok
+eleven [ilevn] : on bir
+twelve [tvelv] : on iki
+thirteen [thörtiin] : on üç
+fourteen [fortiin] : on dört
+fifteen [fiftiin] : on beş
+sixteen [sikstiin] : on altı
+seventeen [sevntiin] : on yedi
+eighteen [eytiin] : on sekiz
+nineteen [nayntiin] : on dokuz
+twenty [tventi] : yirmi
+thirty [thörti] : otuz
+forty [forti] : kırk
+fifty [fifti] : elli
+sixty [siksti] : altmış
+seventy [sevnti] : yetmiş
+eighty [eyti] : seksen
+ninety [naynti] : doksan
+hundred [handrıd] : yüz
+thousand [thawzınd] : bin
+first [först] : birinci
+second [sekınd] : ikinci
+third [thörd] : üçüncü
+fourth [forth] : dördüncü
+fifth [fifth] : beşinci
+man [men] : adam / erkek
+men [men] : adamlar
+woman [vumın] : kadın
+women [vimin] : kadınlar
+child [çayld] : çocuk
+children [çıldrın] : çocuklar
+boy [boy] : erkek çocuk
+girl [görl] : kız çocuk
+person [pörsın] : kişi
+people [piıpıl] : insanlar
+family [femıli] : aile
+father [fadır] : baba
+mother [madır] : anne
+parent [peırınt] : ebeveyn
+son [san] : erkek evlat
+daughter [dotır] : kız evlat
+brother [bradır] : erkek kardeş
+sister [sistır] : kız kardeş
+grandfather [grendfadır] : dede / büyükbaba
+grandmother [grendmadır] : nine / büyükanne
+uncle [ankıl] : amca / dayı
+aunt [aant] : hala / teyze
+cousin [kazın] : kuzen
+friend [frend] : arkadaş
+neighbor [neybır] : komşu
+baby [beybi] : bebek
+husband [hazbınd] : eşi (erkek)
+wife [vayf] : eşi (kadın)
+adult [edalt] : yetişkin
+kid [kid] : çocuk
+head [hed] : baş / kafa
+face [feys] : yüz
+eye [ay] : göz
+ear [iır] : kulak
+nose [nouz] : burun
+mouth [mawth] : ağız
+tooth [tuuth] : diş
+teeth [tiith] : dişler
+hair [heır] : saç
+hand [hend] : el
+arm [aarm] : kol
+leg [leg] : bacak
+foot [fut] : ayak
+feet [fiit] : ayaklar
+body [bodi] : vücut
+heart [haart] : kalp
+blood [blad] : kan
+finger [fingır] : parmak
+toe [tow] : ayak parmağı
+doctor [doktır] : doktor
+hospital [haspitıl] : hastane
+medicine [medisın] : ilaç
+pain [peyn] : ağrı / acı
+sick [sik] : hasta
+healthy [helthi] : sağlıklı
+apple [epıl] : elma
+banana [benenı] : muz
+orange [orinc] : portakal
+lemon [lemın] : limon
+bread [bred] : ekmek
+water [votır] : su
+milk [milk] : süt
+tea [tii] : çay
+coffee [kafi] : kahve
+juice [cuus] : meyve suyu
+cheese [çiiz] : peynir
+butter [batır] : tereyağı
+egg [eg] : yumurta
+meat [miit] : et
+chicken [çikın] : tavuk
+fish [fiş] : balık
+rice [rays] : pirinç / pilav
+soup [suup] : çorba
+salad [selıd] : salata
+pizza [piitsa] : pizza
+cake [keyk] : pasta / kek
+sugar [şugır] : şeker
+salt [solt] : tuz
+pepper [pepır] : biber
+oil [oyl] : yağ
+fruit [fruut] : meyve
+vegetable [vecıtıbıl] : sebze
+breakfast [brekfıst] : kahvaltı
+lunch [lanç] : öğle yemeği
+dinner [dinır] : akşam yemeği
+food [fuud] : yiyecek / gıda
+drink [drink] : içecek / içmek
+restaurant [restorant] : restoran
+menu [menyu] : menü
+sandwich [sendviç] : sandviç
+chocolate [çaklıt] : çikolata
+ice cream [ays kriim] : dondurma
+coffee shop [kafi şap] : kafeteria / kahve dükkanı
+dish [diş] : tabak / yemek
+meal [miıl] : öğün
+house [haws] : ev
+home [howm] : ev / yuva
+room [ruum] : oda
+door [dor] : kapı
+window [vindow] : pencere
+wall [wool] : duvar
+floor [flor] : zemin / kat
+roof [ruuf] : çatı
+table [teybil] : masa
+chair [çeır] : sandalye
+bed [bed] : yatak
+sofa [sofı] : koltuk / kanepe
+kitchen [kiçın] : mutfak
+bathroom [baathruum] : banyo
+bedroom [bedruum] : yatak odası
+living room [living ruum] : oturma odası
+garden [gaardın] : bahçe
+key [kii] : anahtar
+light [layt] : ışık
+clock [klak] : saat (duvar)
+watch [vaç] : saat (kol)
+mirror [mirır] : ayna
+television [televijın] : televizyon
+computer [kampyuutır] : bilgisayar
+phone [fown] : telefon
+box [baks] : kutu
+bag [beg] : çanta
+cup [kap] : fincan
+glass [glas] : bardak / cam
+plate [pleyt] : tabak
+fork [fork] : çatal
+knife [nayf] : bıçak
+spoon [spuun] : kaşık
+bottle [batıl] : şişe
+towel [tawıl] : havlu
+soap [sowp] : sabun
+desk [desk] : çalışma masası
+lamp [lemp] : lamba
+picture [pikçır] : resim / fotoğraf
+radio [reydiyo] : radyo
+time [taym] : zaman / vakit
+minute [minit] : dakika
+hour [awır] : saat (süre)
+day [dey] : gün
+week [viik] : hafta
+month [manth] : ay
+year [yiır] : yıl / sene
+morning [morning] : sabah
+afternoon [aftırnuun] : öğleden sonra
+evening [iivning] : akşam
+night [nayt] : gece
+today [tudey] : bugün
+yesterday [yestırdey] : dün
+tomorrow [tumarow] : yarın
+monday [mandey] : pazartesi
+tuesday [tyuuzdey] : salı
+wednesday [venzdey] : çarşamba
+thursday [thörzdey] : perşembe
+friday [fraydey] : cuma
+saturday [setırdey] : cumartesi
+sunday [sandey] : pazar
+january [cenyueri] : ocak
+february [februeri] : şubat
+march [maarç] : mart
+april [eypril] : nisan
+may [mey] : mayıs
+june [cuun] : haziran
+july [culay] : temmuz
+august [agıst] : ağustos
+september [septembır] : eylül
+october [aktobır] : ekim
+november [novembır] : kasım
+december [disembır] : aralık
+spring [spring] : ilkbahar
+summer [samır] : yaz
+autumn [otım] : sonbahar
+winter [vintır] : kış
+season [siızın] : mevsim
+date [deyt] : tarih
+weather [vedır] : hava durumu
 sun [san] : güneş
 rain [reyn] : yağmur
-weather [vedır] : hava durumu
-doctor [doktır] : doktor
-teacher [tiıçır] : öğretmen
+snow [snow] : kar
+wind [vind] : rüzgar
+city [siti] : şehir
+town [tawn] : kasaba
+country [kantri] : ülke / memleket
+street [striit] : sokak / cadde
+road [rowd] : yol
+park [paark] : park
+school [skul] : okul
+university [yunivörsiti] : üniversite
+shop [şap] : dükkan / mağaza
+store [stor] : mağaza
+market [maarkit] : pazar / market
+bank [benk] : banka
+hotel [howtel] : otel
+airport [eırport] : havalimanı
+station [steyşın] : istasyon
+stop [stap] : durak / durmak
+bus stop [bas stap] : otobüs durağı
+car [kaar] : araba
+bus [bas] : otobüs
+train [treyn] : tren
+plane [pleyn] : uçak
+bicycle [baysıkıl] : bisiklet
+bike [bayk] : bisiklet / motor
+taxi [teksi] : taksi
+ship [şip] : gemi
+boat [bowt] : tekne / bot
+ticket [tikit] : bilet
+map [mep] : harita
+place [pleys] : yer / mekan
+world [vörld] : dünya
+center [sentır] : merkez
+building [bilding] : bina
+bridge [bric] : köprü
+flat [flet] : daire / apartman dairesi
+office [afis] : ofis / büro
+sky [skay] : gökyüzü
+star [staar] : yıldız
+moon [muun] : ay (gökyüzü)
+air [eır] : hava
+earth [örth] : dünya / toprak
+sea [sii] : deniz
+river [rivır] : nehir
+lake [leyk] : göl
+mountain [mawntın] : dağ
+tree [trii] : ağaç
+flower [flawır] : çiçek
+grass [gras] : çim / ot
+animal [enımıl] : hayvan
+dog [dog] : köpek
+cat [ket] : kedi
+bird [börd] : kuş
+cow [kaw] : inek
+horse [hors] : at
+sheep [şiip] : koyun
+pig [pig] : domuz
+lion [layın] : aslan
+elephant [elıfınt] : fil
+mouse [maws] : fare
+bear [beır] : ayı
+book [buk] : kitap
+pen [pen] : tükenmez kalem
+pencil [pensıl] : kurşun kalem
+paper [peypır] : kağıt
+notebook [nowtbuk] : defter
+page [peyc] : sayfa
+question [kvesçın] : soru
+answer [ensır] : cevap
+test [test] : test / sınav
+exam [igzem] : sınav
+class [klas] : ders / sınıf
+lesson [lesın] : ders
+teacher [tiiçır] : öğretmen
+student [styuudınt] : öğrenci
+job [cab] : iş / meslek
+work [vörk] : iş / çalışmak
+money [mani] : para
+price [prays] : fiyat
+dollar [dalır] : dolar
+name [neym] : isim / ad
+music [myuuzik] : müzik
+song [song] : şarkı
+game [geym] : oyun
+sport [sport] : spor
+ball [bool] : top
+clothes [klouthz] : giysiler
+shirt [şört] : gömlek
+t-shirt [tii şört] : tişört
+trousers [trawzırz] : pantolon
+pants [pents] : pantolon
+dress [dres] : elbise
+shoes [şuuz] : ayakkabı
+hat [het] : şapka
+coat [kowt] : palto / mont
+jacket [cekit] : ceket
+be [bii] : olmak
+have [hev] : sahip olmak
+do [duu] : yapmak
+go [gow] : gitmek
+come [kam] : gelmek
+see [sii] : görmek
+look [luk] : bakmak
+listen [lisın] : dinlemek
+hear [hiır] : duymak
+eat [iit] : yemek
+sleep [sliip] : uyumak
+wake [veyk] : uyanmak
+run [ran] : koşmak
+walk [vok] : yürümek
+talk [tok] : konuşmak
+speak [spiik] : konuşmak (dil vb.)
+say [sey] : söylemek
+tell [tel] : anlatmak / demek
+ask [esk] : sormak
+write [rayt] : yazmak
+read [riid] : okumak
+learn [lörn] : öğrenmek
+teach [tiiç] : öğretmek
+study [stadi] : ders çalışmak
+play [pley] : oynamak / çalmak (enstrüman)
+buy [bay] : satın almak
+sell [sel] : satmak
+pay [pey] : ödemek
+give [giv] : vermek
+take [teyk] : almak
+bring [bring] : getirmek
+make [meyk] : yapmak / imal etmek
+open [owpın] : açmak
+close [klouz] : kapatmak
+start [staart] : başlamak
+begin [bigin] : başlamak
+finish [finiş] : bitirmek
+help [help] : yardım etmek
+need [niid] : ihtiyacı olmak
+want [vant] : istemek
+like [layk] : beğenmek / sevmek
+love [lav] : sevmek / aşık olmak
+hate [heyt] : nefret etmek
+know [now] : bilmek / tanımak
+think [think] : düşünmek
+feel [fiil] : hissetmek
+find [faynd] : bulmak
+lose [luuz] : kaybetmek
+put [put] : koymak
+call [kool] : aramak / çağırmak
+wait [veyt] : beklemek
+meet [miit] : buluşmak / tanışmak
+live [liv] : yaşamak
+die [day] : ölmek
+stay [stey] : kalmak
+leave [liiv] : ayrılmak / terk etmek
+change [ceync] : değiştirmek
+try [tray] : dene-mek / çabalamak
+use [yuuz] : kullanmak
+clean [kliin] : temizlemek
+wash [vaş] : yıkamak
+cook [kuk] : yemek pişirmek
+drive [drayv] : sürmek (araba)
+fly [flay] : uçmak
+travel [trevıl] : seyahat etmek
+visit [vizit] : ziyaret etmek
+show [şow] : göstermek
+remember [rimembır] : hatırlamak
+forget [fırget] : unutmak
+understand [andırstend] : anlamak
+can [ken] : -ebilmek (yetenek)
+must [mast] : -malı / zorunlu olmak
+should [şud] : -malı (tavsiye)
+will [vil] : -ecek / -acak (gelecek zaman)
+would [vud] : istemek / -er di
+might [mayt] : ihtimal dahilinde olmak
+sit [sit] : oturmak
+stand [stend] : ayakta durmak
+dance [dens] : dans etmek
+sing [sing] : şarkı söylemek
+swim [svim] : yüzmek
+climb [klaym] : tırmanmak
+jump [camp] : zıplamak
+fall [fool] : düşmek
+cut [kat] : kesmek
+break [breyk] : kırmak
+build [bild] : inşa etmek
+send [send] : göndermek
+get [get] : almak / elde etmek
+become [bikam] : olmak / dönüşmek
+keep [kiip] : tutmak / korumak
+hold [hold] : tutmak / kavramak
+turn [törn] : dönmek / çevirmek
+move [muuv] : hareket etmek / taşınmak
+happen [hepın] : olmak / meydana gelmek
+carry [keri] : taşımak
+catch [keç] : yakalamak
+throw [throw] : fırlatmak / atmak
+draw [droo] : çizmek
+paint [peynt] : boyamak
+wear [veır] : giymek
+choose [çuuz] : seçmek
+spend [spend] : harcamak (para/zaman)
+cost [kast] : maliyeti olmak
+grow [grow] : büyümek / yetişmek
+win [vin] : kazanmak (yarış vb.)
+agree [egrii] : katılmak / aynı fikirde olmak
+disagree [disegrii] : katılmamak
+hope [howp] : umut etmek
+wish [viş] : dilemek
+enjoy [injoy] : keyif almak
+prefer [priför] : tercih etmek
+pardon [paardın] : efendim / affetmek
+touch [taç] : dokunmak
+smell [smel] : koklamak / kokmak
+taste [teyst] : tadı olmak / tatmak
+laugh [laf] : gülmek
+good [gud] : iyi
+bad [bed] : kötü
+big [big] : büyük
+small [smool] : küçük
+large [laarc] : geniş / büyük
+little [litıl] : az / küçük
+long [long] : uzun
+short [şort] : kısa
+tall [tool] : uzun (boylu)
+high [hay] : yüksek
+low [low] : düşük / alçak
+new [nyuu] : yeni
+old [owld] : eski / yaşlı
+young [yang] : genç
+happy [hepi] : mutlu
+sad [sed] : üzgün
+fast [fast] : hızlı
+slow [slow] : yavaş
+hot [hat] : sıcak
+cold [kould] : soğuk
+warm [vorm] : ılık / sıcak
+cool [kuul] : serin / havalı
+hard [haard] : zor / sert
+soft [saft] : yumuşak
+easy [iizi] : kolay
+difficult [difikalt] : zor
+cheap [çiıp] : ucuz
+expensive [ikspensiv] : pahalı
+dirty [dördi] : kirli
+full [ful] : dolu / tok
+empty [empti] : boş
+closed [klouzd] : kapalı
+rich [riç] : zengin
+poor [puur] : fakir / zavallı
+strong [strong] : güçlü
+weak [viik] : güçsüz / zayıf
+right [rayt] : doğru / sağ
+wrong [rong] : yanlış
+true [truu] : gerçek / doğru
+false [fols] : yanlış / sahte
+beautiful [byuutiful] : güzel
+ugly [agli] : çirkin
+early [örli] : erken
+late [leyt] : geç
+last [last] : son
+next [nekst] : sonraki
+same [seym] : aynı
+different [difrınt] : farklı
+red [red] : kırmızı
+blue [bluu] : mavi
+green [griin] : yeşil
+yellow [yelow] : sarı
+black [blek] : siyah
+white [vayt] : beyaz
+brown [brawn] : kahverengi
+pink [pink] : pembe
+purple [pörpıl] : mor
+grey [grey] : gri
+nice [nays] : hoş / güzel
+great [greyt] : harika / büyük
+fine [fayn] : iyi / güzel
+kind [kaynd] : kibar / tür
+friendly [frendli] : dost canlısı
+famous [feymıs] : ünlü
+important [importınt] : önemli
+possible [pasıbıl] : mümkün
+impossible [impasıbıl] : imkansız
+ready [redi] : hazır
+busy [bizi] : meşgul / yoğun
+free [frii] : ücretsiz / özgür / boş
+tired [tayırd] : yorgun
+hungry [hangri] : aç
+thirsty [thörsti] : susamış
+angry [engri] : kızgın
+afraid [efreyd] : korkmuş
+bored [bord] : sıkılmış
+interesting [intresting] : ilginç
+boring [boring] : sıkıcı
+funny [fani] : komik
+quiet [kvayıt] : sessiz
+loud [lawd] : yüksek sesli
+safe [seyf] : güvenli
+dangerous [deyncırıs] : tehlikeli
+sweet [sviit] : tatlı
+sour [sawır] : ekşi
+heavy [hevi] : ağır
+dark [daark] : karanlık / koyu
+bright [brayt] : parlak
+wet [vet] : ıslak
+dry [dray] : kuru
+near [niır] : yakın
+far [faar] : uzak
+deep [diip] : derin
+shallow [şelow] : sığ
+in [in] : içinde
+on [on] : üstünde
+at [et] : -de / -da (konum/zaman)
+under [andır] : altında
+over [owvır] : üzerinde
+behind [bihaynd] : arkasında
+in front of [in front ov] : önünde
+next to [nekst tu] : yanında
+between [bitviin] : arasında
+up [ap] : yukarı
+down [dawn] : aşağı
+into [intu] : içine doğru
+out of [awt ov] : dışına / dışından
+from [from] : -den / -dan
+to [tu] : -e / -a doğru
+with [vith] : ile / birlikte
+without [vithawt] : -siz / olmaksızın
+about [ebawt] : hakkında / yaklaşık
+for [for] : için / süresince
+before [bifor] : önce
+after [aftır] : sonra
+during [dyuuring] : sırasında
+here [hiır] : burada / buraya
+there [deır] : orada / oraya
+now [naw] : şimdi
+then [den] : o zaman / sonra
+always [olveys] : her zaman
+usually [yuujuali] : genellikle
+often [ofın] : sık sık
+sometimes [samtaymz] : bazen
+never [nevır] : asla / hiçbir zaman
+again [egeyn] : tekrar / yeniden
+together [tugedır] : birlikte
+alone [elown] : yalnız
+very [veri] : çok
+too [tuu] : de / da / fazla
+also [olso] : ayrıca / de
+well [vel] : iyi (zarf)
+slowly [slowli] : yavaşça
+and [end] : ve
+but [bat] : fakat / ama
+or [or] : veya / yahut
+so [sow] : bu yüzden / öyleyse
+because [bikaz] : çünkü
+if [if] : eğer
+than [den] : -den daha (karşılaştırma)
+as [ez] : olarak / gibi
+address [edres] : adres
+age [eyc] : yaş
+art [aart] : sanat
+band [bend] : müzik grubu
+bill [bil] : fatura / hesap
+birthday [börthdey] : doğum günü
+card [kaard] : kart
+case [keys] : kutu / durum
+cash [keş] : nakit para
+company [kampani] : şirket
+course [kors] : kurs / ders
+euro [yuro] : avro
+group [gruup] : grup
+hobby [habi] : hobi
+holiday [halidey] : tatil
+information [infırmeyşın] : bilgi
+internet [intırnet] : internet
+letter [letır] : mektup / harf
+list [list] : liste
+message [mesıc] : mesaj
+moment [mowmınt] : an / lahza
+news [nyuuz] : haberler
+number [nambır] : numara / sayı
+part [paart] : parça / kısım
+party [paarti] : parti
+problem [prablım] : problem / sorun
+thing [thing] : şey / nesne
+trip [trip] : gezi / yolculuk
+way [vey] : yol / yöntem
+word [vörd] : kelime
+accent [eksent] : aksan
+activity [ektiviti] : etkinlik
+actor [ektır] : erkek oyuncu
+actress [ektrıs] : kadın oyuncu
+apartment [epaartmınt] : apartman dairesi
+art gallery [aart gelıri] : sanat galerisi
+banker [benkır] : bankacı
+beach [biiç] : plaj / kumsal
+boss [bas] : patron
+bus driver [bas drayvır] : otobüs şoförü
+business [biznis] : iş / ticaret
+capital [kepıtıl] : başkent
+chef [şef] : aşçı başı
+cinema [sinemı] : sinema
+club [klab] : kulüp
+conversation [kanvırseyşın] : sohbet
+countryside [kantrisayd] : kırsal alan
+customer [kastımır] : müşteri
+dictionary [dikşıneri] : sözlük
+driver [drayvır] : sürücü
+email [iimeyl] : e-posta
+end [end] : son / bitiş
+example [igzampıl] : örnek
+factory [fektıri] : fabrika
+farm [faarm] : çiftlik
+farmer [faarmır] : çiftçi
+film [film] : film
+flight [flayt] : uçuş
+grammar [gramır] : dil bilgisi
+guide [gayd] : rehber
+gym [cim] : spor salonu
+idea [aydiya] : fikir
+island [aylınd] : ada
+language [lengvic] : dil
+library [laybreri] : kütüphane
+machine [neşiin] : makine
+manager [menıcır] : müdür
+museum [myuuziym] : müze
+nationality [neşıneliti] : uyruk / milliyet
+newspaper [nyuuzpeypır] : gazete
+partner [paartnır] : ortak / eş
+passport [pesport] : pasaport
+pet [pet] : evcil hayvan
+police [paliis] : polis

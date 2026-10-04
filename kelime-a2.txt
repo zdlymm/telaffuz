@@ -1,150 +1,1295 @@
-advice [edvays] : tavsiye
-believe [biliıv] : inanmak
-cheap [çiıp] : ucuz
-dangerous [deyncırıs] : tehlikeli
-earn [öörn] : kazanmak
-decide [disayd] : karar vermek
-explain [ikspleyn] : açıklamak
-future [fyuıçır] : gelecek
-journey [cörni] : yolculuk
-improve [impruuv] : geliştirmek
-airport [erport] : havalimanı
-ticket [tikit] : bilet
-hotel [hotel] : otel
-holiday [holidey] : tatil
-passport [pesport] : pasaport
-luggage [lagic] : bagaj
-map [mep] : harita
-restaurant [restoront] : restoran
-menu [menyu] : menü
-bill [bil] : hesap, fatura
-price [prays] : fiyat
-expensive [ikspensiv] : pahalı
-market [markit] : pazar, market
-pharmacy [farmısi] : eczane
-hospital [hospitıl] : hastane
-medicine [medsın] : ilaç
-headache [hedeyk] : baş ağrısı
-healthy [helthi] : sağlıklı
-ill [il] : hasta
-appointment [ıpoyntmınt] : randevu
-neighbour [neybır] : komşu
-guest [gest] : misafir
-invitation [inviteyşın] : davet
-birthday [börthdey] : doğum günü
-wedding [veding] : düğün
-gift [gift] : hediye
-party [parti] : parti
-job [cob] : iş
-office [ofis] : ofis
-meeting [miıting] : toplantı
-salary [selıri] : maaş
-boss [bos] : patron
-colleague [koliıg] : iş arkadaşı
-customer [kastımır] : müşteri
-email [iımeyl] : e-posta
-message [mesic] : mesaj
-internet [intırnet] : internet
-computer [kımpyuutır] : bilgisayar
-password [pesvörd] : şifre
-weekend [viıkend] : hafta sonu
-early [öörli] : erken
-late [leyt] : geç
-soon [suun] : yakında
-already [olredi] : zaten
-usually [yuujuıli] : genellikle
-sometimes [samtaymz] : bazen
-often [ofın] : sık sık
-again [ıgen] : tekrar
-together [tıgedır] : birlikte
-alone [ılon] : yalnız
-quiet [kvayıt] : sessiz
-noisy [noyzi] : gürültülü
-busy [bizi] : meşgul
-free [frii] : boş, ücretsiz
-important [importınt] : önemli
-different [difrınt] : farklı
-same [seym] : aynı
-possible [posıbıl] : mümkün
-ready [redi] : hazır
-careful [kerfıl] : dikkatli
-polite [pılayt] : kibar
-friendly [frendli] : cana yakın
-angry [engri] : kızgın
-afraid [ıfreyd] : korkmuş
-worried [varid] : endişeli
-surprised [sırprayzd] : şaşırmış
-bored [bord] : sıkılmış
-excited [iksaytid] : heyecanlı
-comfortable [kamftıbıl] : rahat
-dirty [dörti] : kirli
-clean [kliın] : temiz
-empty [emti] : boş
-full [ful] : dolu
-heavy [hevi] : ağır
-light [layt] : hafif, ışık
-borrow [boro] : ödünç almak
+accept [əkˈsept] : kabul etmek
+achieve [əˈtʃiːv] : başarmak, elde etmek
+act [ækt] : davranmak, hareket etmek
+add [æd] : eklemek
+admire [ədˈmaɪər] : hayran olmak
+admit [ədˈmɪt] : itiraf etmek, kabul etmek
+advise [ədˈvaɪz] : tavsiye vermek
+afford [əˈfɔːrd] : parası yetmek
+agree [əˈɡriː] : aynı fikirde olmak, anlaşmak
+allow [əˈlaʊ] : izin vermek
+announce [əˈnaʊns] : duyurmak, ilan etmek
+answer [ˈænsər] : cevap vermek
+apologize [əˈpɒlədʒaɪz] : özür dilemek
+appear [əˈpɪər] : görünmek, ortaya çıkmak
+apply [əˈplaɪ] : başvurmak, uygulamak
+appoint [əˈpɔɪnt] : atamak, randevu vermek
+arrange [əˈreɪndʒ] : düzenlemek, planlamak
+arrive [əˈraɪv] : varmak, ulaşmak
+ask [æsk] : sormak, istemek
+attack [əˈtæk] : saldırmak
+attend [əˈtend] : katılmak (toplantı/ders)
+attract [əˈtrækt] : çekmek, cezbetmek
+avoid [əˈvɔɪd] : kaçınmak, uzak durmak
+bake [beɪk] : fırında pişirmek
+beat [biːt] : yenmek, vurmak
+become [bɪˈkʌm] : olmak, haline gelmek
+begin [bɪˈɡɪn] : başlamak
+behave [bɪˈheɪv] : davranmak
+believe [bɪˈliːv] : inanmak
+belong [bɪˈlɒŋ] : ait olmak
+borrow [ˈbɒroʊ] : ödünç almak
+breathe [briːð] : nefes almak
+bring [brɪŋ] : getirmek
+build [bɪld] : inşa etmek
+burn [bɜːrn] : yakmak, yanmak
+cancel [ˈkænsl] : iptal etmek
+carry [ˈkæri] : taşımak
+catch [kætʃ] : yakalamak, yetişmek
+celebrate [ˈselɪbreɪt] : kutlamak
+change [tʃeɪndʒ] : değiştirmek, değişmek
+choose [tʃuːz] : seçmek
+clean [kliːn] : temizlemek
+climb [klaɪm] : tırmanmak
+collect [kəˈlekt] : toplamak, biriktirmek
+combine [kəmˈbaɪn] : birleştirmek
+compare [kəmˈpeər] : karşılaştırmak
+complain [kəmˈpleɪn] : şikayet etmek
+complete [kəmˈpliːt] : tamamlamak
+confirm [kənˈfɜːrm] : onaylamak
+connect [kəˈnekt] : bağlanmak, bağlamak
+consider [kənˈsɪdər] : düşünmek, göz önünde bulundurmak
+continue [kənˈtɪnjuː] : devam etmek
+cook [kʊk] : yemek pişirmek
+copy [ˈkɒpi] : kopyalamak
+count [kaʊnt] : saymak
+cover [ˈkʌvər] : kaplamak, örtmek
+create [kriːˈeɪt] : oluşturmak, yaratmak
+cross [krɒs] : karşıya geçmek
+cry [kraɪ] : ağlamak, bağırmak
+damage [ˈdæmɪdʒ] : zarar vermek
+dance [dæns] : dans etmek
+decide [dɪˈsaɪd] : karar vermek
+defend [dɪˈfend] : savunmak
+deliver [dɪˈlɪvər] : teslim etmek
+describe [dɪˈskraɪb] : tanımlamak, tarif etmek
+design [dɪˈzaɪn] : tasarlamak
+destroy [dɪˈstrɔɪ] : yok etmek, tahrip etmek
+develop [dɪˈveləp] : geliştirmek, gelişmek
+die [daɪ] : ölmek
+disappear [ˌdɪsəˈpɪər] : gözden kaybolmak
+discover [dɪˈskʌvər] : keşfetmek
+discuss [dɪˈskʌs] : tartışmak, görüşmek
+divide [dɪˈvaɪd] : bölmek, ayrılmak
+draw [drɔː] : çizmek
+dream [driːm] : rüya görmek, hayal etmek
+dress [dres] : giyinmek
+drop [drɒp] : düşürmek, bırakmak
+dry [draɪ] : kurulamak, kurumak
+earn [ɜːrn] : para kazanmak
+encourage [ɪnˈkʌrɪdʒ] : cesaretlendirmek, teşvik etmek
+enjoy [ɪnˈdʒɔɪ] : zevk almak, tadını çıkarmak
+enter [ˈentər] : girmek
+escape [ɪˈskeɪp] : kaçmak
+examine [ɪɡˈzæmɪn] : incelemek, muayene etmek
+exist [ɪɡˈzɪst] : var olmak
+expect [ɪkˈspekt] : beklemek, ummak
+explain [ɪkˈspleɪn] : açıklamak
+fail [feɪl] : başarısız olmak, kalmak
+fall [fɔːl] : düşmek
+feed [fiːd] : beslemek
+feel [fiːl] : hissetmek
+fight [faɪt] : dövüşmek, savaşmak
+fill [fɪl] : doldurmak
+find [faɪnd] : bulmak
+finish [ˈfɪnɪʃ] : bitirmek, bitmek
+fit [fɪt] : uymak, oturmak (beden)
+fix [fɪks] : tamir etmek, sabitlemek
+fly [flaɪ] : uçmak
+follow [ˈfɒloʊ] : takip etmek
+forget [fərˈɡet] : unutmak
+forgive [fərˈɡɪv] : affetmek
+freeze [friːz] : donmak, dondurmak
+grow [ɡroʊ] : büyümek, yetiştirmek
+guess [ɡes] : tahmin etmek
+happen [ˈhæpən] : olmak, meydana gelmek
+hate [heɪt] : nefret etmek
+hear [hɪər] : duymak
+hide [haɪd] : saklamak, saklanmak
+hope [hoʊp] : umut etmek
+hurt [hɜːrt] : incitmek, acımak
+imagine [ɪˈmædʒɪn] : hayal etmek
+improve [ɪmˈpruːv] : geliştirmek, iyileşmek
+include [ɪnˈkluːd] : içermek, dahil etmek
+increase [ɪnˈkriːs] : artırmak, artmak
+inform [ɪnˈfɔːrm] : bilgilendirmek
+invite [ɪnˈvaɪt] : davet etmek
+join [dʒɔɪn] : katılmak, birleşmek
+jump [dʒʌmp] : zıplamak
+keep [kiːp] : tutmak, korumak, devam etmek
+kick [kɪk] : tekmelemek, vurmak
+knock [nɒk] : kapı çalmak, vurmak
+laugh [læf] : gülmek
+lead [liːd] : liderlik etmek, yol göstermek
+learn [lɜːrn] : öğrenmek
+leave [liːv] : ayrılmak, bırakmak
 lend [lend] : ödünç vermek
-bring [bring] : getirmek
-carry [keri] : taşımak
-change [çeync] : değiştirmek
-choose [çuuz] : seçmek
-forget [fırget] : unutmak
-remember [rimembır] : hatırlamak
-lose [luuz] : kaybetmek
-find [faynd] : bulmak
+lie [laɪ] : yalan söylemek / uzanmak
+lift [lɪft] : kaldırmak
+listen [ˈlɪsn] : dinlemek
+lose [luːz] : kaybetmek
+manage [ˈmænɪdʒ] : yönetmek, başarmak
+mean [miːn] : anlamına gelmek, kastetmek
+measure [ˈmeʒər] : ölçmek
+meet [miːt] : buluşmak, tanışmak
+mention [ˈmenʃn] : bahsetmek
+mind [maɪnd] : önemsemek, itiraz etmek
+miss [mɪs] : özlemek, kaçırmak
+move [muːv] : hareket etmek, taşınmak
+need [niːd] : ihtiyacı olmak
+notice [ˈnoʊtɪs] : fark etmek
+offer [ˈɒfər] : teklif etmek
+open [ˈoʊpən] : açmak
+order [ˈɔːrdər] : sipariş vermek, emretmek
+organize [ˈɔːrɡənaɪz] : organize etmek
+pack [pæk] : paketlemek, bavul hazırlamak
+paint [peɪnt] : boyamak
+pass [pæs] : geçmek, pas vermek
+pay [peɪ] : ödemek
+perform [pərˈfɔːrm] : sergilemek, uygulamak
+pick [pɪk] : seçmek, toplamak
+plan [plæn] : planlamak
+plant [plænt] : dikmek, ekmek
+play [pleɪ] : oynamak, çalmak (enstrüman)
+prefer [prɪˈfɜːr] : tercih etmek
+prepare [prɪˈpeər] : hazırlamak
+present [prɪˈzent] : sunmak
+prevent [prɪˈvent] : önlemek, engel olmak
+produce [prəˈdjuːs] : üretmek
+promise [ˈprɒmɪs] : söz vermek
+protect [prəˈtekt] : korumak
+prove [pruːv] : kanıtlamak
+provide [prəˈvaɪd] : sağlamak, temin etmek
+publish [ˈpʌblɪʃ] : yayınlamak
+pull [pʊl] : çekmek
+push [pʊʃ] : itmek
+raise [reɪz] : kaldırmak, yükseltmek
+reach [riːtʃ] : ulaşmak, erişmek
+receive [rɪˈsiːv] : teslim almak, almak
+recognize [ˈrekəɡnaɪz] : tanımak, fark etmek
+recommend [ˌrekəˈmend] : tavsiye etmek
+recover [rɪˈkʌvər] : iyileşmek, geri kazanmak
+refuse [rɪˈfjuːz] : reddetmek
+remember [rɪˈmembər] : hatırlamak
+remind [rɪˈmaɪnd] : hatırlatmak
+repair [rɪˈpeər] : tamir etmek
+repeat [rɪˈpiːt] : tekrarlamak
+reply [rɪˈplaɪ] : yanıtlamak
+report [rɪˈpɔːrt] : rapor etmek, bildirmek
+request [rɪˈkwest] : rica etmek, talep etmek
+return [rɪˈtɜːrn] : geri dönmek, iade etmek
+ring [rɪŋ] : zil çalmak, aramak
+save [seɪv] : kurtarmak, biriktirmek, kaydetmek
+search [sɜːrtʃ] : aramak, araştırmak
+seem [siːm] : görünmek
+sell [sel] : satmak
 send [send] : göndermek
-receive [risiıv] : teslim almak
-pay [pey] : ödemek
-spend [spend] : harcamak
-save [seyv] : biriktirmek, kurtarmak
-travel [trevıl] : seyahat etmek
-arrive [ırayv] : varmak
-leave [liıv] : ayrılmak
-visit [vizit] : ziyaret etmek
-invite [invayt] : davet etmek
-agree [ıgrii] : aynı fikirde olmak
-answer [ensır] : cevaplamak
-ask [esk] : sormak
-hope [hop] : ummak
-worry [vari] : endişelenmek
-feel [fiıl] : hissetmek
-enjoy [incoy] : keyif almak
-prefer [priför] : tercih etmek
-practise [prektis] : pratik yapmak
-learn [löörn] : öğrenmek
-understand [andırstend] : anlamak
-repeat [ripiıt] : tekrarlamak
-cook [kuk] : yemek pişirmek
-wash [voş] : yıkamak
-tidy [taydi] : toplamak, düzenlemek
-rent [rent] : kiralamak
-move [muuv] : taşınmak, hareket etmek
-build [bild] : inşa etmek
-break [breyk] : kırmak
-fix [fiks] : tamir etmek
-fall [fol] : düşmek
-grow [gro] : büyümek
-hurry [höri] : acele etmek
-season [siızın] : mevsim
-summer [samır] : yaz
-winter [vintır] : kış
-spring [spring] : ilkbahar
-autumn [otım] : sonbahar
-snow [sno] : kar
-wind [vind] : rüzgar
-cloud [klawd] : bulut
-river [rivır] : nehir
-sea [sii] : deniz
-mountain [mawntın] : dağ
-village [vilic] : köy
-bridge [bric] : köprü
-corner [kornır] : köşe
-traffic [trefik] : trafik
-accident [eksidınt] : kaza
-problem [problım] : sorun
-question [kvesçın] : soru
-idea [aydiıı] : fikir
-news [nyuuz] : haber
-story [stori] : hikaye
-hobby [hobi] : hobi
+serve [sɜːrv] : hizmet etmek, servis yapmak
+share [ʃeər] : paylaşmak
+shout [ʃaʊt] : bağırmak
+show [ʃoʊ] : göstermek
+sing [sɪŋ] : şarkı söylemek
+sit [sɪt] : oturmak
+sleep [sliːp] : uyumak
+smile [smaɪl] : gülümsemek
+spend [spend] : harcamak (para/zaman)
+start [stɑːrt] : başlamak
+stay [steɪ] : kalmak
+stop [stɒp] : durmak, durdurmak
+suggest [səˈdʒest] : öneride bulunmak
+support [səˈpɔːrt] : desteklemek
+suppose [səˈpoʊz] : varsaymak, sanmak
+take [teɪk] : almak, götürmek
+talk [tɔːk] : konuşmak
+teach [tiːtʃ] : öğretmek
+tell [tel] : anlatmak, söylemek
+think [θɪŋk] : düşünmek
+throw [θroʊ] : fırlatmak, atmak
+touch [tʌtʃ] : dokunmak
+travel [ˈtrævl] : seyahat etmek
+understand [ˌʌndərˈstænd] : anlamak
+use [juːz] : kullanmak
+visit [ˈvɪzɪt] : ziyaret etmek
+wait [weɪt] : beklemek
+walk [wɔːk] : yürümek
+want [wɒnt] : istemek
+warn [wɔːrn] : uyarmak
+wash [wɒʃ] : yıkamak
+watch [wɒtʃ] : izlemek
+wear [weər] : giymek
+win [wɪn] : kazanmak
+wish [wɪʃ] : dilemek, istemek
+work [wɜːrk] : çalışmak
+worry [ˈwʌri] : endişelenmek
+write [raɪt] : yazmak
+accident [ˈæksɪdənt] : kaza
+accommodation [əˌkɒməˈdeɪʃn] : konaklama
+account [əˈkaʊnt] : hesap (banka/sosyal medya)
+action [ˈækʃn] : eylem, hareket
+activity [ækˈtɪvəti] : etkinlik, aktivite
+actor [ˈæktər] : erkek oyuncu
+actress [ˈæktrəs] : kadın oyuncu
+address [əˈdres] : adres
+adventure [ədˈventʃər] : macera
+advertisement [ədˈvɜːrtɪsmənt] : reklam
+advice [ədˈvaɪs] : tavsiye, öğüt
+agency [ˈeɪdʒənsi] : ajans, acente
+agreement [əˈɡriːmənt] : anlaşma, sözleşme
+air [eər] : hava
+airport [ˈeərpɔːrt] : havalimanı
+alarm [əˈlɑːrm] : alarm
+album [ˈælbəm] : albüm
+amount [əˈmaʊnt] : miktar
+animal [ˈænɪml] : hayvan
+ankle [ˈæŋkl] : ayak bileği
+apartment [əˈpɑːrtmənt] : daire, apartman katı
+appearance [əˈpɪərəns] : görünüş, dış görünüş
+apple [ˈæpl] : elma
+appointment [əˈpɔɪntmənt] : randevu
+area [ˈeəriə] : alan, bölge
+argument [ˈɑːrɡjumənt] : tartışma, argüman
+arm [ɑːrm] : kol
+armchair [ˈɑːrmtʃeər] : tekli koltuk
+art [ɑːrt] : sanat
+article [ˈɑːrtɪkl] : makale, yazı
+artist [ˈɑːrtɪst] : sanatçı, ressam
+assistant [əˈsɪstənt] : asistan, yardımcı
+athlete [ˈæθliːt] : sporcu
+attraction [əˈtrækʃn] : cazibe merkezi, ilgi odağı
+audience [ˈɔːdiəns] : seyirci, izleyici kitlesi
+aunt [ænt] : hala, teyze
+author [ˈɔːθər] : yazar
+backpack [ˈbækpæk] : sırt çantası
+bag [bæɡ] : çanta
+bakery [ˈbeɪkəri] : fırın, unlu mamüller dükkanı
+balcony [ˈbælkəni] : balkon
+ball [bɔːl] : top
+banana [bəˈnænə] : muz
+band [bænd] : müzik grubu, bant
+bank [bæŋk] : banka
+basement [ˈbeɪsmənt] : bodrum katı
+basket [ˈbæskɪt] : sepet
+bath [bæθ] : banyo, küvet
+bathroom [ˈbæθruːm] : banyo, tuvalet
+battery [ˈbætəri] : pil, batarya
+beach [biːtʃ] : plaj, kumsal
+bear [beər] : ayı
+bed [bed] : yatak
+bedroom [ˈbedruːm] : yatak odası
+bee [biː] : arı
+beef [biːf] : sığır eti
+beginner [bɪˈɡɪnər] : başlangıç düzeyindeki kişi
+behavior [bɪˈheɪvjər] : davranış
+bill [bɪl] : fatura, hesap
+biology [baɪˈɒlədʒi] : biyoloji
+bird [bɜːrd] : kuş
+birthday [ˈbɜːrθdeɪ] : doğum günü
+biscuit [ˈbɪskɪt] : bisküvi
+board [bɔːrd] : tahta, pano
+boat [boʊt] : tekne, bot
+body [ˈbɒdi] : vücut, beden
+bone [boʊn] : kemik
+book [bʊk] : kitap
+bookshop [ˈbʊkʃɒp] : kitapçı
+boot [buːt] : bot, çizme
+border [ˈbɔːrdər] : sınır
+boss [bɒs] : patron
+bottle [ˈbɒtl] : şişe
+bottom [ˈbɒtəm] : alt, taban
+bowl [boʊl] : kase
+box [bɒks] : kutu
+boy [bɔɪ] : erkek çocuk
+brain [breɪn] : beyin
+bread [bred] : ekmek
+break [breɪk] : mola, ara
+breakfast [ˈbrekfəst] : kahvaltı
+bridge [brɪdʒ] : köprü
+brother [ˈbrʌðər] : erkek kardeş
+brush [brʌʃ] : fırça
+building [ˈbɪldɪŋ] : bina, yapı
+bus [bʌs] : otobüs
+business [ˈbɪznəs] : iş, ticaret
+businessman [ˈbɪznəsmæn] : iş insanı (erkek)
+businesswoman [ˈbɪznəswʊmən] : iş insanı (kadın)
+butter [ˈbʌtər] : tereyağı
+button [ˈbʌtn] : düğme, buton
+cafe [ˈkæfeɪ] : kafe
+cake [keɪk] : pasta, kek
+calculator [ˈkælkjuleɪtər] : hesap makinesi
+calendar [ˈkælɪndər] : takvim
+camera [ˈkæmrə] : kamera, fotoğraf makinesi
+camp [kæmp] : kamp
+campsite [ˈkæmpsaɪt] : kamp yeri
+candle [ˈkændl] : mum
+candy [ˈkændi] : şeker, şekerleme
+cap [kæp] : kep, şapka
+capital [ˈkæpɪtl] : başkent
+car [kɑːr] : araba
+card [kɑːrd] : kart
+career [kəˈrɪər] : kariyer
+carpet [ˈkɑːrpɪt] : halı
+carrot [ˈkærət] : havuç
+cartoon [kɑːrˈtuːn] : çizgi film
+castle [ˈkæsl] : kale, şato
+cat [kæt] : kedi
+ceiling [ˈsiːlɪŋ] : tavan
+cell [sel] : hücre, cep telefonu
+center [ˈsentər] : merkez
+century [ˈsentʃəri] : yüzyıl, asır
+cereal [ˈsɪəriəl] : mısır gevreği, tahıl
+chair [tʃeər] : sandalye
+challenge [ˈtʃælɪndʒ] : zorluk, meydan okuma
+champion [ˈtʃæmpiən] : şampiyon
+chance [tʃæns] : şans, fırsat
+channel [ˈtʃænl] : kanal (TV/su)
+chapter [ˈtʃæptər] : bölüm (kitap)
+character [ˈkærəktər] : karakter, kişilik
+charity [ˈtʃærəti] : hayır kurumu
+chat [tʃæt] : sohbet
+check [tʃek] : kontrol, fatura
+cheese [tʃiːz] : peynir
+chef [ʃef] : aşçı başı
+chemist [ˈkemɪst] : eczacı, kimyager
+chemistry [ˈkemɪstri] : kimya
+cheque [tʃek] : çek (banka)
+chess [tʃes] : satranç
+chest [tʃest] : göğüs, sandık
+chicken [ˈtʃɪkɪn] : tavuk
+child [tʃaɪld] : çocuk
+childhood [ˈtʃaɪldhʊd] : çocukluk
+chips [tʃɪps] : patates kızartması
+chocolate [ˈtʃɒklət] : çikolata
+choice [tʃɔɪs] : seçim, tercih
+church [tʃɜːrtʃ] : kilise
+cinema [ˈsɪnəmɑː] : sinema
+circle [ˈsɜːrkl] : daire, çember
+city [ˈsɪti] : şehir
+class [klæs] : sınıf, ders
+classroom [ˈklæsruːm] : derslik
+cleaner [ˈkliːnər] : temizlikçi
+clerk [klɜːrk] : memur, tezgahtar
+client [ˈklaɪənt] : müşteri, danışan
+climate [ˈklaɪmət] : iklim
+clock [klɒk] : saat (duvar/masa)
+clothes [kloʊðz] : giysiler, kıyafetler
+cloud [klaʊd] : bulut
+club [klʌb] : kulüp
+coach [koʊtʃ] : koç, otobüs
+coast [koʊst] : sahil, kıyı
+coat [koʊt] : palto, mont
+coffee [ˈkɒfi] : kahve
+coin [kɔɪn] : bozuk para
+cold [koʊld] : soğuk, soğuk algınlığı
+colleague [ˈkɒliːɡ] : iş arkadaşı
+collection [kəˈlekʃn] : koleksiyon
+college [ˈkɒlɪdʒ] : kolej, yüksekokul
+color [ˈkʌlər] : renk
+comb [koʊm] : tarak
+company [ˈkʌmpəni] : şirket, firma
+competition [ˌkɒmpəˈtɪʃn] : yarışma, rekabet
+computer [kəmˈpjuːtər] : bilgisayar
+concert [ˈkɒnsərt] : konser
+conversation [ˌkɒnvərˈseɪʃn] : sohbet, konuşma
+cooker [ˈkʊkər] : ocak, fırınlı ocak
+cookie [ˈkʊki] : kurabiye
+corner [ˈkɔːrnər] : köşe
+cost [kɒst] : maliyet, masraf
+country [ˈkʌntri] : ülke, kır/köy alanı
+countryside [ˈkʌntrisaɪd] : kırsal bölge
+couple [ˈkʌpl] : çift
+course [kɔːrs] : kurs, ders, rota
+cousin [ˈkʌzn] : kuzen
+cow [kaʊ] : inek
+cream [kriːm] : krema, krem
+credit card [ˈkredɪt kɑːrd] : kredi kartı
+crime [kraɪm] : suç
+crowd [kraʊd] : kalabalık
+cup [kʌp] : fincan, kupa
+cupboard [ˈkʌbərd] : dolap (mutfak)
+curtain [ˈkɜːrtn] : perde
+customer [ˈkʌstəmər] : müşteri
+customs [ˈkʌstəmz] : gümrük
+cycle [ˈsaɪkl] : bisiklet sürüşü, döngü
+dad [dæd] : baba
+daily routine [ˈdeɪli ruːˈtiːn] : günlük rutin
+dancer [ˈdænsər] : dansçı
+danger [ˈdeɪndʒər] : tehlike
+date [deɪt] : tarih, buluşma
+daughter [ˈdɔːtər] : kız çocuk
+day [deɪ] : gün
+decision [dɪˈsɪʒn] : karar
+degree [dɪˈɡriː] : derece, diploma
+dentist [ˈdentɪst] : diş hekimi
+department [dɪˈpɑːrtmənt] : departman, bölüm
+departure [dɪˈpɑːrtʃər] : kalkış, ayrılış
+desert [ˈdezərt] : çöl
+desk [desk] : çalışma masası
+dessert [dɪˈzɜːrt] : tatlı
+detail [ˈdiːteɪl] : detay, ayrıntı
+dictionary [ˈdɪkʃənəri] : sözlük
+diet [ˈdaɪət] : diyet, beslenme düzeni
+difference [ˈdɪfrəns] : fark, farklılık
+difficulty [ˈdɪfɪkəlti] : zorluk
+dinner [ˈdɪnər] : akşam yemeği
+direction [dəˈrekʃn] : yön, tarif
+director [dəˈrektər] : yönetmen, müdür
+discount [ˈdɪskaʊnt] : indirim
+disease [dɪˈziːz] : hastalık
+dish [dɪʃ] : yemek tabağı, yemek çeşidi
+distance [ˈdɪstəns] : mesafe, uzaklık
+district [ˈdɪstrɪkt] : ilçe, semt
+doctor [ˈdɒktər] : doktor
+document [ˈdɒkjumənt] : belge, doküman
+dog [dɒɡ] : köpek
+doll [dɒl] : oyuncak bebek
+dollar [ˈdɒlər] : dolar
+dolphin [ˈdɒlfɪn] : yunus balığı
+door [dɔːr] : kapı
+drink [drɪŋk] : içecek
+driver [ˈdraɪvər] : sürücü, şoför
+driving licence [ˈdraɪvɪŋ ˈlaɪsns] : sürücü belgesi
+drugstore [ˈdrʌɡstɔːr] : eczane
+drum [drʌm] : davul
+duck [dʌk] : ördek
+duty [ˈdjuːti] : görev, vergi
+ear [ɪər] : kulak
+earth [ɜːrθ] : dünya, toprak
+east [iːst] : doğu
+education [ˌedʒuˈkeɪʃn] : eğitim
+egg [eɡ] : yumurta
+elbow [ˈelboʊ] : dirsek
+election [ɪˈlekʃn] : seçim
+electricity [ɪˌlekˈtrɪsəti] : elektrik
+element [ˈelɪmənt] : unsur, element
+elephant [ˈelɪfənt] : fil
+elevator [ˈelɪveɪtər] : asansör
+email [ˈiːmeɪl] : e-posta
+emergency [ɪˈmɜːrdʒənsi] : acil durum
+employer [ɪmˈplɔɪər] : işveren
+employee [ɪmˈplɔɪiː] : çalışan, eleman
+end [end] : son, bitiş
+enemy [ˈenəmi] : düşman
+energy [ˈenərdʒi] : enerji
+engine [ˈendʒɪn] : motor
+engineer [ˌendʒɪˈnɪər] : mühendis
+entrance [ˈentrəns] : giriş
+entry [ˈentri] : giriş, kayıt
+envelope [ˈenvəloʊp] : zarf
+environment [ɪnˈvaɪrənmənt] : çevre, ortam
+equipment [ɪˈkwɪpmənt] : ekipman, teçhizat
+error [ˈerər] : hata
+escalator [ˈeskəleɪtər] : yürüyen merdiven
+event [ɪˈvent] : etkinlik, olay
+exam [ɪɡˈzæm] : sınav
+example [ɪɡˈzæmpl] : örnek
+excuse [ɪkˈskjuːs] : mazeret, bahane
+exercise [ˈeksərsaɪz] : egzersiz, alıştırma
+exit [ˈeɡzɪt] : çıkış
+experience [ɪkˈspɪəriəns] : deneyim, tecrübe
+experiment [ɪkˈsperɪmənt] : deney
+expert [ˈekspɜːrt] : uzman
+explanation [ˌekspləˈneɪʃn] : açıklama
+eye [aɪ] : göz
+face [feɪs] : yüz, çehre
+fact [fækt] : gerçek, olgu
+factory [ˈfæktəri] : fabrika
+fair [feər] : fuar, panayır
+family [ˈfæməli] : aile
+fan [fæn] : hayran, vantilatör
+farm [fɑːrm] : çiftlik
+farmer [ˈfɑːrmər] : çiftçi
+fashion [ˈfæʃn] : moda
+fat [fæt] : yağ
+father [ˈfɑːðər] : baba
+favorite [ˈfeɪvərɪt] : favori, en sevilen
+feature [ˈfiːtʃər] : özellik
+fee [fiː] : ücret, harç
+feeling [ˈfiːlɪŋ] : hissiyat, duygu
+festival [ˈfestɪvl] : festival
+field [fiːld] : tarla, saha, alan
+film [fɪlm] : film
+finger [ˈfɪŋɡər] : parmak
+fire [ˈfaɪər] : ateş, yangın
+firefighter [ˈfaɪərfaɪtər] : itfaiyeci
+first name [ˈfɜːrst neɪm] : ilk isim, ad
+fish [fɪʃ] : balık
+flight [flaɪt] : uçuş
+floor [flɔːr] : zemin, kat
+flower [ˈflaʊər] : çiçek
+fog [fɒɡ] : sis
+food [fuːd] : yemek, gıda
+foot [fʊt] : ayak
+football [ˈfʊtbɔːl] : futbol
+forest [ˈfɒrɪst] : orman
+fork [fɔːrk] : çatal
+form [fɔːrm] : form, biçim
+friend [frend] : arkadaş
+friendship [ˈfrendʃɪp] : dostluk, arkadaşlık
+frog [frɒɡ] : kurbağa
+fruit [fruːt] : meyve
+fuel [ˈfjuːəl] : yakıt
+fun [fʌn] : eğlence
+furniture [ˈfɜːrnɪtʃər] : mobilya
+future [ˈfjuːtʃər] : gelecek
+game [ɡeɪm] : oyun
+garage [ɡəˈrɑːʒ] : garaj
+garden [ˈɡɑːrdn] : bahçe
+garlic [ˈɡɑːrlɪk] : sarımsak
+gas [ɡæs] : gaz, benzin
+gate [ɡeɪt] : kapı (bahçe/havalimanı)
+ghost [ɡoʊst] : hayalet
+gift [ɡɪft] : hediye, yetenek
+giraffe [dʒəˈræf] : zürafa
+girl [ɡɜːrl] : kız çocuk
+glass [ɡlæs] : bardak, cam
+glasses [ˈɡlæsɪz] : gözlük
+glove [ɡlʌv] : eldiven
+goal [ɡoʊl] : hedef, gol
+goat [ɡoʊt] : keçi
+gold [ɡoʊld] : altın
+golf [ɡɒlf] : golf
+government [ˈɡʌvərnmənt] : hükümet, devlet
+grade [ɡreɪd] : not, derece, sınıf seviyesi
+grain [ɡreɪn] : tahıl, tanecik
+grammar [ˈɡræmər] : dilbilgisi
+grandfather [ˈɡrænfɑːðər] : dede, büyükbaba
+grandmother [ˈɡrænmʌðər] : nine, büyükanne
+grape [ɡreɪp] : üzüm
+grass [ɡræs] : çim, çimen
+ground [ɡraʊnd] : yer, zemin
+group [ɡruːp] : grup
+guest [ɡest] : misafir, konuk
+guide [ɡaɪd] : rehber
+guitar [ɡɪˈtɑːr] : gitar
+gun [ɡʌn] : silah, tabanca
+gym [dʒɪm] : spor salonu
+hair [heər] : saç
+half [hæf] : yarım, yarı
+hall [hɔːl] : koridor, salon
+hand [hænd] : el
+handbag [ˈhændbæɡ] : el çantası
+handle [ˈhændl] : kulp, tutamak
+happiness [ˈhæpinəs] : mutluluk
+hat [hæt] : şapka
+head [hed] : baş, kafa
+headache [ˈhedeɪk] : baş ağrısı
+health [helθ] : sağlık
+heart [hɑːrt] : kalp
+heat [hiːt] : ısı, sıcaklık
+height [haɪt] : boy, yükseklik
+helicopter [ˈhelɪkɒptər] : helikopter
+help [help] : yardım
+hero [ˈhɪəroʊ] : kahraman
+hill [hɪl] : tepe
+history [ˈhɪstri] : tarih
+hobby [ˈhɒbi] : hobi
+hole [hoʊl] : delik, çukur
+holiday [ˈhɒlədeɪ] : tatil
+home [hoʊm] : ev, yuva
+homework [ˈhoʊmwɜːrk] : ev ödevi
+honey [ˈhʌni] : bal, tatlım
+horse [hɔːrs] : at
+hospital [ˈhɒspɪtl] : hastane
+hotel [hoʊˈtel] : otel
+hour [ˈaʊər] : saat (süre)
+house [haʊs] : müstakil ev
+husband [ˈhʌzbənd] : koca, eş (erkek)
+ice [aɪs] : buz
+ice cream [ˌaɪs ˈkriːm] : dondurma
+idea [aɪˈdɪə] : fikir, düşünce
+identification [aɪˌdentɪfɪˈkeɪʃn] : kimlik
+identity [aɪˈdentəti] : kimlik, kişilik
+illness [ˈɪlnəs] : hastalık
+image [ˈɪmɪdʒ] : görüntü, resim
+imagination [ɪˌmædʒɪˈneɪʃn] : hayal gücü
+improvement [ɪmˈpruːvmənt] : gelişme, iyileşme
+incident [ˈɪnsɪdənt] : olay, hadise
+income [ˈɪnkʌm] : gelir, kazanç
+industry [ˈɪndəstri] : sanayi, endüstri
+infant [ˈɪnfənt] : bebek
+infection [ɪnˈfekʃn] : enfeksiyon
+information [ˌɪnfərˈmeɪʃn] : bilgi
+ingredient [ɪnˈɡriːdiənt] : malzeme, bileşen
+inhabitant [ɪnˈhæbɪtənt] : sakin, orada yaşayan
+injury [ˈɪndʒəri] : yaralanma, sakatlık
+insect [ˈɪnsekt] : böcek
+inspection [ɪnˈspekʃn] : denetim, inceleme
+instance [ˈɪnstəns] : örnek, durum
+instruction [ɪnˈstrʌkʃn] : talimat, yönerge
+instrument [ˈɪnstrəmənt] : enstrüman, alet
+insurance [ɪnˈʃʊərəns] : sigorta
+intent [ɪnˈtent] : niyet
+interest [ˈɪntrəst] : ilgi, faiz
+internet [ˈɪntərnet] : internet ağı
+interview [ˈɪntərvjuː] : mülakat, röportaj
+introduction [ˌɪntrəˈdʌkʃn] : giriş, tanıtım
+invention [ɪnˈvenʃn] : icat, buluş
+invitation [ˌɪnvɪˈteɪʃn] : davetiye
+island [ˈaɪlənd] : ada
+item [ˈaɪtəm] : madde, eşya, ürün
+jacket [ˈdʒækɪt] : ceket
+jam [dʒæm] : reçel, sıkışıklık
+job [dʒɒb] : iş, meslek
+journey [ˈdʒɜːrni] : yolculuk
+juice [dʒuːs] : meyve suyu
+key [kiː] : anahtar
+keyboard [ˈkiːbɔːrd] : klavye
+kid [kɪd] : çocuk
+kilogram [ˈkɪləɡræm] : kilogram
+kilometer [kɪˈlɒmɪtər] : kilometre
+kind [kaɪnd] : tür, çeşit
+king [kɪŋ] : kral
+kitchen [ˈkɪtʃɪn] : mutfak
+kite [kaɪt] : uçurtma
+knee [niː] : diz
+knife [naɪf] : bıçak
+knowledge [ˈnɒlɪdʒ] : bilgi, birikim
+laboratory [ˈlæbrətɔːri] : laboratuvar
+ladder [ˈlædər] : merdiven (taşınabilir)
+lake [leɪk] : göl
+lamp [læmp] : lamba
+land [lænd] : kara, toprak
+language [ˈlæŋɡwɪdʒ] : dil, lisan
+laptop [ˈlæptɒp] : dizüstü bilgisayar
+law [lɔː] : hukuk, kanun
+lawyer [ˈlɔɪər] : avukat
+leader [ˈliːdər] : lider
+leaf [liːf] : yaprak
+leather [ˈleðər] : deri
+lecture [ˈlektʃər] : ders, konferans
+left [left] : sol taraf
+leg [leɡ] : bacak
+lemon [ˈlemən] : limon
+lemonade [ˌleməˈneɪd] : limonata
+lesson [ˈlesn] : ders
+letter [ˈletər] : mektup, harf
+level [ˈlevl] : seviye
+library [ˈlaɪbreri] : kütüphane
+life [laɪf] : hayat, yaşam
+light [laɪt] : ışık
+line [laɪn] : çizgi, sıra
+lion [ˈlaɪən] : aslan
+lip [lɪp] : dudak
+list [lɪst] : liste
+literature [ˈlɪtrətʃər] : edebiyat
+litter [ˈlɪtər] : çöp
+living room [ˈlɪvɪŋ ruːm] : oturma odası
+location [loʊˈkeɪʃn] : konum, yer
+lock [lɒk] : kilit
+look [lʊk] : bakış, görünüm
+luggage [ˈlʌɡɪdʒ] : bagaj, valizler
+lunch [lʌntʃ] : öğle yemeği
+machine [məˈʃiːn] : makine
+magazine [ˌmæɡəˈziːn] : dergi
+mail [meɪl] : posta
+mainland [ˈmeɪnlænd] : anakara
+mall [mɔːl] : alışveriş merkezi
+man [mæn] : adam, erkek
+manager [ˈmænɪdʒər] : müdür, yönetici
+mango [ˈmæŋɡoʊ] : mango
+map [mæp] : harita
+market [ˈmɑːrkɪt] : pazar, market
+mark [mɑːrk] : işaret, not
+marriage [ˈmærɪdʒ] : evlilik
+match [mætʃ] : maç, kibrit, eşleşme
+material [məˈtɪəriəl] : malzeme, kumaş
+maths [mæθs] : matematik
+matter [ˈmætər] : konu, mesele
+meal [miːl] : öğün, yemek
+meaning [ˈmiːnɪŋ] : anlam
+meat [miːt] : et
+medicine [ˈmedsn] : tıp, ilaç
+meeting [ˈmiːtɪŋ] : toplantı
+member [ˈmembər] : üye
+memory [ˈmeməri] : hafıza, anı
+menu [ˈmenjuː] : menü
+message [ˈmesɪdʒ] : mesaj
+metal [ˈmetl] : metal
+meter [ˈmiːtər] : metre
+method [ˈmeθəd] : yöntem, metot
+midday [ˌmɪdˈdeɪ] : gün ortası
+midnight [ˈmɪdnaɪt] : gece yarısı
+milk [mɪlk] : süt
+minute [ˈmɪnɪt] : dakika
+mirror [ˈmɪrər] : ayna
+mistake [mɪˈsteɪk] : hata, yanlış
+mobile phone [ˈmoʊbl foʊn] : cep telefonu
+model [ˈmɒdl] : model, maket
+moment [ˈmoʊmənt] : an, lahza
+money [ˈmʌni] : para
+monkey [ˈmʌŋki] : maymun
+month [mʌnθ] : ay (takvim)
+moon [muːn] : ay (gökcismi)
+morning [ˈmɔːrnɪŋ] : sabah
+mother [ˈmʌðər] : anne
+motorbike [ˈmoʊtərbaɪk] : motosiklet
+mountain [ˈmaʊntn] : dağ
+mouse [maʊs] : fare
+mouth [maʊθ] : ağız
+movie [ˈmuːvi] : film
+museum [mjuˈziːəm] : müze
+mushroom [ˈmʌʃrʊm] : mantar
+music [ˈmjuːzɪk] : müzik
+musician [mjuˈzɪʃn] : müzisyen
+mustache [ˈmʌstæʃ] : bıyık
+name [neɪm] : isim
+napkin [ˈnæpkɪn] : peçete
+nation [ˈneɪʃn] : millet, ulus
+nature [ˈneɪtʃər] : doğa
+neck [nek] : boyun
+necklace [ˈnekləs] : kolye
+neighbor [ˈneɪbər] : komşu
+nest [nest] : yuva (kuş)
+net [net] : ağ, file
+news [njuːz] : haberler
+newspaper [ˈnjuːzpeɪpər] : gazete
+night [naɪt] : gece
+noise [nɔɪz] : gürültü
+noodle [ˈnuːdl] : erişte, noodle
+noon [nuːn] : öğle vakti
+north [nɔːrθ] : kuzey
+nose [noʊz] : burun
+notebook [ˈnoʊtbʊk] : defter
+novel [ˈnɒvl] : roman
+number [ˈnʌmbər] : numara, sayı
+nurse [nɜːrs] : hemşire
+nut [nʌt] : fındık, ceviz, kuruyemiş
+object [ˈɒbdʒɪkt] : nesne, cisim
+ocean [ˈoʊʃn] : okyanus
+office [ˈɒfɪs] : ofis, büro
+officer [ˈɒfɪsər] : memur, subay
+oil [ɔɪl] : yağ, petrol
+onion [ˈʌnjən] : soğan
+opinion [əˈpɪnjən] : fikir, görüş
+opportunity [ˌɒpərˈtjuːnəti] : fırsat
+option [ˈɒpʃn] : seçenek
+orange [ˈɒrɪndʒ] : portakal
+organ [ˈɔːrɡən] : organ
+organization [ˌɔːrɡənaɪˈzeɪʃn] : organizasyon, kuruluş
+owner [ˈoʊnər] : sahibi
+package [ˈpækɪdʒ] : paket, koli
+page [peɪdʒ] : sayfa
+pain [peɪn] : ağrı, acı
+painter [ˈpeɪntər] : ressam, boyacı
+painting [ˈpeɪntɪŋ] : tablo, resim
+pair [peər] : çift
+palace [ˈpæləs] : saray
+paper [ˈpeɪpər] : kağıt
+paragraph [ˈpærəɡræf] : paragraf
+pardon [ˈpɑːrdn] : affedersiniz, efendim
+parent [ˈpeərənt] : ebeveyn (anne veya baba)
+park [pɑːrk] : park
+parking [ˈpɑːrkɪŋ] : otopark, park etme
+parrot [ˈpærət] : papağan
+party [ˈpɑːrti] : parti, parti (siyasi/grup)
+passenger [ˈpæsɪndʒər] : yolcu
+passport [ˈpæspɔːrt] : pasaport
+path [pæθ] : patika, yol
+patient [ˈpeɪʃnt] : hasta
+pattern [ˈpætərn] : desen, kalıp
+payment [ˈpeɪmənt] : ödeme
+peace [piːs] : barış, huzur
+peach [piːtʃ] : şeftali
+pen [pen] : tükenmez kalem
+pencil [ˈpensl] : kurşun kalem
+pencil case [ˈpensl keɪs] : kalemlik
+penguin [ˈpeŋɡwɪn] : penguen
+people [ˈpiːpl] : insanlar
+pepper [ˈpepər] : biber
+percent [pərˈsent] : yüzde
+performance [pərˈfɔːrməns] : performans, gösteri
+perfume [ˈpɜːrfjuːm] : parfüm
+period [ˈpɪəriəd] : dönem, nokta
+person [ˈpɜːrsn] : kişi, insan
+pet [pet] : evcil hayvan
+pharmacy [ˈfɑːrməsi] : eczane
+phone [foʊn] : telefon
+photo [ˈfoʊtoʊ] : fotoğraf
+photographer [fəˈtɒɡrəfər] : fotoğrafçı
+photography [fəˈtɒɡrəfi] : fotoğrafçılık
+phrase [freɪz] : ifade, deyim
+piano [piˈænoʊ] : piyano
+picture [ˈpɪktʃər] : resim, fotoğraf
+pie [paɪ] : turta, pasta
+piece [piːs] : parça
+pig [pɪɡ] : domuz
+pilot [ˈpaɪlət] : pilot
+pink [pɪŋk] : pembe
+pipe [paɪp] : boru, pipo
+pizza [ˈpiːtsə] : pizza
+place [pleɪs] : yer, mekan
+plane [pleɪn] : uçak
+planet [ˈplænɪt] : gezegen
+plastic [ˈplæstɪk] : plastik
+plate [pleɪt] : tabak
+platform [ˈplætfɔːrm] : peron, platform
+playground [ˈpleɪɡraʊnd] : oyun parkı
+plaza [ˈplɑːzə] : meydan, plaza
+pocket [ˈpɒkɪt] : cep
+poem [ˈpoʊəm] : şiir
+poet [ˈpoʊət] : şair
+point [pɔɪnt] : puan, nokta, konu
+police [pəˈliːs] : polis
+policeman [pəˈliːsmən] : erkek polis
+police station [pəˈliːs ˈsteɪʃn] : polis karakolu
+policewoman [pəˈliːswʊmən] : kadın polis
+pollution [pəˈluːʃn] : kirlilik
+pool [puːl] : havuz
+popcorn [ˈpɒpkɔːrn] : patlamış mısır
+population [ˌpɒpjuˈleɪʃn] : nüfus
+port [pɔːrt] : liman
+position [pəˈzɪʃn] : konum, pozisyon
+possibility [ˌpɒsəˈbɪləti] : olasılık
+post [poʊst] : posta, gönderi
+post office [ˈpoʊst ˈɒfɪs] : postane
+postage stamp [ˈpoʊstɪdʒ stæmp] : posta pulu
+poster [ˈpoʊstər] : afiş, poster
+potato [pəˈteɪtoʊ] : patates
+pound [paʊnd] : sterlin, libre
+powder [ˈpaʊdər] : toz, pudra
+power [ˈpaʊər] : güç, elektrik enerjisi
+practice [ˈpræktɪs] : pratik, alıştırma
+preparation [ˌprepəˈreɪʃn] : hazırlık
+president [ˈprezɪdənt] : başkan, cumhurbaşkanı
+price [praɪs] : fiyat
+priest [priːst] : rahip, din adamı
+prince [prɪns] : prens
+princess [ˌprɪnˈses] : prenses
+printer [ˈprɪntər] : yazıcı
+prison [ˈprɪzn] : hapishane
+prize [praɪz] : ödül
+problem [ˈprɒbləm] : problem, sorun
+process [ˈprɒses] : süreç, işlem
+product [ˈprɒdʌkt] : ürün, mamül
+profession [prəˈfeʃn] : meslek
+professor [prəˈfesər] : profesör
+program [ˈproʊɡræm] : program
+progress [ˈprɒɡres] : ilerleme, gelişme
+project [ˈprɒdʒekt] : proje
+pronunciation [prəˌnʌnsiˈeɪʃn] : telaffuz
+property [ˈprɒpərti] : mülk, gayrimenkul
+protection [prəˈtekʃn] : koruma
+pub [pʌb] : bar, birahane
+public [ˈpʌblɪk] : halk, kamu
+puddle [ˈpʌdl] : su birikintisi
+pumpkin [ˈpʌmpkɪn] : balkabağı
+punishment [ˈpʌnɪʃmənt] : ceza
+pupil [ˈpjuːpl] : öğrenci (ilkokul)
+puppy [ˈpʌpi] : köpek yavrusu
+purple [ˈpɜːrpl] : mor
+purpose [ˈpɜːrpəs] : amaç, gaye
+purse [pɜːrs] : kadın cüzdanı
+puzzle [ˈpʌzl] : bulmaca
+pyjamas [pəˈdʒɑːməz] : pijama
+quality [ˈkwɒləti] : kalite
+quantity [ˈkwɒntəti] : miktar, nicelik
+quarter [ˈkwɔːrtər] : çeyrek
+queen [kwiːn] : kraliçe
+question [ˈkwestʃən] : soru
+queue [kjuː] : kuyruk, sıra
+rabbit [ˈræbɪt] : tavşan
+race [reɪs] : yarış, ırk
+racket [ˈrækɪt] : raket
+radio [ˈreɪdioʊ] : radyo
+railway [ˈreɪlweɪ] : demiryolu
+rain [reɪn] : yağmur
+raincoat [ˈreɪnkoʊt] : yağmurluk
+rat [ræt] : sıçan, tarla faresi
+reader [ˈriːdər] : okuyucu
+reading [ˈriːdɪŋ] : okuma
+reason [ˈriːzn] : sebep, neden
+receipt [rɪˈsiːt] : fiş, makbuz
+reception [rɪˈsepʃn] : resepsiyon, karşılama
+recipe [ˈresəpi] : yemek tarifi
+recreation [ˌrekriˈeɪʃn] : eğlence, dinlenme
+refrigerator [rɪˈfrɪdʒəreɪtər] : buzdolabı
+region [ˈriːdʒən] : bölge
+relation [rɪˈleɪʃn] : ilişki, akraba
+relationship [rɪˈleɪʃnʃɪp] : ilişki
+religion [rɪˈlɪdʒən] : din
+reporter [rɪˈpɔːrtər] : muhabir, gazeteci
+research [ˈriːsɜːrtʃ] : araştırma
+reservation [ˌrezərˈveɪʃn] : rezervasyon
+resource [ˈriːsɔːrs] : kaynak
+respect [rɪˈspekt] : saygı
+rest [rest] : dinlenme, geri kalan
+restaurant [ˈrestrɒnt] : restoran
+result [rɪˈzʌlt] : sonuç
+rice [raɪs] : pirinç, pilav
+rider [ˈraɪdər] : binici
+river [ˈrɪvər] : nehir, ırmak
+road [roʊd] : yol
+robot [ˈroʊbɒt] : robot
+rock [rɒk] : kaya, rok müzik
+roof [ruːf] : çatı
+room [ruːm] : oda
+rope [roʊp] : ip, halat
+rose [roʊz] : gül
+route [ruːt] : rota, güzergah
+rubber [ˈrʌbər] : silgi, kauçuk
+rubbish [ˈrʌbɪʃ] : çöp
+rugby [ˈrʌɡbi] : ragbi
+rule [ruːl] : kural
+runner [ˈrʌnər] : koşucu
+running [ˈrʌnɪŋ] : koşu
+safety [ˈseɪfti] : güvenlik
+sailor [ˈseɪlər] : denizci
+salad [ˈsæləd] : salata
+salary [ˈsæləri] : maaş
+sale [seɪl] : satış, indirimli satış
+salt [sɔːlt] : tuz
+sand [sænd] : kum
+sandwich [ˈsænwɪtʃ] : sandviç
+sauce [sɔːs] : sos
+sausage [ˈsɒsɪdʒ] : sosis
+scarf [skɑːrf] : atkı, eşarp
+scenery [ˈsiːnəri] : manzara
+school [skuːl] : okul
+science [ˈsaɪəns] : bilim
+scientist [ˈsaɪəntɪst] : bilim insanı
+scissors [ˈsɪzərz] : makas
+screen [skriːn] : ekran
+sea [siː] : deniz
+seafood [ˈsiːfuːd] : deniz ürünü
+seaside [ˈsiːsaɪd] : deniz kenarı
+season [ˈsiːzn] : mevsim, sezon
+seat [siːt] : koltuk, oturacak yer
+second [ˈsekənd] : saniye, ikinci
+secret [ˈsiːkrət] : sır
+secretary [ˈsekrəteri] : sekreter
+section [ˈsekʃn] : bölüm, kısım
+security [səˈkjʊərəti] : güvenlik
+sentence [ˈsentəns] : cümle
+service [ˈsɜːrvɪs] : hizmet, servis
+shadow [ˈʃædoʊ] : gölge
+shampoo [ʃæmˈpuː] : şampuan
+shape [ʃeɪp] : şekil, biçim
+shark [ʃɑːrk] : köpekbalığı
+sheep [ʃiːp] : koyun
+sheet [ʃiːt] : çarşaf, kağıt yaprağı
+shelf [ʃelf] : raf
+ship [ʃɪp] : gemi
+shirt [ʃɜːrt] : gömlek
+shoe [ʃuː] : ayakkabı
+shop [ʃɒp] : dükkan, mağaza
+shopping [ˈʃɒpɪŋ] : alışveriş
+shorts [ʃɔːrts] : şort
+shoulder [ˈʃoʊldər] : omuz
+shower [ˈʃaʊər] : duş, sağanak yağış
+sight [saɪt] : görme yetisi, manzara
+sign [saɪn] : tabela, işaret
+signal [ˈsɪɡnəl] : sinyal
+silence [ˈsaɪləns] : sessizlik
+silk [sɪlk] : ipek
+silver [ˈsɪlvər] : gümüş
+singer [ˈsɪŋər] : şarkıcı
+sister [ˈsɪstər] : kız kardeş
+site [saɪt] : site, alan, konum
+size [saɪz] : beden, boyut
+skate [skeɪt] : paten
+skateboard [ˈskeɪtbɔːrd] : kaykay
+skiing [ˈskiːɪŋ] : kayak sporu
+skin [skɪn] : cilt, deri
+skirt [skɜːrt] : etek
+sky [skaɪ] : gökyüzü
+able [ˈeɪbl] : yapabilen, muktedir
+accurate [ˈækjərət] : doğru, kesin
+active [ˈæktɪv] : aktif, hareketli
+afraid [əˈfreɪd] : korkmuş
+alive [əˈlaɪv] : canlı, hayatta
+amazing [əˈmeɪzɪŋ] : şaşırtıcı, harika
+angry [ˈæŋɡri] : kızgın, öfkeli
+annoyed [əˈnɔɪd] : rahatsız olmuş, kızgın
+anxious [ˈæŋkʃəs] : endişeli, kaygılı
+asleep [əˈsliːp] : uykuda, uyur halde
+attractive [əˈtræktɪv] : çekici, cazip
+awful [ˈɔːfl] : berbat, kötü
+bad [bæd] : kötü
+beautiful [ˈbjuːtɪfl] : güzel
+big [bɪɡ] : büyük
+bitter [ˈbɪtər] : acı (tat)
+blind [blaɪnd] : kör
+bored [bɔːrd] : sıkılmış
+boring [ˈbɔːrɪŋ] : sıkıcı
+brave [breɪv] : cesur
+bright [braɪt] : parlak, zeki
+broad [brɔːd] : geniş
+broken [ˈbroʊkən] : kırık, bozuk
+busy [ˈbɪzi] : meşgul, yoğun
+calm [kɑːm] : sakin, durgun
+careful [ˈkeərfl] : dikkatli
+careless [ˈkeərləs] : dikkatsiz
+cheap [tʃiːp] : ucuz
+cheerful [ˈtʃɪərfl] : neşeli, güler yüzlü
+clean [kliːn] : temiz
+clear [klɪər] : açık, net
+clever [ˈklevər] : zeki, akıllı
+cold [koʊld] : soğuk
+comfortable [ˈkʌmftəbl] : rahat, konforlu
+common [ˈkɒmən] : yaygın, ortak
+cool [kuːl] : serin, havalı
+crazy [ˈkreɪzi] : çılgın, deli
+cruel [ˈkruːəl] : acımasız, zalim
+cultural [ˈkʌltʃərəl] : kültürel
+curious [ˈkjʊəriəs] : meraklı
+dangerous [ˈdeɪndʒərəs] : tehlikeli
+dark [dɑːrk] : karanlık, koyu
+dead [ded] : ölü
+deaf [def] : sağır
+deep [diːp] : derin
+different [ˈdɪfrənt] : farklı
+difficult [ˈdɪfɪkəlt] : zor
+dirty [ˈdɜːrti] : kirli
+dry [draɪ] : kuru
+eager [ˈiːɡər] : hevesli, istekli
+early [ˈɜːrli] : erken
+easy [ˈiːzi] : kolay
+educational [ˌedʒuˈkeɪʃənl] : eğitici
+embarrassed [ɪmˈbærəst] : utanmış, mahcup
+empty [ˈempti] : boş
+expensive [ɪkˈspensɪv] : pahalı
+famous [ˈfeɪməs] : ünlü
+fast [fæst] : hızlı
+fat [fæt] : kilolu, yağlı
+female [ˈfiːmeɪl] : kadın, dişi
+financial [faɪˈnænʃl] : finansal, mali
+flat [flæt] : düz, hatasız
+foreign [ˈfɒrən] : yabancı
+free [friː] : ücretsiz, özgür, boş
+fresh [freʃ] : taze, ferah
+friendly [ˈfrendli] : samimi, dost canlısı
+full [fʊl] : dolu, tok
+funny [ˈfʌni] : komik, eğlenceli
+general [ˈdʒenrəl] : genel
+gentle [ˈdʒentl] : nazik, ılımlı
+glad [ɡlæd] : memnun, mutlu
+good [ɡʊd] : iyi
+great [ɡreɪt] : harika, büyük
+green [ɡriːn] : yeşil
+happy [ˈhæpi] : mutlu
+hard [hɑːrd] : zor, sert
+healthy [ˈhelθi] : sağlıklı
+heavy [ˈhevi] : ağır
+helpful [ˈhelpfl] : yardımsever, faydalı
+honest [ˈɒnɪst] : dürüst
+hot [hɒt] : sıcak, acı (baharat)
+huge [hjuːdʒ] : kocaman, devasa
+hungry [ˈhʌŋɡri] : acıkmış
+hurt [hɜːrt] : incinmiş, yaralı
+important [ɪmˈpɔːrtnt] : önemli
+impossible [ɪmˈpɒsəbl] : imkansız
+independent [ˌɪndɪˈpendənt] : bağımsız
+interested [ˈɪntrəstɪd] : ilgili, meraklı
+interesting [ˈɪntrəstɪŋ] : ilgi çekici
+international [ˌɪntərˈnæʃnəl] : uluslararası
+jealous [ˈdʒeləs] : kıskanç
+kind [kaɪnd] : kibar, nazik
+large [lɑːrdʒ] : büyük, geniş
+late [leɪt] : geç, gecikmiş
+lazy [ˈleɪzi] : tembel
+light [laɪt] : hafif, açık (renk)
+local [ˈloʊkl] : yerel, lokal
+lonely [ˈloʊnli] : yalnız, kimsesiz
+long [lɒŋ] : uzun
+loud [laʊd] : yüksek sesli
+lovely [ˈlʌvli] : sevimli, güzel
+low [loʊ] : düşük, alçak
+lucky [ˈlʌki] : şanslı
+mad [mæd] : çılgın, kızgın
+male [meɪl] : erkek
+medical [ˈmedɪkl] : tıbbi
+modern [ˈmɒdrn] : modern, çağdaş
+narrow [ˈnæroʊ] : dar
+national [ˈnæʃnəl] : ulusal, milli
+natural [ˈnætʃrəl] : doğal
+near [nɪər] : yakın
+necessary [ˈnesəsəri] : gerekli, zorunlu
+nervous [ˈnɜːrvəs] : gergin, heyecanlı
+new [njuː] : yeni
+nice [naɪs] : hoş, güzel
+noisy [ˈnɔɪzi] : gürültülü
+normal [ˈnɔːrml] : normal
+old [oʊld] : yaşlı, eski
+open [ˈoʊpən] : açık
+original [əˈrɪdʒənl] : orijinal, özgün
+own [oʊn] : kendi, şahsi
+painful [ˈpeɪnfl] : ağrılı, acı verici
+patient [ˈpeɪʃnt] : sabırlı
+perfect [ˈpɜːrfɪkt] : mükemmel
+personal [ˈpɜːrsənl] : kişisel, özel
+polite [pəˈlaɪt] : kibar, nezaketli
+poor [pʊər] : fakir, zayıf/kötü
+popular [ˈpɒpjələr] : popüler, sevilen
+positive [ˈpɒzətɪv] : olumlu, pozitif
+possible [ˈpɒsəbl] : mümkün, olası
+powerful [ˈpaʊərfl] : güçlü, etkili
+pretty [ˈprɪti] : sevimli, hoş
+private [ˈpraɪvət] : özel, gizli
+public [ˈpʌblɪk] : halka açık, kamu
+quick [kwɪk] : hızlı, çabuk
+quiet [ˈkwaɪət] : sessiz, sakin
+rare [reər] : nadir, az pişmiş
+ready [ˈredi] : hazır
+real [riːəl] : gerçek
+recent [ˈriːsnt] : son, yakın zamandaki
+red [red] : kırmızı
+regular [ˈreɡjələr] : düzenli, sıradan
+rich [rɪtʃ] : zengin
+right [raɪt] : doğru, sağ
+rough [rʌf] : pürüzlü, kaba, dalgalı
+round [raʊnd] : yuvarlak
+sad [sæd] : üzgün
+safe [seɪf] : güvenli
+same [seɪm] : aynı
+serious [ˈsɪəriəs] : ciddi
+shallow [ˈʃæloʊ] : sığ
+sharp [ʃɑːrp] : keskin
+short [ʃɔːrt] : kısa
+shy [ʃaɪ] : utangaç
+sick [sɪk] : hasta
+silent [ˈsaɪlənt] : sessiz
+silly [ˈsɪli] : aptalca, saçma
+similar [ˈsɪmələr] : benzer
+simple [ˈsɪmpl] : basit, sade
+single [ˈsɪŋɡl] : bekâr, tek
+slow [sloʊ] : yavaş
+small [smɔːl] : küçük
+smart [smɑːrt] : akıllı, şık
+smooth [smuːð] : pürüzsüz, düzgün
+soft [sɒft] : yumuşak
+sorry [ˈsɒri] : üzgün, pişman
+special [ˈspeʃl] : özel
+strange [streɪndʒ] : garip, yabancı
+strong [strɒŋ] : güçlü
+stupid [ˈstjuːpɪd] : aptal
+successful [səkˈsesfl] : başarılı
+suitable [ˈsuːtəbl] : uygun, elverişli
+sweet [swiːt] : tatlı
+tall [tɔːl] : uzun (boylu)
+terrible [ˈterəbl] : berbat, korkunç
+thick [θɪk] : kalın, yoğun
+thin [θɪn] : ince, zayıf
+tired [ˈtaɪərd] : yorgun
+ugly [ˈʌɡli] : çirkin
+uncomfortable [ʌnˈkʌmftəbl] : rahatsız
+unhappy [ʌnˈhæpi] : mutsuz
+useful [ˈjuːsfl] : kullanışlı, yararlı
+useless [ˈjuːsləs] : yararsız, işe yaramaz
+warm [wɔːrm] : ılık, sıcakkanlı
+weak [wiːk] : zayıf, güçsüz
+well [wel] : iyi, sağlıklı
+wet [wet] : ıslak, yaş
+white [waɪt] : beyaz
+wide [waɪd] : geniş
+wild [waɪld] : vahşi, doğada yaşayan
+wrong [rɒŋ] : yanlış
+yellow [ˈjeloʊ] : sarı
+young [jʌŋ] : genç
+about [əˈbaʊt] : hakkında, yaklaşık
+above [əˈbʌv] : üzerinde, üstünde
+across [əˈkrɒs] : karşıdan karşıya
+after [ˈæftər] : -den sonra
+again [əˈɡen] : tekrar, yine
+against [əˈɡenst] : -e karşı
+almost [ˈɔːlmoʊst] : neredeyse, hemen hemen
+already [ɔːlˈredi] : çoktan, zaten
+also [ˈɔːlsoʊ] : ayrıca, de/da
+always [ˈɔːlweɪz] : her zaman, daima
+among [əˈmʌŋ] : arasında (ikiden fazla)
+around [əˈraʊnd] : etrafında, yaklaşık
+away [əˈweɪ] : uzakta, uzağa
+behind [bɪˈhaɪnd] : arkasında
+below [bɪˈloʊ] : altında, aşağısında
+beside [bɪˈsaɪd] : yanında
+between [bɪˈtwiːn] : arasında (iki şeyin)
+beyond [bɪˈjɒnd] : ötesinde
+both [boʊθ] : her ikisi de
+carefully [ˈkeərfəli] : dikkatlice
+clearly [ˈklɪərli] : net bir şekilde
+completely [kəmˈpliːtli] : tamamen
+down [daʊn] : aşağı, aşağıya
+early [ˈɜːrli] : erken
+easily [ˈiːzəli] : kolayca
+enough [ɪˈnʌf] : yeterince, yeterli
+especially [ɪˈspeʃəli] : özellikle
+even [ˈiːvn] : hatta, bile
+ever [ˈevər] : hiç, bugüne kadar
+everywhere [ˈevriweər] : her yer, her yere
+far [fɑːr] : uzak, uzakta
+fast [fæst] : hızlıca
+finally [ˈfaɪnəli] : sonunda, nihayet
+hardly [ˈhɑːrdli] : neredeyse hiç
+here [hɪər] : burada, buraya
+how [haʊ] : nasıl
+inside [ˌɪnˈsaɪd] : içinde, içeriye
+instead [ɪnˈsted] : yerine
+just [dʒʌst] : sadece, henüz, tam
+late [leɪt] : geç
+maybe [ˈmeɪbi] : belki
+near [nɪər] : yakınında
+never [ˈnevər] : asla, hiç
+next to [ˈnekst tuː] : bitişiğinde, yanında
+now [naʊ] : şimdi
+off [ɒf] : kapalı, uzaklaşma bildiren edat
+often [ˈɒfn] : sık sık
+on time [ɒn taɪm] : zamanında
+once [wʌns] : bir kez, eskiden
+outside [ˌaʊtˈsaɪd] : dışarıda, dışarıya
+perhaps [pərˈhæps] : belki, muhtemelen
+probably [ˈprɒbəbli] : muhtemelen
+quickly [ˈkwɪkli] : hızlıca, çabucak
+quite [kwaɪt] : oldukça, epeyce
+really [ˈriːəli] : gerçekten
+recently [ˈriːsntli] : son zamanlarda
+seldom [ˈseldəm] : nadiren
+since [sɪns] : -den beri
+slowly [ˈsloʊli] : yavaşça
+so [soʊ] : bu yüzden, öyle
+sometimes [ˈsʌmtaɪmz] : bazen
+somewhere [ˈsʌmweər] : bir yer, bir yere
+still [stɪl] : hala, yine de
+suddenly [ˈsʌdənli] : aniden, birdenbire
+then [ðen] : o zaman, sonra
+there [ðeər] : orada, oraya
+together [təˈɡeðər] : birlikte, beraber
+too [tuː] : çok, de/da
+under [ˈʌndər] : altında
+usually [ˈjuːʒuəli] : genellikle
+well [wel] : iyi bir şekilde
+when [wen] : ne zaman, -diği zaman
+where [weər] : nerede, nereye
+why [waɪ] : neden, niçin
+yet [jet] : henüz, daha
+afternoon [ˌæftərˈnuːn] : öğleden sonra
+ago [əˈɡoʊ] : önce (zaman)
+all day [ɔːl deɪ] : bütün gün
+always [ˈɔːlweɪz] : her zaman
+at night [æt naɪt] : geceleyin
+century [ˈsentʃəri] : yüzyıl
+daily [ˈdeɪli] : günlük
+date [deɪt] : tarih
+evening [ˈiːvnɪŋ] : akşam
+everyday [ˈevrideɪ] : her günkü, günlük
+future [ˈfjuːtʃər] : gelecek
+hour [ˈaʊər] : saat (süre)
+immediately [ɪˈmiːdiətli] : hemen, derhal
+in the future [ɪn ðə ˈfjuːtʃər] : gelecekte
+last week [læst wiːk] : geçen hafta
+minute [ˈmɪnɪt] : dakika
+month [mʌnθ] : ay
+next year [nekst jɪər] : gelecek yıl
+night [naɪt] : gece
+noon [nuːn] : öğle vakti
+nowadays [ˈnaʊədeɪz] : bugünlerde
+past [pæst] : geçmiş
+present [ˈpreznt] : şimdiki zaman, hediye
+recently [ˈriːsntli] : yakın zamanda
+second [ˈsekənd] : saniye
+soon [suːn] : yakında, birazdan
+today [təˈdeɪ] : bugün
+tomorrow [təˈmɒroʊ] : yarın
+tonight [təˈnaɪt] : bu gece
+weekend [ˈwiːkend] : hafta sonu
+weekly [ˈwiːkli] : haftalık
+year [jɪər] : yıl, sene
+yesterday [ˈjestərdeɪ] : dün

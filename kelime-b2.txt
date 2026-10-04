@@ -1,150 +1,1005 @@
-abandon [ebendın] : terk etmek
-accumulate [ekyuumyuleyt] : biriktirmek
-briefly [briıfli] : kısaca
-comprehensive [komprihensiv] : kapsamlı
-diverse [dayvörs] : çeşitli
-fluctuate [flakçueyt] : dalgalanmak
-inevitable [inevitıbıl] : kaçınılmaz
-substantial [sebstenşıl] : önemli, büyük miktarda
-advocate [edvokeyt] : savunmak
-ambiguous [embigyuıs] : belirsiz, muğlak
-acknowledge [eknolic] : kabul etmek
-adapt [ıdept] : uyum sağlamak
-anticipate [entisipeyt] : öngörmek
-assess [ıses] : değerlendirmek
-assume [ısuum] : varsaymak
-attain [ıteyn] : ulaşmak, elde etmek
-clarify [klerifay] : netleştirmek
-collaborate [kılebıreyt] : iş birliği yapmak
-commit [kımit] : kendini adamak
-compensate [kompınseyt] : telafi etmek
-compromise [komprımayz] : uzlaşma
-concentrate [konsıntreyt] : odaklanmak
-contribute [kıntribyuut] : katkıda bulunmak
-convey [kınvey] : iletmek
-cope [kop] : başa çıkmak
-criticize [kritisayz] : eleştirmek
-demonstrate [demınstreyt] : göstermek, kanıtlamak
-distinguish [distingviş] : ayırt etmek
-emphasize [emfısayz] : vurgulamak
-enhance [inhens] : geliştirmek, artırmak
-ensure [inşuır] : sağlamak, garantilemek
-estimate [estimeyt] : tahmin etmek
-establish [istebliş] : kurmak
-exaggerate [igzecıreyt] : abartmak
-highlight [haylayt] : öne çıkarmak
-hesitate [heziteyt] : tereddüt etmek
-imply [implay] : ima etmek
-interpret [intörprit] : yorumlamak
-justify [castifay] : haklı çıkarmak
-maintain [meynteyn] : sürdürmek
-negotiate [nigoşieyt] : müzakere etmek
-obtain [ıbteyn] : elde etmek
-overcome [ovırkam] : üstesinden gelmek
-participate [partisipeyt] : katılmak
-perceive [pırsiıv] : algılamak
-postpone [postpon] : ertelemek
-prioritize [prayorıtayz] : önceliklendirmek
-pursue [pırsuu] : peşinden gitmek
-reinforce [riinfors] : güçlendirmek
-resolve [rizolv] : çözmek
-restrict [ristrikt] : kısıtlamak
-reveal [riviıl] : ortaya çıkarmak
-tackle [tekıl] : ele almak, uğraşmak
-undermine [andırmayn] : baltalamak
-withdraw [vidro] : geri çekmek
-acquire [ıkvayır] : edinmek
-allocate [elıkeyt] : tahsis etmek
-consequence [konsikvıns] : sonuç
-commitment [kımitmınt] : bağlılık, taahhüt
-controversy [kontrıvörsi] : tartışma
-criteria [kraytiıriı] : kriterler
-dilemma [dilemı] : ikilem
-emphasis [emfısis] : vurgu
-expertise [ekspörtiız] : uzmanlık
-feedback [fiıdbek] : geri bildirim
-framework [freymvörk] : çerçeve
-implication [implikeyşın] : olası sonuç, ima
-initiative [inişıtiv] : girişim
-insight [insayt] : içgörü
-integrity [integrıti] : dürüstlük, bütünlük
-motivation [motiveyşın] : motivasyon
-perspective [pırspektiv] : bakış açısı
-phenomenon [finominon] : olgu
-priority [prayorıti] : öncelik
-prospect [prospekt] : olasılık, beklenti
-reputation [repyuteyşın] : itibar
-requirement [rikvayırmınt] : gereklilik
-strategy [stretıci] : strateji
-tendency [tendınsi] : eğilim
-threat [thret] : tehdit
-burden [bördın] : yük
-assumption [ısampşın] : varsayım
-awareness [ıvernıs] : farkındalık
-bias [bayıs] : önyargı
-circumstances [sörkımstensiz] : koşullar
-accurate [ekyırıt] : doğru, kesin
-adequate [edikvıt] : yeterli
-apparent [ıperınt] : görünür, belli
-appropriate [ıpropriıt] : uygun
-considerable [kınsidırıbıl] : hatırı sayılır
-consistent [kınsistınt] : tutarlı
-crucial [kruuşıl] : çok önemli
-elaborate [ilebırıt] : ayrıntılı
-essential [isenşıl] : temel, gerekli
-explicit [iksplisit] : açık, net
-feasible [fiızıbıl] : uygulanabilir
-flexible [fleksıbıl] : esnek
-genuine [cenyuin] : gerçek, samimi
-inadequate [inedikvıt] : yetersiz
-innovative [inıveytiv] : yenilikçi
-legitimate [licitimıt] : meşru
-mutual [myuuçuıl] : karşılıklı
-notable [notıbıl] : dikkate değer
-overwhelming [ovırvelming] : ezici, bunaltıcı
-persistent [pırsistınt] : ısrarcı
-plausible [plozıbıl] : akla yatkın
-practical [prektikıl] : pratik
-relevant [relıvınt] : ilgili
-reluctant [rilaktınt] : isteksiz
-sophisticated [sıfistikeytid] : gelişmiş, sofistike
-straightforward [streytforvırd] : basit, anlaşılır
-subtle [satıl] : ince, belli belirsiz
-sufficient [sıfişınt] : yeterli
-temporary [tempıreri] : geçici
-thorough [thöro] : titiz, eksiksiz
-vague [veyg] : belirsiz, bulanık
-vulnerable [valnırıbıl] : savunmasız
-widespread [vaydspred] : yaygın
-worthwhile [vörthvayl] : zahmete değer
-accordingly [ıkordingli] : buna göre
-approximately [ıproksimıtli] : yaklaşık olarak
-consequently [konsikvıntli] : sonuç olarak
-deliberately [dilibırıtli] : kasıtlı olarak
-furthermore [fördırmor] : ayrıca
-merely [miırli] : sadece
-nevertheless [nevırdıles] : yine de
-predominantly [pridominıntli] : ağırlıklı olarak
-presumably [prizuumıbli] : muhtemelen
-relatively [relıtivli] : nispeten
-thereby [derbay] : böylece
-whereas [verez] : oysa
-despite [dispayt] : -e rağmen
-hence [hens] : bu nedenle
-likewise [laykvayz] : aynı şekilde
-debt [det] : borç
-income [inkam] : gelir
-investment [investmınt] : yatırım
-mortgage [morgic] : konut kredisi
-revenue [revınuu] : hasılat
-negotiation [nigoşieyşın] : müzakere
-contract [kontrekt] : sözleşme
-workload [vörklod] : iş yükü
-burnout [börnawt] : tükenmişlik
-well-being [vel biıing] : iyi olma hali
-sustainable [sısteynıbıl] : sürdürülebilir
-inequality [inikvolıti] : eşitsizlik
-diversity [dıvörsıti] : çeşitlilik
-privacy [prayvısi] : mahremiyet
-regulation [regyıleyşın] : düzenleme, yönetmelik
-infrastructure [infrıstrakçır] : altyapı
+===================================================================
+             B2 SEVİYESİ İNGİLİZCE KELİME LİSTESİ (1000 KELİME)
+===================================================================
+Format: [Kelime] ([Sözcük Türü]) - [Türkçe Karşılığı]
+
+1. Abandon (v) - Terk etmek, vazgeçmek
+2. Absolute (adj) - Mutlak, kesin
+3. Absorb (v) - Emmek, bünyesine almak, kavramak
+4. Abstract (adj) - Soyut
+5. Academic (adj) - Akademik
+6. Acceptable (adj) - Kabul edilebilir
+7. Access (n/v) - Erişim; erişmek
+8. Accidentally (adv) - Kazara, yanlışlıkla
+9. Accommodate (v) - Barındırmak, yerleştirmek, uyum sağlamak
+10. Accompany (v) - Eşlik etmek
+11. Accomplish (v) - Başarmak, tamamlamak
+12. Accountable (adj) - Sorumlu, hesap verebilir
+13. Accurate (adj) - Doğru, kesin, eksiksiz
+14. Accuse (v) - Suçlamak
+15. Achieve (v) - Elde etmek, başarmak
+16. Acknowledge (v) - Kabullenmek, onaylamak
+17. Acquire (v) - Edinmek, kazanmak
+18. Adapt (v) - Uyarlamak, uyum sağlamak
+19. Adequate (adj) - Yeterli, kafi
+20. Adjust (v) - Ayarlamak, düzeltmek
+21. Administration (n) - Yönetim, idare
+22. Adopt (v) - Evlat edinmek, benimsemek
+23. Advance (n/v) - İlerleme; ilerlemek
+24. Advantageous (adj) - Avantajlı, kazançlı
+25. Adventure (n) - Macera
+26. Adversity (n) - Sıkıntı, olumsuzluk, güçlük
+27. Advocate (n/v) - Savunucu; savunmak
+28. Affair (n) - Mesele, olay, ilişki
+29. Affect (v) - Etkilemek
+30. Afford (v) - Gücü yetmek, karşılayabilmek
+31. Agency (n) - Ajans, acente, kurum
+32. Agenda (n) - Gündem
+33. Aggressive (adj) - Saldırgan, agresif
+34. Alter (v) - Değiştirmek, başkalaştırmak
+35. Alternative (n/adj) - Alternatif, seçenek
+36. Ambition (n) - Hırs, hedef, tutku
+37. Analyze (v) - Analiz etmek, incelemek
+38. Ancestor (n) - Ata, soy
+39. Annoy (v) - Rahatsız etmek, kızdırmak
+40. Annual (adj) - Yıllık
+41. Anticipate (v) - Öngörmek, merakla beklemek
+42. Apparent (adj) - Belirgin, bariz
+43. Appeal (n/v) - Cazibe, başvuru; çekici gelmek, temyiz etmek
+44. Approach (n/v) - Yaklaşım; yaklaşmak
+45. Appropriate (adj) - Uygun, yerinde
+46. Approve (v) - Onaylamak, uygun bulmak
+47. Approximate (adj) - Yaklaşık, tahmini
+48. Architect (n) - Mimar
+49. Arise (v) - Ortaya çıkmak, baş göstermek
+50. Artificial (adj) - Yapay, suni
+51. Aspect (n) - Açı, yön, görünüş
+52. Assemble (v) - Monte etmek, toplanmak
+53. Assert (v) - İddia etmek, ileri sürmek
+54. Assess (v) - Değerlendirmek, ölçmek
+55. Asset (n) - Varlık, değer, artı özellik
+56. Assign (v) - Görevlendirmek, atamak
+57. Assist (v) - Yardım etmek, desteklemek
+58. Associate (v) - İlişkilendirmek, bağdaştırmak
+59. Assume (v) - Varsaymak, üstlenmek
+60. Assure (v) - Güvence vermek, temin etmek
+61. Astonish (v) - Şaşırtmak, hayrete düşürmek
+62. Attach (v) - İliştirmek, bağlamak
+63. Attain (v) - Ulaşmak, erişmek
+64. Attempt (n/v) - Girişim; girişmek, denemek
+65. Attitude (n) - Tutum, tavır
+66. Attract (v) - Cezbetmek, çekmek
+67. Attribute (n/v) - Nitelik; bağlamak, atfetmek
+68. Authority (n) - Otorite, yetki
+69. Automatic (adj) - Otomatik
+70. Available (adj) - Mevcut, müsait
+71. Aware (adj) - Farkında, bilincinde
+72. Awkward (adj) - Cansıkıcı, tuhaf, beceriksiz
+73. Banish (v) - Sürgün etmek, uzaklaştırmak
+74. Bargain (n/v) - Kelepir, anlaşma; pazarlık etmek
+75. Barrier (n) - Engel, bariyer
+76. Beneficial (adj) - Faydalı, yararlı
+77. Betray (v) - İhanet etmek
+78. Bias (n) - Önyargı, taraf tutma
+79. Bizarre (adj) - Garip, tuhaf
+80. Boost (n/v) - Artış, destek; artırmak, yükseltmek
+81. Bound (adj) - Bağlı, zorunlu, sınırlandırılmış
+82. Breach (n/v) - İhlal; ihlal etmek, yarık açmak
+83. Brief (adj) - Kısa, öz
+84. Broad (adj) - Geniş, kapsamlı
+85. Budget (n) - Bütçe
+86. Burden (n/v) - Yük; yük etmek
+87. Candidate (n) - Aday
+88. Capacity (n) - Kapasite, hacim, yetenek
+89. Capture (v) - Yakalamak, ele geçirmek
+90. Category (n) - Kategori, sınıf
+91. Caution (n/v) - Uyarı, dikkat; uyarmak
+92. Cease (v) - Durdurmak, sona ermek
+93. Challenge (n/v) - Zorluk, meydan okuma; meydan okumak
+94. Chamber (n) - Oda, hazne, meclis
+95. Chaos (n) - Kaos, karmaşa
+96. Characteristic (n/adj) - Özellik; tipik, karakteristik
+97. Circumstance (n) - Durum, koşul
+98. Cite (v) - Alıntı yapmak, kaynak göstermek
+99. Civil (adj) - Sivil, medeni
+100. Claim (n/v) - İddia; iddia etmek, talep etmek
+101. Clarify (v) - Açıklığa kavuşturmak
+102. Classic (adj/n) - Klasik
+103. Clause (n) - Madde, fıkra, yan cümle
+104. Collapse (n/v) - Çöküş; çökmek
+105. Colleague (n) - Meslektaş
+106. Combine (v) - Birleştirmek
+107. Commercial (adj/n) - Ticari; reklam
+108. Commit (v) - Suç işlemek, taahhüt etmek, adamak
+109. Committee (n) - Komite, kurul
+110. Common (adj) - Yaygın, ortak
+111. Community (n) - Topluluk, cemiyet
+112. Compare (v) - Karşılaştırmak
+113. Compel (v) - Zorlamak, mecbur etmek
+114. Compensate (v) - Tazmin etmek, telafi etmek
+115. Compete (v) - Yarışmak, rekabet etmek
+116. Competent (adj) - Yetkin, ehil
+117. Compile (v) - Derlemek, toplamak
+118. Complain (v) - Şikayet etmek
+119. Complex (adj) - Karmaşık, kompleks
+120. Component (n) - Bileşen, parça
+121. Compose (v) - Oluşturmak, bestelemek
+122. Comprehensive (adj) - Kapsamlı, ayrıntılı
+123. Compromise (n/v) - Uzlaşma; uzlaşmak
+124. Conceal (v) - Gizlemek, saklamak
+125. Concede (v) - Kabul etmek, kabullenmek
+126. Concentrate (v) - Odaklanmak, yoğunlaşmak
+127. Concept (n) - Kavram, fikir
+128. Conclude (v) - Sonuçlandırmak, bitirmek
+129. Concrete (adj/n) - Somut; beton
+130. Condemn (v) - Kınamak, mahkum etmek
+131. Conduct (n/v) - Davranış; yürütmek, iletmek
+132. Confer (v) - Danışmak, görüşmek, vermek
+133. Confess (v) - İtiraf etmek
+134. Confine (v) - Sınırlandırmak, hapsetmek
+135. Confirm (v) - Doğrulamak, onaylamak
+136. Conflict (n/v) - Çatışma; çatışmak
+137. Conform (v) - Uymak, hiza almak
+138. Confront (v) - Yüzleşmek, karşısına çıkmak
+139. Confuse (v) - Kafasını karıştırmak
+140. Conscious (adj) - Bilinçli, farkında
+141. Consent (n/v) - Rıza, onay; rıza göstermek
+142. Consequence (n) - Sonuç, netice
+143. Conservative (adj) - Muhafazakar, tutucu
+144. Consider (v) - Düşünmek, göz önünde bulundurmak
+145. Considerable (adj) - Kayda değer, önemli miktarda
+146. Consist (v) - -den oluşmak (consist of)
+147. Consistent (adj) - Tutarlı, istikrarlı
+148. Constant (adj) - Sürekli, sabit
+149. Constitute (v) - Oluşturmak, teşkil etmek
+150. Construct (v) - İnşa etmek, kurmak
+151. Consult (v) - Danışmak, başvurmak
+152. Consume (v) - Tüketmek
+153. Contact (n/v) - Temas; iletişime geçmek
+154. Contain (v) - İçermek, kapsamak
+155. Contemporary (adj) - Çağdaş, modern, aynı döneme ait
+156. Contend (v) - Yarışmak, iddia etmek, mücadele etmek
+157. Contest (n/v) - Yarışma; itiraz etmek, yarışmak
+158. Context (n) - Bağlam, ortam
+159. Continuous (adj) - Kesintisiz, sürekli
+160. Contract (n/v) - Sözleşme; küçülmek, sözleşmek
+161. Contradict (v) - Çelişmek, aksini söylemek
+162. Contrast (n/v) - Karşıtlık; karşılaştırmak
+163. Contribute (v) - Katkıda bulunmak
+164. Controversy (n) - Tartışma, anlaşmazlık
+165. Convenient (adj) - Uygun, elverişli, pratik
+166. Convert (v) - Dönüştürmek
+167. Convey (v) - Aktarmak, iletmek
+168. Convince (v) - İkna etmek
+169. Cope (v) - Başa çıkmak, üstesinden gelmek
+170. Core (n/adj) - Çekirdek, ana, temel
+171. Corporate (adj) - Kurumsal, ortak
+172. Correspond (v) - Yazışmak, denk gelmek, uymak
+173. Corrupt (adj/v) - Yozlaşmış; bozmak, rüşvet yedirmek
+174. Counsel (n/v) - Danışmanlık; tavsiye vermek
+175. Counter (n/v/adv) - Tezgah; karşı çıkmak; karşıt olarak
+176. Counterpart (n) - Emsal, karşılık, muadil
+177. Courageous (adj) - Cesur, yürekli
+178. Coverage (n) - Kapsam, yayın alanı, sigorta teminatı
+179. Craft (n/v) - Beceri, zanaat; özenle yapmak
+180. Crisis (n) - Kriz, bunalım
+181. Criteria (n) - Kriterler, ölçütler
+182. Critical (adj) - Eleştirel, kritik, hayati
+183. Crucial (adj) - Çok önemli, hayati
+184. Crude (adj) - Ham, işlenmemiş, kaba
+185. Cultivate (v) - Ekip biçmek, geliştirmek
+186. Culture (n) - Kültür
+187. Cure (n/v) - Tedavi; iyileştirmek
+188. Curious (adj) - Meraklı
+189. Currency (n) - Para birimi, geçerlilik
+190. Current (adj/n) - Mevcut, güncel; akıntı
+191. Curriculum (n) - Müfredat
+192. Damage (n/v) - Hasar; zarar vermek
+193. Debate (n/v) - Tartışma; münazara etmek
+194. Decade (n) - On yıl
+195. Decisive (adj) - Kararlı, belirleyici
+196. Declare (v) - Beyan etmek, ilan etmek
+197. Decline (n/v) - Düşüş, reddetmek; azalmak
+198. Dedicate (v) - Adamak, ithaf etmek
+199. Deduce (v) - Sonuç çıkarmak, çıkarım yapmak
+200. Defend (v) - Savunmak
+201. Deficit (n) - Açık, eksi bakiye
+202. Define (v) - Tanımlamak, belirlemek
+203. Definite (adj) - Kesin, belirli
+204. Defy (v) - Karşı gelmek, meydan okumak
+205. Delay (n/v) - Gecikme; ertelemek, geciktirmek
+206. Delegate (n/v) - Temsilci; devretmek, yetki vermek
+207. Deliberate (adj) - Kasıtlı, planlı
+208. Delicate (adj) - Hassas, narin
+209. Demand (n/v) - Talep; talep etmek
+210. Demonstrate (v) - Göstermek, kanıtlamak, gösteri yapmak
+211. Deny (v) - İnkar etmek, reddetmek
+212. Depict (v) - Tasvir etmek, resmetmek
+213. Deplete (v) - Tüketmek, azaltmak
+214. Deposit (n/v) - Depozito, mevduat; yatırmak
+215. Deprive (v) - Mahrum bırakmak
+216. Derive (v) - Türetmek, -den elde etmek
+217. Descend (v) - İnmek, alçalmak
+218. Desperate (adj) - Umutsuz, çaresiz
+219. Despite (prep) - -e rağmen
+220. Destination (n) - Hedef, varış noktası
+221. Detach (v) - Ayırmak, koparmak
+222. Detect (v) - Tespit etmek, algılamak
+223. Determine (v) - Belirlemek, kararlaştırmak
+224. Deviate (v) - Sapmak, yön değiştirmek
+225. Device (n) - Cihaz, alet
+226. Devise (v) - Tasarlamak, icat etmek
+227. Devote (v) - Adamak
+228. Diagnose (v) - Teşhis koymak
+229. Differ (v) - Farklılık göstermek
+230. Differentiate (v) - Ayırt etmek, farklılaştırmak
+231. Diffusion (n) - Yayılma, dağılma
+232. Dilemma (n) - İkilem, çıkmaz
+233. Diminish (v) - Azal(t)mak, eksil(t)mek
+234. Discipline (n/v) - Disiplin; disipline etmek
+235. Disclose (v) - Açığa çıkarmak, ifşa etmek
+236. Discourage (v) - Cesaretini kırmak, vazgeçirmek
+237. Discrete (adj) - Ayrı, münferit
+238. Discriminate (v) - Ayrımcılık yapmak, ayırt etmek
+239. Discuss (v) - Tartışmak
+240. Dismiss (v) - Kovmak, reddetmek, kafasından atmak
+241. Display (n/v) - Sergileme; sergilemek, göstermek
+242. Dispose (v) - Elden çıkarmak, düzenlemek
+243. Dispute (n/v) - Anlaşmazlık; itiraz etmek
+244. Disrupt (v) - Aksatmak, düzenini bozmak
+245. Distinct (adj) - Belirgin, farklı, ayrı
+246. Distinguish (v) - Ayırt etmek, farkı görmek
+247. Distort (v) - Saptırmak, biçimini bozmak
+248. Distribute (v) - Dağıtmak, bölüştürmek
+249. Diverse (adj) - Çeşitli, farklı
+250. Divert (v) - Yönünü değiştirmek, başka tarafa çekmek
+251. Divine (adj) - İlahi, kutsal
+252. Document (n/v) - Belge; belgelemek
+253. Domain (n) - Alan, alan adı, mülk
+254. Domestic (adj) - Yerli, evcil, iç (piyasa/siyaset)
+255. Dominant (adj) - Baskın, hakim
+256. Donate (v) - Bağışlamak
+257. Draft (n/v) - Taslak; taslak hazırlamak
+258. Dramatic (adj) - Çarpıcı, dramatik
+259. Drastic (adj) - Radikal, şiddetli, sert
+260. Duration (n) - Süre, sürdürülme zamanı
+261. Dynamic (adj/n) - Dinamik
+262. Eager (adj) - İstekli, hevesli
+263. Economy (n) - Ekonomi
+264. Edit (v) - Düzenlemek, yayına hazırlamak
+265. Efficient (adj) - Verimli, etkili
+266. Elaborate (adj/v) - Detaylı; detaylandırmak
+267. Elderly (adj) - Yaşlı
+268. Elegant (adj) - Şık, zarif
+269. Element (n) - Unsur, eleman
+270. Eliminate (v) - Eleme yapmak, ortadan kaldırmak
+271. Elite (n/adj) - Seçkin, elit
+272. Emphasize (v) - Vurgulamak
+273. Empirical (adj) - Deneysel, ampirik
+274. Enable (v) - Olanak sağlamak, imkan vermek
+275. Encounter (n/v) - Karşılaşma; rastlamak
+276. Encourage (v) - Cesaretlendirmek, teşvik etmek
+277. Endeavor (n/v) - Çaba; çabalamak
+278. Endure (v) - Dayanmak, katlanmak
+279. Enforce (v) - Uygulamak, zorla yaptırmak
+280. Engage (v) - Katılmak, meşgul olmak, nişanlanmak
+281. Enhance (v) - Geliştirmek, artırmak
+282. Enormous (adj) - Devasa, çok büyük
+283. Enquire (v) - Sormak, soruşturmak
+284. Ensure (v) - Garantiye almak, emin olmak
+285. Enterprise (n) - Girişim, şirket
+286. Entire (adj) - Tüm, bütün
+287. Entitle (v) - Hak vermek, unvan vermek
+288. Entity (n) - Varlık, birim
+289. Entrepreneur (n) - Girişimci
+290. Environment (n) - Çevre, ortam
+291. Envision (v) - Hayal etmek, zihninde canlandırmak
+292. Epidemic (n/adj) - Salgın
+293. Equate (v) - Eşitlik kurmak, bir tutmak
+294. Equip (v) - Donatmak
+295. Equivalent (adj/n) - Eşdeğer, denk
+296. Era (n) - Çağ, dönem
+297. Eradicate (v) - Kökünü kazımak, yok etmek
+298. Erect (v/adj) - Dikmek; dik, ayakta
+299. Escalate (v) - Tırmanmak, yükselmek, büyümek
+300. Essential (adj) - Temel, gerekli, elzem
+301. Establish (v) - Kurmak, tesis etmek
+302. Estate (n) - Emlak, mülk, arazi
+303. Estimate (n/v) - Tahmin; tahmin etmek
+304. Ethical (adj) - Etik, ahlaki
+305. Evaluate (v) - Değerlendirmek
+306. Evaporate (v) - Buharlaşmak, yok olmak
+307. Eventual (adj) - Nihai, sonundaki
+308. Evident (adj) - Aşikar, belli
+309. Evoke (v) - Çağrıştırmak, anımsatmak
+310. Evolve (v) - Evrilmek, gelişmek
+311. Exaggerate (v) - Abartmak
+312. Exceed (v) - Aşmak, sınırı geçmek
+313. Exclude (v) - Hariç tutmak, dışlamak
+314. Executive (n/adj) - Yönetici; yürütme ile ilgili
+315. Exempt (adj/v) - Muaf; muaf tutmak
+316. Exert (v) - Çaba sarf etmek, uygulamak (baskı vb.)
+317. Exhibit (n/v) - Sergi; sergilemek
+318. Expand (v) - Genişlemek, büyütmek
+319. Expectation (n) - Beklenti
+320. Expenditure (n) - Harcama, gider
+321. Expert (n/adj) - Uzman
+322. Explicit (adj) - Açık, net, belirgin
+323. Exploit (v) - Sömürmek, faydalanmak
+324. Export (n/v) - İhracat; ihraç etmek
+325. Expose (v) - Maruz bırakmak, açığa çıkarmak
+326. Extend (v) - Uzatmak, genişletmek
+327. Extensive (adj) - Kapsamlı, yaygın
+328. Extent (n) - Boyut, derece, kapsam
+329. External (adj) - Harici, dış
+330. Extinguish (v) - Söndürmek (ateş vb.)
+331. Extract (n/v) - Özüt; çıkarmak, çekmek
+332. Extraordinary (adj) - Olağanüstü
+333. Facilitate (v) - Kolaylaştırmak
+334. Factor (n) - Faktör, etken
+335. Faculty (n) - Fakülte, yetenek, kadro
+336. Fade (v) - Solmak, azalarak kaybolmak
+337. Failure (n) - Başarısızlık, arıza
+338. Familiar (adj) - Tanıdık, aşina
+339. Fatal (adj) - Ölümcül
+340. Feasible (adj) - Uygulanabilir, mantıklı
+341. Feature (n/v) - Özellik; yer vermek, ön plana çıkarmak
+342. Federal (adj) - Federal
+343. Feed (v) - Beslemek
+344. Fertile (adj) - Verimli, bereketli
+345. Fierce (adj) - Şiddetli, vahşi, çetin
+346. Finance (n/v) - Finans; finanse etmek
+347. Finite (adj) - Sınırlı, sonu olan
+348. Flexible (adj) - Esnek
+349. Fluctuate (v) - Dalgalanmak, değişmek
+350. Fluent (adj) - Akıcı
+351. Focus (n/v) - Odak; odaklanmak
+352. Forbid (v) - Yasaklamak
+353. Forecast (n/v) - Tahmin; tahmin etmek
+354. Format (n/v) - Biçim; biçimlendirmek
+355. Former (adj) - Önceki, eski
+356. Formulate (v) - Formüle etmek, tasarlamak
+357. Forthcoming (adj) - Yaklaşan, yakında çıkacak
+358. Foster (v) - Teşvik etmek, büyütmek, beslemek
+359. Foundation (n) - Vakıf, temel, kuruluş
+360. Fraction (n) - Kesir, küçük kısım
+361. Framework (n) - Çerçeve, yapı, iskelet
+362. Frequent (adj) - Sık, sıkça olan
+363. Friction (n) - Sürtünme, anlaşmazlık
+364. Frustrate (v) - Hayal kırıklığına uğratmak, engellemek
+365. Fulfil (v) - Yerine getirmek, tatmin etmek
+366. Function (n/v) - İşlev; işlemek, çalışmak
+367. Fundamental (adj) - Temel, esas
+368. Furthermore (adv) - Ayrıca, dahası
+369. Gain (n/v) - Kazanç; kazanmak
+370. Gap (n) - Boşluk, fark
+371. Generate (v) - Üretmek, oluşturmak
+372. Generous (adj) - Cömert
+373. Genuine (adj) - Hakiki, gerçek, samimi
+374. Gesture (n/v) - Jest, hareket; jest yapmak
+375. Global (adj) - Küresel
+376. Glimpse (n/v) - Anlık bakış; gözüne ilişmek
+377. Gloomy (adj) - Kasvetli, karamsar
+378. Goods (n) - Mallar, eşyalar
+379. Govern (v) - Yönetmek, hükmetmek
+380. Graceful (adj) - Zarif, hoş
+381. Gradual (adj) - Kademeli, yavaş yavaş
+382. Grant (n/v) - Hibe, burs; vermek, bağışlamak
+383. Grasp (n/v) - Kavrama; kavramak, tutmak
+384. Grave (n/adj) - Mezar; ciddi, ağır
+385. Greed (n) - Açgözlülük
+386. Grief (n) - Keder, derin üzüntü
+387. Guarantee (n/v) - Garanti; garanti etmek
+388. Guideline (n) - Kılavuz, ilke
+389. Halt (n/v) - Durma; durdurmak
+390. Handle (n/v) - Kol, sap; ele almak, başa çıkmak
+391. Handy (adj) - Kullanışlı, elverişli
+392. Harsh (adj) - Sert, kaba, acımasız
+393. Hazard (n) - Tehlike, risk
+394. Hence (adv) - Bu nedenle, bundan dolayı
+395. Heritage (n) - Miras
+396. Hesitate (v) - Tereddüt etmek
+397. Hierarchy (n) - Hiyerarşi
+398. Highlight (n/v) - Önemli nokta; vurgulamak
+399. Hinder (v) - Engellemek, aksatmak
+400. Hostile (adj) - Düşmanca, elverişsiz
+401. Huge (adj) - Devasa, çok büyük
+402. Hypothesis (n) - Hipotez, varsayım
+403. Identical (adj) - Birebir aynı, özdeş
+404. Identify (v) - Kimliğini belirlemek, tespit etmek
+405. Ideology (n) - İdeoloji
+406. Ignore (v) - Görmezden gelmek, ihmal etmek
+407. Illuminate (v) - Aydınlatmak, açıklığa kavuşturmak
+408. Illusion (n) - İllüzyon, yanılsama
+409. Illustrate (v) - Örneklemek, resimlemek
+410. Impact (n/v) - Etki; etkilemek
+411. Impair (v) - Bozmak, zarar vermek
+412. Impartial (adj) - Tarafsız, adil
+413. Impend (v) - Eli kulağında olmak, yaklaşmak
+414. Implement (n/v) - Alet; uygulamak, faaliyete geçirmek
+415. Implicate (v) - Suçla ilişkilendirmek, ima etmek
+416. Implicit (adj) - Üstü kapalı, örtük
+417. Imply (v) - İma etmek
+418. Import (n/v) - İthalat; ithal etmek
+419. Impose (v) - Uygulamak, zorla kabul ettirmek
+420. Impressive (adj) - Etkileyici
+421. Improve (v) - Geliştirmek, iyileşmek
+422. Impulse (n) - Dürtü, ani istek
+423. Incentive (n) - Teşvik, özendirme
+424. Incidence (n) - Oran, meydana gelme sıklığı
+425. Incident (n) - Olay, hadise
+426. Incline (n/v) - Eğim; eğilimi olmak
+427. Include (v) - Dahil etmek, içermek
+428. Income (n) - Gelir, kazanç
+429. Incorporate (v) - Bünyesine katmak, birleştirmek
+430. Increase (n/v) - Artış; artmak
+431. Incredible (adj) - İnanılmaz
+432. Indicate (v) - Göstermek, işaret etmek
+433. Indifferent (adj) - Duyarsız, ilgisiz
+434. Indigenous (adj) - Yerli, yerel
+435. Indispensable (adj) - Vazgeçilmez, olmazsa olmaz
+436. Individual (adj/n) - Bireysel; birey
+437. Induce (v) - İkna etmek, sebep olmak
+438. Indulge (v) - Şımartmak, kendini kaptırmak
+439. Inevitable (adj) - Kaçınılmaz
+440. Infant (n) - Bebek
+441. Infer (v) - Çıkarım yapmak
+442. Infinite (adj) - Sonsuz, sınırsız
+443. Inflation (n) - Enflasyon
+444. Influence (n/v) - Etki; etkilemek
+445. Infrastructure (n) - Altyapı
+446. Inherent (adj) - Doğasında olan, doğuştan gelen
+447. Inhibit (v) - Engellemek, dizginlemek
+448. Initial (adj) - İlk, başlangıçtaki
+449. Initiate (v) - Başlatmak
+450. Inject (v) - Enjekte etmek, zerk etmek
+451. Injure (v) - Yaralamak, sakatlamak
+452. Injustice (n) - Adaletsizlik
+453. Innocent (adj) - Masum, suçsuz
+454. Innovate (v) - Yenilik yapmak
+455. Input (n/v) - Girdi; bilgi girmek
+456. Inquiry (n) - Soruşturma, sorgu
+457. Insight (n) - Kavrayış, derin anlayış
+458. Insist (v) - Israr etmek
+459. Inspect (v) - Denetlemek, incelemek
+460. Inspire (v) - İlham vermek
+461. Install (v) - Kurmak, monte etmek
+462. Instance (n) - Örnek, durum
+463. Instant (adj/n) - Anlık; an
+464. Institute (n/v) - Enstitü; başlatmak, kurmak
+465. Instruct (v) - Talimat vermek, öğretmek
+466. Instrument (n) - Enstrüman, alet
+467. Insult (n/v) - Hakaret; hakaret etmek
+468. Intact (adj) - El değmemiş, bozulmamış
+469. Integral (adj) - Tamamlayıcı, ayrılmaz
+470. Integrate (v) - Entegre etmek, birleştirmek
+471. Integrity (n) - Dürüstlük, bütünlük
+472. Intellect (n) - Zeka, akıl
+473. Intend (v) - Niyet etmek, amaçlamak
+474. Intense (adj) - Yoğun, şiddetli
+475. Interaction (n) - Etkileşim
+476. Interfere (v) - Müdahale etmek, karışmak
+477. Intermediate (adj) - Orta düzey
+478. Internal (adj) - İç, dahili
+479. Interpret (v) - Yorumlamak, mütercimlik yapmak
+480. Intervene (v) - Araya girmek, müdahale etmek
+481. Intimate (adj) - Samimi, özel
+482. Intimidate (v) - Gözünü korkutmak, tehdit etmek
+483. Intricate (adj) - Karmaşık, çetrefilli
+484. Introduce (v) - Tanıtmak, sunmak
+485. Invade (v) - İşgal etmek
+486. Invest (v) - Yatırım yapmak
+487. Investigate (v) - Araştırmak, soruşturmak
+488. Invite (v) - Davet etmek
+489. Involve (v) - İçermek, kapsamak, dahi etmek
+490. Irony (n) - İroni, çelişki
+491. Irrational (adj) - Mantıksız
+492. Isolate (v) - Yalıtmak, izole etmek
+493. Issue (n/v) - Konu, sorun; yayınlamak
+494. Item (n) - Madde, öge, eşya
+495. Jargon (n) - Mesleki dil, jargon
+496. Jealous (adj) - Kıskanç
+497. Jeopardy (n) - Tehlike, risk
+498. Journal (n) - Dergi, günlük
+499. Judge (n/v) - Hakim; yargılamak
+500. Judicial (adj) - Yargısal, adli
+501. Junction (n) - Kavşak, birleşme yeri
+502. Justify (v) - Haklı çıkarmak, meşrulaştırmak
+503. Keen (adj) - Hevesli, keskin
+504. Kidnap (v) - Adam/çocuk kaçırmak
+505. Knowledgeable (adj) - Bilgili, donanımlı
+506. Label (n/v) - Etiket; etiketlemek
+507. Labor (n/v) - İş gücü, emek; çalışmak
+508. Lack (n/v) - Eksiklik; eksik olmak
+509. Landlord (n) - Ev sahibi, ev kiralayan
+510. Landscape (n) - Manzara, peyzaj
+511. Lapse (n/v) - Zaman aşımı, hata; sona ermek
+512. Latter (adj) - İkincisi, sonuncusu
+513. Launch (n/v) - Fırlatma, lansman; başlatmak
+514. Layer (n/v) - Katman; katmanlaştırmak
+515. Leak (n/v) - Sızıntı; sızdırmak
+516. Lean (v/adj) - Eğilmek, yaslanmak; yağsız, zayıf
+517. Leap (n/v) - Sıçrama; sıçramak
+518. Lecture (n/v) - Ders, konferans; ders vermek
+519. Legal (adj) - Yasal, hukuki
+520. Legislate (v) - Yasa çıkarmak
+521. Legitimize (v) - Meşrulaştırmak
+522. Lend (v) - Ödünç vermek
+523. Lessen (v) - Azaltmak, hafifletmek
+524. Lethal (adj) - Ölümcül
+525. Liability (n) - Yükümlülük, sorumluluk, dezavantaj
+526. Liberal (adj) - Özgürlükçü, liberal
+527. Liberate (v) - Özgürleştirmek, kurtarmak
+528. License (n/v) - Lisans, ruhsat; ruhsat vermek
+529. Likely (adj/adv) - Muhtemel; muhtemelen
+530. Limitation (n) - Sınırlama, kısıtlama
+531. Link (n/v) - Bağlantı; bağlamak
+532. Liquid (n/adj) - Sıvı
+533. Literacy (n) - Okuryazarlık
+534. Locate (v) - Yerini tespit etmek, konumlandırmak
+535. Logic (n) - Mantık
+536. Loyal (adj) - Sadık, bağlı
+537. Lucid (adj) - Berrak, anlaşılır
+538. Lucrative (adj) - Karlı, kazançlı
+539. Magnitude (n) - Büyüklük, önem
+540. Maintain (v) - Sürdürmek, bakım yapmak, iddia etmek
+541. Major (adj/n) - Ana, büyük; ana dal
+542. Mandatory (adj) - Zorunlu
+543. Manipulate (v) - Yönlendirmek, hile yapmak
+544. Manufacture (n/v) - İmalat; imal etmek
+545. Margin (n) - Marj, kenar payı, fark
+546. Marine (adj/n) - Denizle ilgili; denizci
+547. Massive (adj) - Devasa, somut
+548. Mature (adj/v) - Olgun; olgunlaşmak
+549. Maximize (v) - Azamiye çıkarmak
+550. Meantime (n) - Bu arada, bu süre zarfında
+551. Measure (n/v) - Ölçü, önlem; ölçmek
+552. Mechanism (n) - Mekanizma, düzenek
+553. Mediate (v) - Arabuluculuk etmek
+554. Medium (n/adj) - Araç, ortam; orta
+555. Memorable (adj) - Unutulmaz
+556. Mental (adj) - Zihinsel
+557. Mention (n/v) - Bahsetme; bahsetmek
+558. Merchant (n) - Tüccar
+559. Mercy (n) - Merhamet, af
+560. Merge (v) - Birleşmek, devralmak
+561. Merit (n/v) - Erdem, hak etme; hak etmek
+562. Method (n) - Yöntem, metot
+563. Migrate (v) - Göç etmek
+564. Mild (adj) - Ilıman, hafif
+565. Military (adj/n) - Askeri; ordu
+566. Mindful (adj) - Duyarlı, özenli, bilincinde
+567. Minimize (v) - Asgariye indirmek
+568. Minor (adj/n) - Küçük, önemsiz; reşit olmayan
+569. Miracle (n) - Mucize
+570. Mislead (v) - Yanıltmak, yanlış yönlendirmek
+571. Mission (n) - Görev, misyon
+572. Mobility (n) - Hareketlilik, mobilite
+573. Mode (n) - Mod, tarz, yöntem
+574. Moderate (adj) - Ilımlı, makul
+575. Modify (v) - Değiştirmek, modifiye etmek
+576. Momentum (n) - Hız, ivme, güç
+577. Monitor (n/v) - Ekran; denetlemek, izlemek
+578. Monopoly (n) - Tekel
+579. Morale (n) - Moral, motivasyon
+580. Motion (n/v) - Hareket, önerge; işaret etmek
+581. Motive (n) - Güdü, motif, neden
+582. Mourn (v) - Yas tutmak
+583. Multitude (n) - Çokluk, kalabalık
+584. Mutual (adj) - Karşılıklı, ortak
+585. Narrate (v) - Anlatmak, aktarmak
+586. Native (adj/n) - Yerli, özgü
+587. Navigate (v) - Yönünü bulmak, gezinmek
+588. Necessity (n) - Gereklilik, ihtiyaç
+589. Neglect (n/v) - İhmal; ihmal etmek
+590. Negotiate (v) - Müzakere etmek, görüşmek
+591. Neutral (adj) - Tarafsız, nötr
+592. Nevertheless (adv) - Yine de, buna rağmen
+593. Noble (adj) - Soylu, asil
+594. Non-profit (adj) - Kar amacı gütmeyen
+595. Nonetheless (adv) - Yine de, bununla birlikte
+596. Norm (n) - Kural, norm, standart
+597. Notable (adj) - Dikkate değer, göze çarpan
+598. Notify (v) - Bildirmek, haber vermek
+599. Notion (n) - Kavram, düşünce, fikir
+600. Novelty (n) - Yenilik, orijinal şey
+601. Nuance (n) - Nüans, ince fark
+602. Nurture (v/n) - Beslemek, büyütmek; bakım
+603. Objective (n/adj) - Hedef; nesnel, tarafsız
+604. Obligation (n) - Zorunluluk, yükümlülük
+605. Oblige (v) - Mecbur etmek, minnettar bırakmak
+606. Obscure (adj/v) - Belirsiz, anlaşılmaz; gizlemek
+607. Observe (v) - Gözlemlemek, uymak
+608. Obsess (v) - Saplantı haline getirmek
+609. Obstacle (n) - Engel
+610. Obtain (v) - Elde etmek, temin etmek
+611. Obvious (adj) - Apaçık, bariz
+612. Occur (v) - Meydana gelmek, aklına gelmek
+613. Offend (v) - Suç işlemek, gücendirmek
+614. Offer (n/v) - Teklif; teklif etmek
+615. Offset (v) - Dengelemek, telafi etmek
+616. Omit (v) - Dahil etmemek, atlamak
+617. Ongoing (adj) - Devam eden, süregelen
+618. Opponent (n) - Rakip, karşıt
+619. Opportunity (n) - Fırsat
+620. Oppose (v) - Karşı çıkmak
+621. Optimal (adj) - En uygun, en iyi
+622. Option (n) - Seçenek
+623. Organic (adj) - Organik
+624. Orient (v) - Yönlendirmek, uyum sağlamak
+625. Origin (n) - Köken, başlangıç
+626. Outcome (n) - Sonuç, netice
+627. Output (n) - Üretim, çıktı
+628. Outrage (n/v) - Öfke, infial; öfkelendirmek
+629. Outstanding (adj) - Olağanüstü, ödenmemiş (borç)
+630. Overall (adj/adv) - Genel; genel olarak
+631. Overcome (v) - Üstesinden gelmek, yenmek
+632. Overlook (v) - Gözden kaçırmak, görmezden gelmek
+633. Overlap (n/v) - Örtüşme; örtüşmek
+634. Overseas (adj/adv) - Deniz aşırı, yurtdışı
+635. Overtake (v) - Sollamak, geride bırakmak
+636. Overwhelm (v) - Ezmek, boğmak, etkisiz kılmak
+637. Pace (n/v) - Hız, adım; adımlamak
+638. Panel (n) - Panel, kurul, pano
+639. Paradigm (n) - Model, örnek, paradigm
+640. Paradox (n) - Çelişki, paradox
+641. Parallel (adj/n) - Paralel, benzer
+642. Parameter (n) - Parametre, değişken
+643. Participate (v) - Katılmak, iştirak etmek
+644. Particular (adj) - Özel, belirli, titiz
+645. Passionate (adj) - Tutkulu
+646. Passive (adj) - Edilgen, pasif
+647. Patient (adj/n) - Sabırlı; hasta
+648. Peculiar (adj) - Tuhaf, özgü
+649. Peer (n/v) - Emsal, akran; dikkatle bakmak
+650. Penalize (v) - Cezalandırmak
+651. Perceive (v) - Algılamak, sezmek
+652. Perception (n) - Algı, kavrayış
+653. Permanent (adj) - Kalıcı, daimi
+654. Permeate (v) - İçine işlemek, yayılmak
+655. Permit (n/v) - İzin; izin vermek
+656. Persist (v) - Israr etmek, sürdürmek
+657. Perspective (n) - Bakış açısı, perspektif
+658. Persuade (v) - İkna etmek
+659. Pervasive (adj) - Yaygın, her yere yayılan
+660. Phase (n/v) - Aşama, evre; aşamalandırmak
+661. Phenomenon (n) - Olgu, fenomene
+662. Philosophy (n) - Felsefe
+663. Physical (adj) - Fiziksel, bedensel
+664. Pioneer (n/v) - Öncü; öncülük etmek
+665. Plausible (adj) - Makul, olası
+666. Plead (v) - Yalvarmak, savunma yapmak
+667. Pledge (n/v) - Söz, taahhüt; söz vermek
+668. Plunge (n/v) - Dalış, düşüş; dalmak, hızla düşmek
+669. Policy (n) - Politika, poliçe
+670. Polish (v/n) - Cilalamak, geliştirmek; cila
+671. Portion (n) - Porsiyon, kısım, pay
+672. Pose (n/v) - Poz; teşkil etmek (tehlike vb.)
+673. Position (n/v) - Konum; konumlandırmak
+674. Possess (v) - Sahip olmak
+675. Potential (adj/n) - Potansiyel
+676. Practical (adj) - Pratik, kullanışlı
+677. Practitioner (n) - Uygulayıcı, doktor/avukat vb.
+678. Pragmatic (adj) - Uygulamacı, pragmatik
+679. Precede (v) - -den önce gelmek
+680. Precise (adj) - Kesin, hassas, tam
+681. Predict (v) - Tahmin etmek, öngörmek
+682. Predominant (adj) - Baskın, hakim
+683. Preferable (adj) - Tercih edilebilir
+684. Preliminary (adj) - Ön, başlangıç niteliğinde
+685. Premise (n) - Öncül, dayanak
+686. Premium (n/adj) - Prim, ikramiye; kaliteli
+687. Prescribe (v) - Reçete yazmak, kural koymak
+688. Preserve (v) - Korumak, muhafaza etmek
+689. Prestige (n) - Saygınlık, prestij
+690. Presume (v) - Varsaymak, tahmin etmek
+691. Prevail (v) - Hakim olmak, galip gelmek
+692. Prevent (v) - Önlemek, engel olmak
+693. Previous (adj) - Önceki
+694. Primary (adj) - Birincil, temel
+695. Prime (adj/n) - En iyi, temel; en verimli çağ
+696. Principal (adj/n) - Asıl, temel; okul müdürü
+697. Principle (n) - İlke, prensip
+698. Prior (adj) - Önceki, öncelikli
+699. Priority (n) - Öncelik
+700. Privacy (n) - Gizlilik, özel hayat
+701. Privilege (n) - Ayrıcalık, imtiyaz
+702. Probability (n) - Olasılık, ihtimal
+703. Probe (n/v) - Sonda, araştırma; derinlemesine incelemek
+704. Proceed (v) - İlerlemek, devam etmek
+705. Process (n/v) - Süreç; işlemek
+706. Proclaim (v) - İlan etmek, duyurmak
+707. Productivity (n) - Verimlilik, üretkenlik
+708. Profession (n) - Meslek
+709. Proficient (adj) - Yetkin, usta
+710. Profit (n/v) - Kar; kar etmek
+711. Profound (adj) - Derin, köklü
+712. Progress (n/v) - İlerleme; gelişmek
+713. Prohibit (v) - Yasaklamak
+714. Project (n/v) - Proje; yansıtmak, öngörmek
+715. Prominent (adj) - Öne çıkan, seçkin, belirgin
+716. Promote (v) - Terfi ettirmek, teşvik etmek, tanıtmak
+717. Prompt (adj/v) - Çabuk, istemi; sevk etmek, neden olmak
+718. Proof (n) - Kanıt, ispat
+719. Propel (v) - İtmek, sevk etmek
+720. Property (n) - Mülk, mülkiyet, özellik
+721. Proportion (n) - Oran, orantı
+722. Proposal (n) - Teklif, öneri
+723. Propose (v) - Örermek, evlilik teklif etmek
+724. Prospect (n) - Olasılık, beklenti, manzara
+725. Prosper (v) - Zenginleşmek, gelişmek
+726. Protect (v) - Korumak
+727. Protocol (n) - Protokol, kural dizisi
+728. Prove (v) - Kanıtlamak
+729. Provide (v) - Sağlamak, temin etmek
+730. Province (n) - Vilayet, il, uzmanlık alanı
+731. Provoke (v) - Kışkırtmak, neden olmak
+732. Psychological (adj) - Psikolojik
+733. Publication (n) - Yayın, basım
+734. Publish (v) - Yayımlamak, basmak
+735. Pulse (n/v) - Nabız; nabız gibi atmak
+736. Purchase (n/v) - Satın alma; satın almak
+737. Pure (adj) - Saf, katıksız
+738. Pursue (v) - Takip etmek, peşinden koşmak
+739. Qualification (n) - Vasıf, nitelik, diploma
+740. Quality (n) - Kalite, nitelik
+741. Quantity (n) - Miktar, nicelik
+742. Quest (n) - Arayış, macera
+743. Questionable (adj) - Şüpheli, tartışmalı
+744. Queue (n/v) - Kuyruk; sıra beklemek
+745. Quote (n/v) - Alıntı, fiyat teklifi; alıntı yapmak
+746. Radical (adj) - Radikal, köklü
+747. Random (adj) - Rastgele
+748. Range (n/v) - Menzil, çeşitlilik; arasında değişmek
+749. Rank (n/v) - Rütbe, sıra; sıralamak
+750. Rapid (adj) - Hızlı, çabuk
+751. Rare (adj) - Nadir, az pişmiş
+752. Rate (n/v) - Oran, oranlamak, değerlendirmek
+753. Rational (adj) - Mantıklı, rasyonel
+754. Raw (adj) - Çiğ, işlenmemiş
+755. Reaction (n) - Tepki, reaksiyon
+756. Readily (adv) - Kolayca, istekle
+757. Realm (n) - Alan, krallık, diyar
+758. Reasonable (adj) - Makul, mantıklı
+759. Reassure (v) - Güven vermek, içini rahatlatmak
+760. Rebel (n/v) - Isyankâr; isyan etmek
+761. Rebuild (v) - Yeniden inşa etmek
+762. Recall (v) - Hatırlamak, geri çağırmak
+763. Receive (v) - Teslim almak, kabul etmek
+764. Reckon (v) - Hesaplamak, zannetmek
+765. Reclaim (v) - Geri istemek, ıslah etmek
+766. Recognize (v) - Tanımak, fark etmek, kabullenmek
+767. Recommend (v) - Tavsiye etmek
+768. Reconcile (v) - Uzlaştırmak, barıştırmak
+769. Recover (v) - İyileşmek, geri kazanmak
+770. Recruit (n/v) - Yeni üye; bünyesine katmak, acemi toplamak
+771. Rectify (v) - Düzeltmek, doğrultmak
+772. Reduce (v) - Azaltmak
+773. Redundant (adj) - Gereksiz, fazlalık, işsiz kalmış
+774. Refer (v) - Atıfta bulunmak, sevk etmek
+775. Refine (v) - Arıtmak, geliştirmek
+776. Reflect (v) - Yansıtmak, derin düşünmek
+777. Reform (n/v) - Reform; düzeltmek
+778. Refuge (n) - Sığınak, barınak
+779. Refuse (v) - Reddetmek
+780. Regard (n/v) - Saygı, bakış; saymak, düşünmek
+781. Regime (n) - Rejim, yönetim
+782. Region (n) - Bölge
+783. Register (n/v) - Sicil, kayıt; kaydolmak
+784. Regulate (v) - Düzenlemek, denetlemek
+785. Rehabilitate (v) - Rehabilitasyon etmek, iyileştirmek
+786. Reinforce (v) - Güçlendirmek, takviye etmek
+787. Reject (n/v) - Defolu ürün; reddetmek
+788. Relate (v) - İlişkilendirmek, aktarmak
+789. Relative (adj/n) - Göreceli; akraba
+790. Release (n/v) - Serbest bırakma, yayın; salmak
+791. Relevant (adj) - İlgili, konuyla alakalı
+792. Reliable (adj) - Güvenilir
+793. Relieve (v) - Rahatlatmak, hafifletmek
+794. Reluctant (adj) - İsteksiz, gönülsüz
+795. Rely (v) - Güvenmek, bel bağlamak
+796. Remain (v) - Kalmak, sürdürmek
+797. Remark (n/v) - Düşünce, laf; belirtmek
+798. Remarkable (adj) - Dikkat çekici, olağanüstü
+799. Remedy (n/v) - Çare, ilaç; düzeltmek
+800. Remind (v) - Hatırlatmak
+801. Remote (adj) - Uzak, ücra
+802. Remove (v) - Kaldırmak, çıkarmak
+803. Renew (v) - Yenilemek
+804. Renounce (v) - Feragat etmek, reddetmek
+805. Renown (n) - Ün, şöhret
+806. Repair (n/v) - Tamir; tamir etmek
+807. Repeal (v/n) - Yürürlükten kaldırmak; fesih
+808. Repeat (v) - Tekrarlamak
+809. Repel (v) - Püskürtmek, itmek
+810. Replace (v) - Yerini almak, değiştirmek
+811. Replenish (v) - Yeniden doldurmak, ikmal etmek
+812. Represent (v) - Temsil etmek
+813. Repress (v) - Bastırmak, zapt etmek
+814. Reputation (n) - İtibar, ün
+815. Request (n/v) - Rica, istek; talep etmek
+816. Require (v) - Gerektirmek, istemek
+817. Resent (v) - İçerlemek, kırılmak
+818. Reserve (n/v) - Rezerv, yedek; ayırtmak
+819. Reside (v) - İkamet etmek, yaşamak
+820. Resign (v) - İstifa etmek
+821. Resist (v) - Direnmek, karşı koymak
+822. Resolve (n/v) - Kararlılık; çözmek, karar vermek
+823. Resource (n) - Kaynak
+824. Respect (n/v) - Saygı; saygı duymak
+825. Respond (v) - Yanıt vermek, tepki göstermek
+826. Restore (v) - Onarmak, eski haline getirmek
+827. Restrain (v) - Dizginlemek, engellemek
+828. Restrict (v) - Sınırlamak, kısıtlamak
+829. Resume (v/n) - Yeniden başlatmak; özgeçmiş
+830. Retain (v) - Muhafaza etmek, tutmak
+831. Retaliate (v) - Misilleme yapmak
+832. Retire (v) - Emekli olmak
+833. Reveal (v) - Açığa çıkarmak, ifşa etmek
+834. Revenue (n) - Gelir, hasılat
+835. Reverse (adj/v) - Ters; tersine çevirmek
+836. Revise (v) - Gözden geçirmek, değiştirmek
+837. Revive (v) - Canlandırmak, diriltmek
+838. Revolution (n) - Devrim, dönüş
+839. Rigid (adj) - Katı, sert, esnemez
+840. Risk (n/v) - Risk; riske atmak
+841. Rival (n/adj) - Rakip
+842. Robust (adj) - Güçlü, sağlam
+843. Route (n/v) - Rota; yönlendirmek
+844. Routine (n/adj) - Rutin, alışılagelmiş
+845. Sacrifice (n/v) - Fedakarlık, kurban; feda etmek
+846. Sanction (n/v) - Yaptırım, onay; yaptırım uygulamak
+847. Satisfy (v) - Tatmin etmek, karşılamak
+848. Scale (n/v) - Ölçek, tartı; tırmanmak
+849. Scarce (adj) - Kıt, nadir
+850. Scenario (n) - Senaryo, olası durum
+851. Schedule (n/v) - Takvim, program; planlamak
+852. Scheme (n/v) - Plan, düzen; dolap çevirmek
+853. Scope (n) - Kapsam, faaliyet alanı
+854. Scrutinize (v) - Titizlikle incelemek
+855. Section (n) - Bölüm, kısım
+856. Sector (n) - Sektör, alan
+857. Secure (adj/v) - Güvenli; emniyete almak, sağlamak
+858. Seek (v) - Aramak, çabalamak
+859. Seize (v) - Ele geçirmek, kavaramak
+860. Select (v/adj) - Seçmek; seçkin
+861. Sensation (n) - Hissiyat, sansasyon
+862. Sensitive (adj) - Hassas, duyarlı
+863. Sequence (n/v) - Dizi, sıra; sıralamak
+864. Serene (adj) - Huzurlu, sakin
+865. Series (n) - Seri, dizi
+866. Severe (adj) - Şiddetli, ağır, ciddi
+867. Shift (n/v) - Vardiya, değişim; değiştirmek
+868. Shortage (n) - Eksiklik, kıtlık
+869. Shrink (v) - Küçülmek, daralmak
+870. Significant (adj) - Önemli, kayda değer
+871. Simplify (v) - Yalınlaştırmak, kolaylaştırmak
+872. Simulate (v) - Taklit etmek, simüle etmek
+873. Simultaneous (adj) - Eşzamanlı
+874. Sincere (adj) - Samimi, içten
+875. Skeptical (adj) - Şüpheci, kuşkucu
+876. Soar (v) - Birden yükselmek, fırlamak
+877. Sole (adj/n) - Tek, yalnız; taban
+878. Solidarity (n) - Dayanışma
+879. Solitary (adj) - Yalnız, münzevi
+880. Solution (n) - Çözüm, çözelti
+881. Solve (v) - Çözmek
+882. Sophisticated (adj) - Gelişmiş, karmaşık, sofistike
+883. Source (n) - Kaynak
+884. Sovereign (adj/n) - Egemen, bağımsız; hükümdar
+885. Span (n/v) - Süre, açıklık; kapsamak
+886. Specific (adj) - Özel, belirli
+887. Specify (v) - Belirtmek, açıkça söylemek
+888. Spectacular (adj) - Muhteşem, görkemli
+889. Speculate (v) - Tahmin yürütmek, spekülasyon yapmak
+890. Sphere (n) - Küre, etki alanı
+891. Spill (v/n) - Dökmek, sızdırmak; döküntü
+892. Splendid (adj) - Görkemli, şahane
+893. Sponsor (n/v) - Sponsor; desteklemek
+894. Spontaneous (adj) - Kendiliğinden olan, anlık
+895. Stable (adj/n) - İstikrarlı, sabit; ahır
+896. Stagnant (adj) - Durgun, gelişmeyen
+897. Standardize (v) - Standartlaştırmak
+898. Statement (n) - Beyan, ifade, açıklama
+899. Static (adj) - Durağan, statik
+900. Statistic (n) - İstatistik
+901. Status (n) - Statü, durum
+902. Stimulate (v) - Uyarmak, teşvik etmek
+903. Stipulate (v) - Şart koşmak, sözleşmeye bağlamak
+904. Straightforward (adj) - Basit, dürüst, açık
+905. Strategy (n) - Strateji
+906. Stress (n/v) - Stres, vurgu; vurgulamak
+907. Strict (adj) - Sıkı, katı, disiplinli
+908. Structure (n/v) - Yapı; yapılandırmak
+909. Struggle (n/v) - Mücadele; çabalamak
+910. Stun (v) - Şok etmek, sersemletmek
+911. Subdue (v) - Bastırmak, kontrol altına almak
+912. Subjective (adj) - Öznel, kişisel
+913. Submit (v) - Sunmak, teslim etmek, boyun eğmek
+914. Subsequent (adj) - Sonraki, takip eden
+915. Subsidize (v) - Finanse etmek, sübvanse etmek
+916. Substantial (adj) - Büyük, önemli miktarda
+917. Substitute (n/v) - Yedek, ikame; yerine geçirmek
+918. Subtle (adj) - İnce, hafif, belirsiz
+919. Subtract (v) - Çıkarmak (matematik)
+920. Succeed (v) - Başarmak, -den sonra gelmek
+921. Successor (n) - Halef, ardıl
+922. Sufficient (adj) - Yeterli
+923. Suggest (v) - Örermek, ima etmek
+924. Summarize (v) - Özetlemek
+925. Superb (adj) - Harika, mükemmel
+926. Superior (adj/n) - Üstün, amir
+927. Supplement (n/v) - Takviye, ek; tamamlamak
+928. Supply (n/v) - Tedarik, arz; sağlamak
+929. Support (n/v) - Destek; desteklemek
+930. Suppress (v) - Bastırmak, gizlemek
+931. Supreme (adj) - Yüce, en yüksek
+932. Surpass (v) - Aşmak, geride bırakmak
+933. Surplus (n/adj) - Fazlalık, artı değer
+934. Surrender (v/n) - Teslim olmak; teslimiyet
+935. Surround (v) - Kuşatmak, çevrelemek
+936. Survey (n/v) - Anket, inceleme; incelemek
+937. Survive (v) - Hayatta kalmak
+938. Susceptibility (n) - Duyarlılık, hassasiyet
+939. Suspect (v/n/adj) - Şüphelenmek; şüpheli
+940. Suspend (v) - Askıya almak, ertelemek
+941. Sustain (v) - Sürdürmek, desteklemek
+942. Swift (adj) - Hızlı, çabuk
+943. Symbol (n) - Sembol, simge
+944. Sympathize (v) - Empati kurmak, halden anlamak
+945. Symptom (n) - Belirti, semptom
+946. Synthetic (adj) - Sentetik, yapay
+947. Tackle (v) - Başa çıkmak, ele almak
+948. Target (n/v) - Hedef; hedeflemek
+949. Tariff (n) - Tarife, gümrük vergisi
+950. Task (n) - Görev, iş
+951. Temporary (adj) - Geçici
+952. Tendency (n) - Eğilim, meyil
+953. Tentative (adj) - Geçici, belirsiz, deneme niteliğinde
+954. Terminate (v) - Sonlandırmak, bitirmek
+955. Territory (n) - Bölge, kara parçası, bölge
+956. Testify (v) - Tanıklık etmek, ifade vermek
+957. Theory (n) - Teori, kuram
+958. Thereby (adv) - Böylelikle, bu nedenle
+959. Thesis (n) - Tez, iddia
+960. Threaten (v) - Tehdit etmek
+961. Thrive (v) - Gelişmek, serpilmek, başarılı olmak
+962. Tidy (adj/v) - Düzenli; toplamak
+963. Tolerance (n) - Hoşgörü, tolerans
+964. Topic (n) - Konu, başlık
+965. Trace (n/v) - İz; izini sürmek
+966. Tradition (n) - Gelenek
+967. Tragic (adj) - Trajik, acıklı
+968. Trait (n) - Kişisel özellik, karakter
+969. Tranquil (adj) - Sakin, huzurlu
+370. Transact (v) - İşlem yapmak
+971. Transcend (v) - Aşmak, üstüne çıkmak
+972. Transfer (n/v) - Transfer; aktarmak
+973. Transform (v) - Dönüştürmek, biçim değiştirmek
+974. Transient (adj) - Gelip geçici, kısa süreli
+975. Transition (n) - Geçiş, değişim
+976. Transmit (v) - İletmek, bulaştırmak
+977. Transparent (adj) - Şeffaf, saydam
+978. Transport (n/v) - Ulaşım; taşımak
+979. Tremendous (adj) - Muazzam, harika
+980. Trend (n) - Eğilim, akım, trend
+981. Trigger (n/v) - Tetik; tetiklemek, başlatmak
+982. Trivial (adj) - Önemsiz, önemsiz detay
+983. Ultimate (adj) - Nihai, son, en büyük
+984. Unanimous (adj) - Oy birliğiyle, hemfikir
+985. Undergo (v) - Geçirmek, maruz kalmak
+986. Underlying (adj) - Temelde yatan, örtük
+987. Undermine (v) - Zayıflatmak, baltalamak
+988. Undertake (v) - Üstlenmek, söz vermek
+989. Uniform (adj/n) - Tek tip, uniforma
+990. Unique (adj) - Eşsiz, kendine özgü
+991. Utilize (v) - Faydalanmak, kullanmak
+992. Utter (adj/v) - Mutlak, tam; dile getirmek
+993. Valid (adj) - Geçerli, mantıklı
+994. Value (n/v) - Değer; değer vermek
+995. Vary (v) - Çeşitlilik göstermek, değişmek
+996. Vast (adj) - Devasa, engin
+997. Vehicle (n) - Araç, vasıta
+998. Venture (n/v) - Girişim, riskli iş; göze almak
+999. Verify (v) - Doğrulamak, teyit etmek
+1000. Yield (n/v) - Ürün, verim; ürün vermek, boyun eğmek
