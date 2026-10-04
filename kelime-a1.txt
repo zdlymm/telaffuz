@@ -8,3 +8,143 @@ friend [frend] : arkadaş
 family [femıli] : aile
 school [skul] : okul
 time [taym] : zaman
+hello [helo] : merhaba
+yes [yes] : evet
+no [no] : hayır
+please [pliız] : lütfen
+thank you [thenk yu] : teşekkür ederim
+sorry [sori] : özür dilerim
+man [men] : adam
+woman [vumın] : kadın
+child [çayld] : çocuk
+mother [madır] : anne
+father [fadır] : baba
+brother [bradır] : erkek kardeş
+sister [sistır] : kız kardeş
+baby [beybi] : bebek
+name [neym] : isim
+day [dey] : gün
+night [nayt] : gece
+morning [morning] : sabah
+evening [iıvning] : akşam
+today [tudey] : bugün
+tomorrow [tumoro] : yarın
+yesterday [yestırdey] : dün
+week [viık] : hafta
+month [manth] : ay
+year [yiır] : yıl
+hour [awır] : saat
+minute [minit] : dakika
+food [fuud] : yiyecek
+bread [bred] : ekmek
+milk [milk] : süt
+tea [tii] : çay
+coffee [kofi] : kahve
+egg [eg] : yumurta
+cheese [çiız] : peynir
+meat [miıt] : et
+fish [fiş] : balık
+chicken [çikın] : tavuk
+rice [rays] : pirinç
+fruit [fruut] : meyve
+orange [orınc] : portakal
+sugar [şugır] : şeker
+salt [solt] : tuz
+breakfast [brekfıst] : kahvaltı
+lunch [lanç] : öğle yemeği
+dinner [dinır] : akşam yemeği
+car [kar] : araba
+bus [bas] : otobüs
+train [treyn] : tren
+street [striıt] : sokak
+city [siti] : şehir
+shop [şop] : dükkan
+money [mani] : para
+phone [fon] : telefon
+door [dor] : kapı
+window [vindo] : pencere
+room [ruum] : oda
+bed [bed] : yatak
+table [teybıl] : masa
+chair [çer] : sandalye
+kitchen [kiçın] : mutfak
+bathroom [bethruum] : banyo
+key [kii] : anahtar
+bag [beg] : çanta
+clothes [klodz] : kıyafetler
+shoe [şuu] : ayakkabı
+head [hed] : baş
+hand [hend] : el
+eye [ay] : göz
+face [feys] : yüz
+hair [her] : saç
+big [big] : büyük
+small [smol] : küçük
+good [gud] : iyi
+bad [bed] : kötü
+hot [hot] : sıcak
+cold [kold] : soğuk
+new [nyuu] : yeni
+old [old] : eski, yaşlı
+happy [hepi] : mutlu
+sad [sed] : üzgün
+tired [tayırd] : yorgun
+hungry [hangri] : aç
+beautiful [byuutifıl] : güzel
+easy [iızi] : kolay
+fast [fest] : hızlı
+slow [slo] : yavaş
+red [red] : kırmızı
+blue [bluu] : mavi
+green [griın] : yeşil
+white [vayt] : beyaz
+black [blek] : siyah
+one [van] : bir
+two [tuu] : iki
+three [thrii] : üç
+four [for] : dört
+five [fayv] : beş
+ten [ten] : on
+hundred [handrıd] : yüz (sayı)
+go [go] : gitmek
+come [kam] : gelmek
+eat [iıt] : yemek
+drink [drink] : içmek
+sleep [sliıp] : uyumak
+see [sii] : görmek
+look [luk] : bakmak
+want [vont] : istemek
+like [layk] : hoşlanmak, sevmek
+love [lav] : sevmek
+know [no] : bilmek
+think [think] : düşünmek
+say [sey] : söylemek
+speak [spiık] : konuşmak
+read [riıd] : okumak
+write [rayt] : yazmak
+open [opın] : açmak
+close [kloz] : kapatmak
+buy [bay] : satın almak
+give [giv] : vermek
+take [teyk] : almak
+make [meyk] : yapmak
+work [vörk] : çalışmak
+play [pley] : oynamak
+help [help] : yardım etmek
+wait [veyt] : beklemek
+walk [vok] : yürümek
+run [ran] : koşmak
+sit [sit] : oturmak
+stand [stend] : ayakta durmak
+listen [lisın] : dinlemek
+here [hiır] : burada
+there [der] : orada
+now [naw] : şimdi
+always [olveyz] : her zaman
+never [nevır] : asla
+very [veri] : çok
+sun [san] : güneş
+rain [reyn] : yağmur
+weather [vedır] : hava durumu
+doctor [doktır] : doktor
+teacher [tiıçır] : öğretmen

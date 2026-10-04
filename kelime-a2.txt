@@ -8,3 +8,143 @@ explain [ikspleyn] : açıklamak
 future [fyuıçır] : gelecek
 journey [cörni] : yolculuk
 improve [impruuv] : geliştirmek
+airport [erport] : havalimanı
+ticket [tikit] : bilet
+hotel [hotel] : otel
+holiday [holidey] : tatil
+passport [pesport] : pasaport
+luggage [lagic] : bagaj
+map [mep] : harita
+restaurant [restoront] : restoran
+menu [menyu] : menü
+bill [bil] : hesap, fatura
+price [prays] : fiyat
+expensive [ikspensiv] : pahalı
+market [markit] : pazar, market
+pharmacy [farmısi] : eczane
+hospital [hospitıl] : hastane
+medicine [medsın] : ilaç
+headache [hedeyk] : baş ağrısı
+healthy [helthi] : sağlıklı
+ill [il] : hasta
+appointment [ıpoyntmınt] : randevu
+neighbour [neybır] : komşu
+guest [gest] : misafir
+invitation [inviteyşın] : davet
+birthday [börthdey] : doğum günü
+wedding [veding] : düğün
+gift [gift] : hediye
+party [parti] : parti
+job [cob] : iş
+office [ofis] : ofis
+meeting [miıting] : toplantı
+salary [selıri] : maaş
+boss [bos] : patron
+colleague [koliıg] : iş arkadaşı
+customer [kastımır] : müşteri
+email [iımeyl] : e-posta
+message [mesic] : mesaj
+internet [intırnet] : internet
+computer [kımpyuutır] : bilgisayar
+password [pesvörd] : şifre
+weekend [viıkend] : hafta sonu
+early [öörli] : erken
+late [leyt] : geç
+soon [suun] : yakında
+already [olredi] : zaten
+usually [yuujuıli] : genellikle
+sometimes [samtaymz] : bazen
+often [ofın] : sık sık
+again [ıgen] : tekrar
+together [tıgedır] : birlikte
+alone [ılon] : yalnız
+quiet [kvayıt] : sessiz
+noisy [noyzi] : gürültülü
+busy [bizi] : meşgul
+free [frii] : boş, ücretsiz
+important [importınt] : önemli
+different [difrınt] : farklı
+same [seym] : aynı
+possible [posıbıl] : mümkün
+ready [redi] : hazır
+careful [kerfıl] : dikkatli
+polite [pılayt] : kibar
+friendly [frendli] : cana yakın
+angry [engri] : kızgın
+afraid [ıfreyd] : korkmuş
+worried [varid] : endişeli
+surprised [sırprayzd] : şaşırmış
+bored [bord] : sıkılmış
+excited [iksaytid] : heyecanlı
+comfortable [kamftıbıl] : rahat
+dirty [dörti] : kirli
+clean [kliın] : temiz
+empty [emti] : boş
+full [ful] : dolu
+heavy [hevi] : ağır
+light [layt] : hafif, ışık
+borrow [boro] : ödünç almak
+lend [lend] : ödünç vermek
+bring [bring] : getirmek
+carry [keri] : taşımak
+change [çeync] : değiştirmek
+choose [çuuz] : seçmek
+forget [fırget] : unutmak
+remember [rimembır] : hatırlamak
+lose [luuz] : kaybetmek
+find [faynd] : bulmak
+send [send] : göndermek
+receive [risiıv] : teslim almak
+pay [pey] : ödemek
+spend [spend] : harcamak
+save [seyv] : biriktirmek, kurtarmak
+travel [trevıl] : seyahat etmek
+arrive [ırayv] : varmak
+leave [liıv] : ayrılmak
+visit [vizit] : ziyaret etmek
+invite [invayt] : davet etmek
+agree [ıgrii] : aynı fikirde olmak
+answer [ensır] : cevaplamak
+ask [esk] : sormak
+hope [hop] : ummak
+worry [vari] : endişelenmek
+feel [fiıl] : hissetmek
+enjoy [incoy] : keyif almak
+prefer [priför] : tercih etmek
+practise [prektis] : pratik yapmak
+learn [löörn] : öğrenmek
+understand [andırstend] : anlamak
+repeat [ripiıt] : tekrarlamak
+cook [kuk] : yemek pişirmek
+wash [voş] : yıkamak
+tidy [taydi] : toplamak, düzenlemek
+rent [rent] : kiralamak
+move [muuv] : taşınmak, hareket etmek
+build [bild] : inşa etmek
+break [breyk] : kırmak
+fix [fiks] : tamir etmek
+fall [fol] : düşmek
+grow [gro] : büyümek
+hurry [höri] : acele etmek
+season [siızın] : mevsim
+summer [samır] : yaz
+winter [vintır] : kış
+spring [spring] : ilkbahar
+autumn [otım] : sonbahar
+snow [sno] : kar
+wind [vind] : rüzgar
+cloud [klawd] : bulut
+river [rivır] : nehir
+sea [sii] : deniz
+mountain [mawntın] : dağ
+village [vilic] : köy
+bridge [bric] : köprü
+corner [kornır] : köşe
+traffic [trefik] : trafik
+accident [eksidınt] : kaza
+problem [problım] : sorun
+question [kvesçın] : soru
+idea [aydiıı] : fikir
+news [nyuuz] : haber
+story [stori] : hikaye
+hobby [hobi] : hobi

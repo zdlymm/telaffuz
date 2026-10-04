@@ -3,3 +3,73 @@ I live in a big house. [ay liv in e big haws] : Büyük bir evde yaşıyorum.
 She reads a book. [şii riıdz e buk] : O bir kitap okur.
 We go to school. [vii go tu skul] : Okula gidiyoruz.
 I have a good friend. [ay hev e gud frend] : İyi bir arkadaşım var.
+Good morning! [gud morning] : Günaydın!
+How are you? [haw ar yu] : Nasılsın?
+I am fine, thank you. [ay em fayn, thenk yu] : İyiyim, teşekkür ederim.
+What is your name? [vot iz yor neym] : Adın ne?
+My name is Ali. [may neym iz ali] : Benim adım Ali.
+Nice to meet you. [nays tu miıt yu] : Tanıştığıma memnun oldum.
+Where are you from? [ver ar yu from] : Nerelisin?
+I am from Turkey. [ay em from törki] : Türkiye'denim.
+How old are you? [haw old ar yu] : Kaç yaşındasın?
+I am twenty years old. [ay em tventi yiırz old] : Yirmi yaşındayım.
+Where do you live? [ver du yu liv] : Nerede yaşıyorsun?
+I live in Istanbul. [ay liv in istenbul] : İstanbul'da yaşıyorum.
+What time is it? [vot taym iz it] : Saat kaç?
+It is three o'clock. [it iz thrii ıklok] : Saat üç.
+I am hungry. [ay em hangri] : Açım.
+I am thirsty. [ay em thörsti] : Susadım.
+I am tired. [ay em tayırd] : Yorgunum.
+I don't understand. [ay dont andırstend] : Anlamıyorum.
+Can you help me? [ken yu help mi] : Bana yardım edebilir misin?
+Please speak slowly. [pliız spiık sloli] : Lütfen yavaş konuş.
+Where is the bathroom? [ver iz dı bethruum] : Tuvalet nerede?
+How much is this? [haw maç iz dis] : Bu ne kadar?
+I want a cup of tea. [ay vont e kap ov tii] : Bir fincan çay istiyorum.
+Water, please. [votır, pliız] : Su lütfen.
+I like coffee. [ay layk kofi] : Kahveyi severim.
+I don't like milk. [ay dont layk milk] : Sütü sevmem.
+The food is delicious. [dı fuud iz dilişıs] : Yemek çok lezzetli.
+I eat breakfast at eight. [ay iıt brekfıst et eyt] : Sekizde kahvaltı yaparım.
+I get up early. [ay get ap öörli] : Erken kalkarım.
+I go to bed at eleven. [ay go tu bed et ilevın] : On birde yatarım.
+I go to work by bus. [ay go tu vörk bay bas] : İşe otobüsle giderim.
+My father is a doctor. [may fadır iz e doktır] : Babam doktordur.
+My mother works at home. [may madır vörks et hom] : Annem evde çalışır.
+I have two brothers. [ay hev tuu bradırz] : İki erkek kardeşim var.
+This is my sister. [dis iz may sistır] : Bu benim kız kardeşim.
+He is my best friend. [hii iz may best frend] : O benim en iyi arkadaşım.
+It is very hot today. [it iz veri hot tudey] : Bugün hava çok sıcak.
+It is raining. [it iz reyning] : Yağmur yağıyor.
+The weather is nice. [dı vedır iz nays] : Hava güzel.
+I love my family. [ay lav may femıli] : Ailemi seviyorum.
+Let's go! [lets go] : Hadi gidelim!
+See you tomorrow. [sii yu tumoro] : Yarın görüşürüz.
+Have a nice day! [hev e nays dey] : İyi günler!
+Good night. [gud nayt] : İyi geceler.
+Excuse me. [ikskyuuz mi] : Affedersiniz.
+I am sorry. [ay em sori] : Özür dilerim.
+No problem. [no problım] : Sorun değil.
+Open the door, please. [opın dı dor, pliız] : Kapıyı açın lütfen.
+Close the window. [kloz dı vindo] : Pencereyi kapat.
+Sit down, please. [sit dawn, pliız] : Oturun lütfen.
+I can swim. [ay ken svim] : Yüzebilirim.
+I can't find my keys. [ay kent faynd may kiız] : Anahtarlarımı bulamıyorum.
+Where is my phone? [ver iz may fon] : Telefonum nerede?
+The shop is open. [dı şop iz opın] : Dükkan açık.
+The bus is late. [dı bas iz leyt] : Otobüs gecikti.
+I am at home. [ay em et hom] : Evdeyim.
+She is a teacher. [şii iz e tiıçır] : O bir öğretmen.
+They are students. [dey ar stuudınts] : Onlar öğrenci.
+We are happy. [vii ar hepi] : Biz mutluyuz.
+Do you speak English? [du yu spiık ingliş] : İngilizce konuşuyor musun?
+I speak a little English. [ay spiık e litıl ingliş] : Biraz İngilizce konuşurum.
+What is this? [vot iz dis] : Bu ne?
+I need help. [ay niıd help] : Yardıma ihtiyacım var.
+Call me later. [kol mi leytır] : Beni sonra ara.
+I am busy now. [ay em bizi naw] : Şu an meşgulüm.
+The children are playing. [dı çildrın ar pleying] : Çocuklar oynuyor.
+I watch TV in the evening. [ay voç tii vii in di iıvning] : Akşamları televizyon izlerim.
+My favourite colour is blue. [may feyvırit kalır iz bluu] : En sevdiğim renk mavi.
+Thank you very much. [thenk yu veri maç] : Çok teşekkür ederim.
+I am a student. [ay em e stuudınt] : Ben bir öğrenciyim.

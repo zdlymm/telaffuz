@@ -3,3 +3,73 @@ He earns money by working hard. [hii öörnz mani bay vörking hard] : Çok çal
 I decided to learn English. [ay disaydid tu löörn ingliş] : İngilizce öğrenmeye karar verdim.
 It is dangerous to swim here. [it iz deyncırıs tu svim hiır] : Burada yüzmek tehlikelidir.
 Can you explain this rule? [ken yu ikspleyn dis ruul] : Bu kuralı açıklayabilir misin?
+Could you tell me the way to the station? [kud yu tel mi dı vey tu dı steyşın] : İstasyona giden yolu söyler misiniz?
+How long does it take? [haw long daz it teyk] : Ne kadar sürer?
+I would like to book a table for two. [ay vud layk tu buk e teybıl for tuu] : İki kişilik bir masa ayırtmak istiyorum.
+Can I have the bill, please? [ken ay hev dı bil, pliız] : Hesabı alabilir miyim lütfen?
+Do you take credit cards? [du yu teyk kredit kardz] : Kredi kartı kabul ediyor musunuz?
+Is there a pharmacy near here? [iz der e farmısi niır hiır] : Yakınlarda eczane var mı?
+I have a headache. [ay hev e hedeyk] : Başım ağrıyor.
+I need to see a doctor. [ay niıd tu sii e doktır] : Doktora görünmem gerekiyor.
+I'd like to make an appointment. [ayd layk tu meyk en ıpoyntmınt] : Randevu almak istiyorum.
+What do you do for a living? [vot du yu du for e living] : Ne iş yapıyorsun?
+I work in an office. [ay vörk in en ofis] : Bir ofiste çalışıyorum.
+I have been learning English for two years. [ay hev bin löörning ingliş for tuu yiırz] : İki yıldır İngilizce öğreniyorum.
+What are you doing this weekend? [vot ar yu duuing dis viıkend] : Bu hafta sonu ne yapıyorsun?
+Would you like to come with us? [vud yu layk tu kam vid as] : Bizimle gelmek ister misin?
+I'm sorry, I'm busy tonight. [aym sori, aym bizi tunayt] : Üzgünüm, bu akşam meşgulüm.
+Let's meet in front of the cinema. [lets miıt in frant ov dı sinımı] : Sinemanın önünde buluşalım.
+I'm looking forward to seeing you. [aym luking forvırd tu siıing yu] : Seni görmeyi dört gözle bekliyorum.
+How was your day? [haw voz yor dey] : Günün nasıldı?
+It was a long day. [it voz e long dey] : Uzun bir gündü.
+I forgot my password. [ay fırgot may pesvörd] : Şifremi unuttum.
+My phone battery is dead. [may fon betıri iz ded] : Telefonumun şarjı bitti.
+Can I borrow your pen? [ken ay boro yor pen] : Kalemini ödünç alabilir miyim?
+I'm going to travel to London next month. [aym going tu trevıl tu landın nekst manth] : Gelecek ay Londra'ya seyahat edeceğim.
+Our flight was delayed. [awır flayt voz dileyd] : Uçuşumuz rötar yaptı.
+I lost my luggage at the airport. [ay lost may lagic et di erport] : Havalimanında bagajımı kaybettim.
+How much does a ticket cost? [haw maç daz e tikit kost] : Bir bilet ne kadar?
+It's too expensive for me. [its tuu ikspensiv for mi] : Benim için çok pahalı.
+Do you have a smaller size? [du yu hev e smolır sayz] : Daha küçük bedeniniz var mı?
+Can I try it on? [ken ay tray it on] : Deneyebilir miyim?
+I'm just looking, thanks. [aym cast luking, thenks] : Sadece bakıyorum, teşekkürler.
+What's the weather like today? [vots dı vedır layk tudey] : Bugün hava nasıl?
+It's going to rain tomorrow. [its going tu reyn tumoro] : Yarın yağmur yağacak.
+Don't forget to take an umbrella. [dont fırget tu teyk en ambrelı] : Şemsiye almayı unutma.
+I usually get up at seven. [ay yuujuıli get ap et sevın] : Genellikle yedide kalkarım.
+I sometimes cook dinner for my family. [ay samtaymz kuk dinır for may femıli] : Bazen ailem için akşam yemeği pişiririm.
+She is better at math than me. [şii iz betır et meth den mi] : Matematikte benden daha iyi.
+This is the best restaurant in town. [dis iz dı best restoront in tawn] : Bu, şehirdeki en iyi restoran.
+I have never been to Paris. [ay hev nevır bin tu peris] : Hiç Paris'e gitmedim.
+Have you ever eaten sushi? [hev yu evır iıtın suuşi] : Hiç suşi yedin mi?
+I think you are right. [ay think yu ar rayt] : Bence haklısın.
+I don't agree with you. [ay dont ıgrii vid yu] : Sana katılmıyorum.
+What do you mean? [vot du yu miın] : Ne demek istiyorsun?
+Could you speak more slowly? [kud yu spiık mor sloli] : Daha yavaş konuşabilir misiniz?
+How do you spell that? [haw du yu spel det] : Onu nasıl yazıyorsunuz?
+I'm afraid I can't come. [aym ıfreyd ay kent kam] : Korkarım gelemeyeceğim.
+Take care of yourself. [teyk ker ov yorself] : Kendine iyi bak.
+Congratulations on your new job! [kıngreçuleyşınz on yor nyuu cob] : Yeni işin hayırlı olsun!
+Happy birthday! [hepi börthdey] : Doğum günün kutlu olsun!
+I'm sorry to hear that. [aym sori tu hiır det] : Bunu duyduğuma üzüldüm.
+Don't worry about it. [dont vari ıbawt it] : Bunun için endişelenme.
+It doesn't matter. [it dazınt metır] : Önemli değil.
+I'm not sure. [aym not şuır] : Emin değilim.
+That sounds great! [det sawndz greyt] : Kulağa harika geliyor!
+I'll call you back later. [ayl kol yu bek leytır] : Seni sonra geri ararım.
+Could you send me an email? [kud yu send mi en iımeyl] : Bana bir e-posta gönderebilir misin?
+We're out of milk. [vir awt ov milk] : Sütümüz bitti.
+I need to go shopping. [ay niıd tu go şoping] : Alışverişe gitmem gerekiyor.
+The traffic is terrible today. [dı trefik iz terıbıl tudey] : Bugün trafik berbat.
+I missed the bus this morning. [ay mist dı bas dis morning] : Bu sabah otobüsü kaçırdım.
+Turn left at the corner. [törn left et dı kornır] : Köşeden sola dön.
+It's next to the bank. [its nekst tu dı benk] : Bankanın yanında.
+I'm staying at a hotel near the beach. [aym steying et e hotel niır dı biıç] : Plaja yakın bir otelde kalıyorum.
+How often do you go to the gym? [haw ofın du yu go tu dı cim] : Spor salonuna ne sıklıkla gidersin?
+I go jogging twice a week. [ay go coging tvays e viık] : Haftada iki kez koşuya giderim.
+I'm trying to eat healthy food. [aym traying tu iıt helthi fuud] : Sağlıklı beslenmeye çalışıyorum.
+My neighbours are very friendly. [may neybırz ar veri frendli] : Komşularım çok cana yakın.
+I've just finished my homework. [ayv cast finişt may homvörk] : Ödevimi yeni bitirdim.
+Can you turn down the music? [ken yu törn dawn dı myuuzik] : Müziğin sesini kısabilir misin?
+I'm really excited about the trip. [aym riıli iksaytid ıbawt dı trip] : Gezi için gerçekten heyecanlıyım.
+What would you like to drink? [vot vud yu layk tu drink] : Ne içmek istersiniz?

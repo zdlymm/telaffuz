@@ -8,3 +8,143 @@ environment [envayrınmınt] : çevre
 frequently [friıkvıntli] : sıklıkla
 predict [pridikt] : tahmin etmek
 require [rikvayır] : gerektirmek
+accept [ıksept] : kabul etmek
+admit [ıdmit] : itiraf etmek
+afford [ıford] : (parası) yetmek
+apply [ıplay] : başvurmak
+argue [argyuu] : tartışmak
+arrange [ıreync] : ayarlamak, düzenlemek
+avoid [ıvoyd] : kaçınmak
+complain [kımpleyn] : şikayet etmek
+confirm [kınförm] : onaylamak
+consider [kınsidır] : göz önünde bulundurmak
+convince [kınvins] : ikna etmek
+deal with [diıl vid] : ilgilenmek, başa çıkmak
+deliver [dilivır] : teslim etmek
+depend [dipend] : bağlı olmak
+describe [diskrayb] : tarif etmek
+deserve [dizörv] : hak etmek
+develop [divelıp] : geliştirmek
+encourage [inköric] : cesaretlendirmek
+expect [ikspekt] : beklemek, ummak
+experience [ikspiıriıns] : deneyim
+fail [feyl] : başarısız olmak
+handle [hendıl] : halletmek
+include [inkluud] : içermek
+increase [inkriıs] : artırmak
+reduce [ridyuus] : azaltmak
+influence [influıns] : etkilemek, etki
+involve [involv] : kapsamak, dahil etmek
+manage [menic] : yönetmek, becermek
+mention [menşın] : bahsetmek
+notice [notis] : fark etmek
+offer [ofır] : teklif etmek
+organize [orgınayz] : düzenlemek, organize etmek
+prepare [priper] : hazırlamak
+pretend [pritend] : -mış gibi yapmak
+prevent [privent] : önlemek
+promise [promis] : söz vermek
+provide [prıvayd] : sağlamak
+realize [riılayz] : farkına varmak
+recommend [rekımend] : tavsiye etmek
+refuse [rifyuuz] : reddetmek
+regret [rigret] : pişman olmak
+replace [ripleys] : yerine koymak
+respect [rispekt] : saygı duymak
+share [şer] : paylaşmak
+solve [solv] : çözmek
+succeed [sıksiıd] : başarılı olmak
+suggest [sıcest] : önermek
+support [sıport] : desteklemek
+suppose [sıpoz] : sanmak, varsaymak
+trust [trast] : güvenmek
+ability [ıbiliti] : yetenek
+advantage [ıdventic] : avantaj
+disadvantage [disıdventic] : dezavantaj
+attitude [etituud] : tutum
+behaviour [biheyvyır] : davranış
+career [kıriır] : kariyer
+confidence [konfidıns] : özgüven
+decision [disijın] : karar
+effort [efırt] : çaba
+goal [gol] : hedef
+habit [hebit] : alışkanlık
+knowledge [nolic] : bilgi
+skill [skil] : beceri
+success [sıkses] : başarı
+mistake [misteyk] : hata
+reason [riızın] : sebep
+result [rizalt] : sonuç
+situation [siçueyşın] : durum
+solution [sıluuşın] : çözüm
+condition [kındişın] : koşul
+relationship [rileyşınşip] : ilişki
+responsibility [risponsıbiliti] : sorumluluk
+society [sısayıti] : toplum
+culture [kalçır] : kültür
+education [ecukeyşın] : eğitim
+health [helth] : sağlık
+pollution [pıluuşın] : kirlilik
+government [gavırnmınt] : hükümet
+public [pablik] : halk, kamu
+private [prayvıt] : özel
+average [evıric] : ortalama
+amount [ımawnt] : miktar
+quality [kvolıti] : kalite
+distance [distıns] : mesafe
+advertisement [edvırtayzmınt] : reklam
+equipment [ikvipmınt] : ekipman
+instructions [instrakşınz] : talimatlar
+purpose [pörpıs] : amaç
+emergency [imörcınsi] : acil durum
+opinion [ıpinyın] : görüş
+available [ıveylıbıl] : mevcut, müsait
+obvious [obviıs] : açık, belli
+necessary [nesıseri] : gerekli
+suitable [suutıbıl] : uygun
+familiar [fımilyır] : tanıdık
+serious [siıriıs] : ciddi
+strange [streync] : garip
+typical [tipikıl] : tipik
+recent [riısınt] : yakın zamanda olan
+confident [konfidınt] : kendinden emin
+curious [kyuriıs] : meraklı
+generous [cenırıs] : cömert
+honest [onist] : dürüst
+patient [peyşınt] : sabırlı
+reliable [rilayıbıl] : güvenilir
+responsible [risponsıbıl] : sorumlu
+embarrassed [imberıst] : utanmış
+disappointed [disıpoyntid] : hayal kırıklığına uğramış
+annoyed [ınoyd] : sinirlenmiş
+relaxed [rilekst] : rahatlamış
+grateful [greytfıl] : minnettar
+anxious [enkşıs] : kaygılı
+completely [kımpliıtli] : tamamen
+especially [ispeşıli] : özellikle
+probably [probıbli] : muhtemelen
+actually [ekçuıli] : aslında
+eventually [iventçuıli] : sonunda
+immediately [imiıdiıtli] : hemen
+recently [riısıntli] : son zamanlarda
+rarely [rerli] : nadiren
+although [oldo] : -e rağmen
+however [hawevır] : ancak
+instead [insted] : yerine
+unless [ınles] : -medikçe
+whether [vedır] : -ip -mediği
+apartment [ıpartmınt] : daire
+furniture [förniçır] : mobilya
+neighbourhood [neybırhud] : mahalle
+schedule [skecuul] : program, takvim
+deadline [dedlayn] : son teslim tarihi
+interview [intırvyuu] : mülakat
+promotion [prımoşın] : terfi
+receipt [risiıt] : fiş, makbuz
+refund [riıfand] : para iadesi
+discount [diskawnt] : indirim
+delay [diley] : gecikme
+destination [destineyşın] : varış noktası
+abroad [ıbrod] : yurt dışı
+symptom [simptım] : belirti
+prescription [priskripşın] : reçete

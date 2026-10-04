@@ -8,3 +8,143 @@ inevitable [inevitıbıl] : kaçınılmaz
 substantial [sebstenşıl] : önemli, büyük miktarda
 advocate [edvokeyt] : savunmak
 ambiguous [embigyuıs] : belirsiz, muğlak
+acknowledge [eknolic] : kabul etmek
+adapt [ıdept] : uyum sağlamak
+anticipate [entisipeyt] : öngörmek
+assess [ıses] : değerlendirmek
+assume [ısuum] : varsaymak
+attain [ıteyn] : ulaşmak, elde etmek
+clarify [klerifay] : netleştirmek
+collaborate [kılebıreyt] : iş birliği yapmak
+commit [kımit] : kendini adamak
+compensate [kompınseyt] : telafi etmek
+compromise [komprımayz] : uzlaşma
+concentrate [konsıntreyt] : odaklanmak
+contribute [kıntribyuut] : katkıda bulunmak
+convey [kınvey] : iletmek
+cope [kop] : başa çıkmak
+criticize [kritisayz] : eleştirmek
+demonstrate [demınstreyt] : göstermek, kanıtlamak
+distinguish [distingviş] : ayırt etmek
+emphasize [emfısayz] : vurgulamak
+enhance [inhens] : geliştirmek, artırmak
+ensure [inşuır] : sağlamak, garantilemek
+estimate [estimeyt] : tahmin etmek
+establish [istebliş] : kurmak
+exaggerate [igzecıreyt] : abartmak
+highlight [haylayt] : öne çıkarmak
+hesitate [heziteyt] : tereddüt etmek
+imply [implay] : ima etmek
+interpret [intörprit] : yorumlamak
+justify [castifay] : haklı çıkarmak
+maintain [meynteyn] : sürdürmek
+negotiate [nigoşieyt] : müzakere etmek
+obtain [ıbteyn] : elde etmek
+overcome [ovırkam] : üstesinden gelmek
+participate [partisipeyt] : katılmak
+perceive [pırsiıv] : algılamak
+postpone [postpon] : ertelemek
+prioritize [prayorıtayz] : önceliklendirmek
+pursue [pırsuu] : peşinden gitmek
+reinforce [riinfors] : güçlendirmek
+resolve [rizolv] : çözmek
+restrict [ristrikt] : kısıtlamak
+reveal [riviıl] : ortaya çıkarmak
+tackle [tekıl] : ele almak, uğraşmak
+undermine [andırmayn] : baltalamak
+withdraw [vidro] : geri çekmek
+acquire [ıkvayır] : edinmek
+allocate [elıkeyt] : tahsis etmek
+consequence [konsikvıns] : sonuç
+commitment [kımitmınt] : bağlılık, taahhüt
+controversy [kontrıvörsi] : tartışma
+criteria [kraytiıriı] : kriterler
+dilemma [dilemı] : ikilem
+emphasis [emfısis] : vurgu
+expertise [ekspörtiız] : uzmanlık
+feedback [fiıdbek] : geri bildirim
+framework [freymvörk] : çerçeve
+implication [implikeyşın] : olası sonuç, ima
+initiative [inişıtiv] : girişim
+insight [insayt] : içgörü
+integrity [integrıti] : dürüstlük, bütünlük
+motivation [motiveyşın] : motivasyon
+perspective [pırspektiv] : bakış açısı
+phenomenon [finominon] : olgu
+priority [prayorıti] : öncelik
+prospect [prospekt] : olasılık, beklenti
+reputation [repyuteyşın] : itibar
+requirement [rikvayırmınt] : gereklilik
+strategy [stretıci] : strateji
+tendency [tendınsi] : eğilim
+threat [thret] : tehdit
+burden [bördın] : yük
+assumption [ısampşın] : varsayım
+awareness [ıvernıs] : farkındalık
+bias [bayıs] : önyargı
+circumstances [sörkımstensiz] : koşullar
+accurate [ekyırıt] : doğru, kesin
+adequate [edikvıt] : yeterli
+apparent [ıperınt] : görünür, belli
+appropriate [ıpropriıt] : uygun
+considerable [kınsidırıbıl] : hatırı sayılır
+consistent [kınsistınt] : tutarlı
+crucial [kruuşıl] : çok önemli
+elaborate [ilebırıt] : ayrıntılı
+essential [isenşıl] : temel, gerekli
+explicit [iksplisit] : açık, net
+feasible [fiızıbıl] : uygulanabilir
+flexible [fleksıbıl] : esnek
+genuine [cenyuin] : gerçek, samimi
+inadequate [inedikvıt] : yetersiz
+innovative [inıveytiv] : yenilikçi
+legitimate [licitimıt] : meşru
+mutual [myuuçuıl] : karşılıklı
+notable [notıbıl] : dikkate değer
+overwhelming [ovırvelming] : ezici, bunaltıcı
+persistent [pırsistınt] : ısrarcı
+plausible [plozıbıl] : akla yatkın
+practical [prektikıl] : pratik
+relevant [relıvınt] : ilgili
+reluctant [rilaktınt] : isteksiz
+sophisticated [sıfistikeytid] : gelişmiş, sofistike
+straightforward [streytforvırd] : basit, anlaşılır
+subtle [satıl] : ince, belli belirsiz
+sufficient [sıfişınt] : yeterli
+temporary [tempıreri] : geçici
+thorough [thöro] : titiz, eksiksiz
+vague [veyg] : belirsiz, bulanık
+vulnerable [valnırıbıl] : savunmasız
+widespread [vaydspred] : yaygın
+worthwhile [vörthvayl] : zahmete değer
+accordingly [ıkordingli] : buna göre
+approximately [ıproksimıtli] : yaklaşık olarak
+consequently [konsikvıntli] : sonuç olarak
+deliberately [dilibırıtli] : kasıtlı olarak
+furthermore [fördırmor] : ayrıca
+merely [miırli] : sadece
+nevertheless [nevırdıles] : yine de
+predominantly [pridominıntli] : ağırlıklı olarak
+presumably [prizuumıbli] : muhtemelen
+relatively [relıtivli] : nispeten
+thereby [derbay] : böylece
+whereas [verez] : oysa
+despite [dispayt] : -e rağmen
+hence [hens] : bu nedenle
+likewise [laykvayz] : aynı şekilde
+debt [det] : borç
+income [inkam] : gelir
+investment [investmınt] : yatırım
+mortgage [morgic] : konut kredisi
+revenue [revınuu] : hasılat
+negotiation [nigoşieyşın] : müzakere
+contract [kontrekt] : sözleşme
+workload [vörklod] : iş yükü
+burnout [börnawt] : tükenmişlik
+well-being [vel biıing] : iyi olma hali
+sustainable [sısteynıbıl] : sürdürülebilir
+inequality [inikvolıti] : eşitsizlik
+diversity [dıvörsıti] : çeşitlilik
+privacy [prayvısi] : mahremiyet
+regulation [regyıleyşın] : düzenleme, yönetmelik
+infrastructure [infrıstrakçır] : altyapı
